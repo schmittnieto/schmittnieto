@@ -16,6 +16,7 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My Work Environment: Tools and Customizations](https://schmitt-nieto.com/blog/my-work-environment-tools/)
 - [Creating My Azure Journey Blog: A Step-by-Step Guide](https://schmitt-nieto.com/blog/creating-my-azure-journey-blog/)
 - [Welcome to My Azure Journey](https://schmitt-nieto.com/blog/welcome-to-my-blog/)
 <!-- BLOG-POST-LIST:END -->
