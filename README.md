@@ -2,7 +2,7 @@
 🔭 I’m currently working on Azure Stack HCI, AKS Hybrid and Azure Virtual Desktop<br>👯 I’m looking to collaborate on Community Projects <br>🌱 I’m currently learning Best Practices on Biceps and Terraform<br>💬 Ask me about anything ralated to Azure<br>⚡ You can contact me in German, Spanish or English 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-schmitt-nieto) [![WebSite](https://img.shields.io/badge/Website-%230077B5.svg?logo=github-pages&logoColor=white)](https://schmittnieto.com) 
 
 # 💻 Tech Stack:
