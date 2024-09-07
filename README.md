@@ -14,7 +14,7 @@
 
 ---
 
-## Latest Blog Posts
+# Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [My Work Environment: Tools and Customizations](https://schmitt-nieto.com/blog/my-work-environment-tools/)
 - [Creating My Azure Journey Blog: A Step-by-Step Guide](https://schmitt-nieto.com/blog/creating-my-azure-journey-blog/)
@@ -22,7 +22,7 @@
 <!-- BLOG-POST-LIST:END -->
 <!-- Credits to Blog Updates on readme to: https://github.com/gautamkrishnar/blog-post-workflow -->
 ---
-## Certifications
+# Certifications
 
 As a part of my career in Azure I have carried out several certification, among them I would highlight the following:
 <div class="Certifications" style="text-align: center;">
