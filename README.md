@@ -24,7 +24,6 @@
 ---
 # Certifications
 
-As a part of my career in Azure I have carried out several certification, among them I would highlight the following:
 <div class="Certifications" style="text-align: center;">
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/CristianSchmittNieto-7357/DEC07C6846AF65A7?sharingId=24F0DC952D8EB05D" target="_blank">
     <img src="/assets/img/microsoft-certified-fundamentals-badge-AI.png" alt="Microsoft Certified: Azure AI Fundamentals" class="cert-image" style="width: 150px; height: 150px;"/>
