@@ -1,0 +1,16 @@
+name: Check for broken links
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  broken-link-checker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Cheking for broken Links
+        uses: JustinBeckwith/linkinator-action@main
+        with:
+          path: './README.md'
