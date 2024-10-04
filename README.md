@@ -16,11 +16,11 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Stack HCI: Demolab](https://schmitt-nieto.com/blog/azure-stack-hci-demolab/)
 - [Azure Stack HCI: Evolution, Use Cases, and Comparison with Other Solutions](https://schmitt-nieto.com/blog/azure-stack-hci-evolution-use-cases-comparison/)
 - [Chronicloud Series: A Journey through Azure Solutions](https://schmitt-nieto.com/blog/chronicloud-series/)
 - [My Work Environment: Tools and Customizations](https://schmitt-nieto.com/blog/my-work-environment-tools/)
 - [Creating My Azure Journey Blog: A Step-by-Step Guide](https://schmitt-nieto.com/blog/creating-my-azure-journey-blog/)
-- [Welcome to My Azure Journey](https://schmitt-nieto.com/blog/welcome-to-my-blog/)
 <!-- BLOG-POST-LIST:END -->
 <!-- Credits to Blog Updates on readme to: https://github.com/gautamkrishnar/blog-post-workflow -->
 ---
