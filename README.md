@@ -12,8 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SchmittNieto&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SchmittNieto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Azure Stack HCI: Day2 operations](https://schmitt-nieto.com/blog/azure-stack-hci-day2/)
@@ -23,7 +21,7 @@
 - [My Work Environment: Tools and Customizations](https://schmitt-nieto.com/blog/my-work-environment-tools/)
 <!-- BLOG-POST-LIST:END -->
 <!-- Credits to Blog Updates on readme to: https://github.com/gautamkrishnar/blog-post-workflow -->
----
+
 # Certifications
 
 | Badge | Certification |
@@ -35,7 +33,9 @@
 | <img src="/assets/img/microsoft-certified-expert-badge-DevOps.png" height="120" width="120"/> | [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/CristianSchmittNieto-7357/225ACCA9CD499B3C?sharingId=24F0DC952D8EB05D) |
 | <img src="/assets/img/microsoft-certified-expert-badge-expert.png" height="120" width="120"/> | [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/CristianSchmittNieto-7357/B8D453727AF2E0FF?sharingId=24F0DC952D8EB05D) |
 
----
-[![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
+# 😼 Latest GitHub activities
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- LATESTACTIVITYGITHUB:START -->
+<!-- LATESTACTIVITYGITHUB:END -->
+
+[![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
