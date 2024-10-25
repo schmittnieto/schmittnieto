@@ -36,11 +36,11 @@
 # 😼 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/6488e837e7...94215311c9)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/88eccab63d...340d0f6d47)
 - [schmittnieto starred j0eyv/ConditionalAccessBaseline](https://github.com/j0eyv/ConditionalAccessBaseline)
 - [schmittnieto starred defendthehoneypot/NamingConvention](https://github.com/defendthehoneypot/NamingConvention)
 - [schmittnieto starred Cloud-Architekt/AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/bab16959ce...97642c601c)
 - [schmittnieto commented on pull request Windows365Management/PSCloudPC#59](https://github.com/Windows365Management/PSCloudPC/pull/59#issuecomment-2414796260)
 - [schmittnieto commented on issue Windows365Management/PSCloudPC#58](https://github.com/Windows365Management/PSCloudPC/issues/58#issuecomment-2414235364)
 - [schmittnieto closed an issue in Windows365Management/PSCloudPC](https://github.com/Windows365Management/PSCloudPC/issues/58)
@@ -49,7 +49,6 @@
 - [schmittnieto commented on issue MG-Cloudflow/Intune-Toolkit#24](https://github.com/MG-Cloudflow/Intune-Toolkit/issues/24#issuecomment-2405125244)
 - [schmittnieto closed an issue in MG-Cloudflow/Intune-Toolkit](https://github.com/MG-Cloudflow/Intune-Toolkit/issues/24)
 - [schmittnieto opened an issue in MG-Cloudflow/Intune-Toolkit](https://github.com/MG-Cloudflow/Intune-Toolkit/issues/24)
-- [schmittnieto pushed to main in schmittnieto/AKSHybrid](https://github.com/schmittnieto/AKSHybrid/compare/19207120e1...047dc39b55)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
