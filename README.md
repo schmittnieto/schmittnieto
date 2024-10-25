@@ -36,7 +36,7 @@
 # 😼 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/6488e837e7...94215311c9)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/86c7627a79...7bf7022371)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/88eccab63d...340d0f6d47)
 - [schmittnieto starred j0eyv/ConditionalAccessBaseline](https://github.com/j0eyv/ConditionalAccessBaseline)
 - [schmittnieto starred defendthehoneypot/NamingConvention](https://github.com/defendthehoneypot/NamingConvention)
@@ -48,7 +48,6 @@
 - [schmittnieto starred Windows365Management/PSCloudPC](https://github.com/Windows365Management/PSCloudPC)
 - [schmittnieto commented on issue MG-Cloudflow/Intune-Toolkit#24](https://github.com/MG-Cloudflow/Intune-Toolkit/issues/24#issuecomment-2405125244)
 - [schmittnieto closed an issue in MG-Cloudflow/Intune-Toolkit](https://github.com/MG-Cloudflow/Intune-Toolkit/issues/24)
-- [schmittnieto opened an issue in MG-Cloudflow/Intune-Toolkit](https://github.com/MG-Cloudflow/Intune-Toolkit/issues/24)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
