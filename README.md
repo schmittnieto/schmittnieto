@@ -36,14 +36,15 @@
 # 😼 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto created a tag v0.0.1-alpha in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/tree/v0.0.1-alpha)
+- [schmittnieto released v0.0.1-alpha at schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/releases/tag/v0.0.1-alpha)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/004838d863...84967e96f0)
+- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/2f897d6953...37ef1c4ea7)
 - [schmittnieto starred michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/cdd62457fc...004838d863)
 - [schmittnieto starred merill/idPowerToys](https://github.com/merill/idPowerToys)
 - [schmittnieto starred microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/88eccab63d...340d0f6d47)
 - [schmittnieto starred j0eyv/ConditionalAccessBaseline](https://github.com/j0eyv/ConditionalAccessBaseline)
-- [schmittnieto starred defendthehoneypot/NamingConvention](https://github.com/defendthehoneypot/NamingConvention)
-- [schmittnieto starred Cloud-Architekt/AzureAD-Attack-Defense](https://github.com/Cloud-Architekt/AzureAD-Attack-Defense)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
