@@ -36,6 +36,7 @@
 # 😼 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/54aca91cb4...4363fed0cd)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/84967e96f0...8eceb08ffa)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/37ef1c4ea7...5f8f412b20)
 - [schmittnieto created a tag v0.0.1-alpha in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/tree/v0.0.1-alpha)
@@ -43,7 +44,6 @@
 - [schmittnieto starred michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager)
 - [schmittnieto starred merill/idPowerToys](https://github.com/merill/idPowerToys)
 - [schmittnieto starred microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/88eccab63d...340d0f6d47)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
