@@ -36,6 +36,7 @@
 # 😼 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred SecurityBagel/CMMC-Bagel-Lite](https://github.com/SecurityBagel/CMMC-Bagel-Lite)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/54aca91cb4...4363fed0cd)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/84967e96f0...8eceb08ffa)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/37ef1c4ea7...5f8f412b20)
