@@ -36,10 +36,10 @@
 # 😼 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/789c40f155...18d7b0a841)
+- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/5f8f412b20...bc250f9a75)
 - [schmittnieto starred SecurityBagel/CMMC-Bagel-Lite](https://github.com/SecurityBagel/CMMC-Bagel-Lite)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/54aca91cb4...4363fed0cd)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/84967e96f0...8eceb08ffa)
-- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/37ef1c4ea7...5f8f412b20)
 - [schmittnieto created a tag v0.0.1-alpha in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/tree/v0.0.1-alpha)
 - [schmittnieto released v0.0.1-alpha at schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/releases/tag/v0.0.1-alpha)
 - [schmittnieto starred michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager)
