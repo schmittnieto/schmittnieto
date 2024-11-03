@@ -38,7 +38,7 @@
 <!-- LATESTACTIVITYGITHUB:START -->
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b56e3f3219...7ad9cbb71c)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/5f8f412b20...bc250f9a75)
-- [schmittnieto starred SecurityBagel/CMMC-Bagel-Lite](https://github.com/SecurityBagel/CMMC-Bagel-Lite)
+- [schmittnieto starred SecurityBagel/CMMC-Bagel](https://github.com/SecurityBagel/CMMC-Bagel-Lite)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/54aca91cb4...4363fed0cd)
 - [schmittnieto created a tag v0.0.1-alpha in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/tree/v0.0.1-alpha)
 - [schmittnieto released v0.0.1-alpha at schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/releases/tag/v0.0.1-alpha)
