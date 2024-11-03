@@ -14,7 +14,7 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Azure Stack HCI VM Deployment](https://schmitt-nieto.com/blog/azure-stack-hci-vm-deployment/)
+- [Azure Stack HCI: VM Deployment](https://schmitt-nieto.com/blog/azure-stack-hci-vm-deployment/)
 - [Azure Stack HCI: Day2 operations](https://schmitt-nieto.com/blog/azure-stack-hci-day2/)
 - [Azure Stack HCI: Demolab](https://schmitt-nieto.com/blog/azure-stack-hci-demolab/)
 - [Azure Stack HCI: Evolution, Use Cases, and Comparison with Other Solutions](https://schmitt-nieto.com/blog/azure-stack-hci-evolution-use-cases-comparison/)
