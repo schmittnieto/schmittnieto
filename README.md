@@ -36,6 +36,7 @@
 # 😼 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred devicons/devicon](https://github.com/devicons/devicon)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/7ad9cbb71c...4c41425470)
 - [schmittnieto starred DirkBuntinx/Export-App-Registration-API-Permissions](https://github.com/DirkBuntinx/Export-App-Registration-API-Permissions)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/5f8f412b20...bc250f9a75)
