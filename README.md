@@ -36,6 +36,9 @@
 # 😼 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred LuiseFreese/BlueSkyTerminal](https://github.com/LuiseFreese/BlueSkyTerminal)
+- [schmittnieto opened an issue in merill/bluesky](https://github.com/merill/bluesky/issues/480)
+- [schmittnieto starred a1mery/pnp-modern-search-like-component](https://github.com/a1mery/pnp-modern-search-like-component)
 - [schmittnieto starred Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist)
 - [schmittnieto starred devicons/devicon](https://github.com/devicons/devicon)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/7ad9cbb71c...4c41425470)
@@ -47,7 +50,6 @@
 - [schmittnieto released v0.0.1-alpha at schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/releases/tag/v0.0.1-alpha)
 - [schmittnieto starred michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager)
 - [schmittnieto starred merill/idPowerToys](https://github.com/merill/idPowerToys)
-- [schmittnieto starred microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
