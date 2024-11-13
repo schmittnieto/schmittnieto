@@ -33,7 +33,7 @@
 | <img src="/assets/img/microsoft-certified-expert-badge-DevOps.png" height="120" width="120"/> | [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/CristianSchmittNieto-7357/225ACCA9CD499B3C?sharingId=24F0DC952D8EB05D) |
 | <img src="/assets/img/microsoft-certified-expert-badge-expert.png" height="120" width="120"/> | [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/CristianSchmittNieto-7357/B8D453727AF2E0FF?sharingId=24F0DC952D8EB05D) |
 
-# 😼 Latest GitHub activities
+# 🐙 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
 - [schmittnieto starred jdhitsolutions/PSBluesky](https://github.com/jdhitsolutions/PSBluesky)
