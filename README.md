@@ -36,6 +36,7 @@
 # 🐙 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/de03975e41...301d558710)
 - [schmittnieto starred jdhitsolutions/PSBluesky](https://github.com/jdhitsolutions/PSBluesky)
 - [schmittnieto starred LuiseFreese/BlueSkyTerminal](https://github.com/LuiseFreese/BlueSkyTerminal)
 - [schmittnieto opened an issue in merill/bluesky](https://github.com/merill/bluesky/issues/480)
@@ -46,7 +47,6 @@
 - [schmittnieto starred DirkBuntinx/Export-App-Registration-API-Permissions](https://github.com/DirkBuntinx/Export-App-Registration-API-Permissions)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/5f8f412b20...bc250f9a75)
 - [schmittnieto starred SecurityBagel/CMMC-Bagel](https://github.com/SecurityBagel/CMMC-Bagel-Lite)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/54aca91cb4...4363fed0cd)
 - [schmittnieto created a tag v0.0.1-alpha in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/tree/v0.0.1-alpha)
 - [schmittnieto released v0.0.1-alpha at schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/releases/tag/v0.0.1-alpha)
 - [schmittnieto starred michaelmsonne/ManagedIdentityPermissionManager](https://github.com/michaelmsonne/ManagedIdentityPermissionManager)
