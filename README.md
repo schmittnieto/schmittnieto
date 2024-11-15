@@ -13,7 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SchmittNieto&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SchmittNieto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Latest Blog Posts
+# 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Azure Stack HCI: VM Deployment](https://schmitt-nieto.com/blog/azure-stack-hci-vm-deployment/)
 - [Azure Stack HCI: Day2 operations](https://schmitt-nieto.com/blog/azure-stack-hci-day2/)
