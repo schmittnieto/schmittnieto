@@ -23,7 +23,7 @@
 <!-- BLOG-POST-LIST:END -->
 <!-- Credits to Blog Updates on readme to: https://github.com/gautamkrishnar/blog-post-workflow -->
 
-# Certifications
+# 🎓 Certifications
 
 | Badge | Certification |
 |---|---|
