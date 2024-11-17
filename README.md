@@ -37,7 +37,7 @@
 # 🐙 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/f38b2e90a6...309d08b2ad)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/da8793e06c...0f30c50c90)
 - [schmittnieto starred svrooij/WingetIntune](https://github.com/svrooij/WingetIntune)
 - [schmittnieto starred admindroid-community/powershell-scripts](https://github.com/admindroid-community/powershell-scripts)
 - [schmittnieto starred jdhitsolutions/PSBluesky](https://github.com/jdhitsolutions/PSBluesky)
@@ -51,7 +51,6 @@
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/5f8f412b20...bc250f9a75)
 - [schmittnieto starred SecurityBagel/CMMC-Bagel](https://github.com/SecurityBagel/CMMC-Bagel-Lite)
 - [schmittnieto created a tag v0.0.1-alpha in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/tree/v0.0.1-alpha)
-- [schmittnieto released v0.0.1-alpha at schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/releases/tag/v0.0.1-alpha)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
