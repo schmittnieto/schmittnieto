@@ -37,6 +37,7 @@
 # 🐙 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/7653f809e5...a667e53a17)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/da8793e06c...0f30c50c90)
 - [schmittnieto starred svrooij/WingetIntune](https://github.com/svrooij/WingetIntune)
 - [schmittnieto starred admindroid-community/powershell-scripts](https://github.com/admindroid-community/powershell-scripts)
@@ -46,11 +47,9 @@
 - [schmittnieto starred a1mery/pnp-modern-search-like-component](https://github.com/a1mery/pnp-modern-search-like-component)
 - [schmittnieto starred Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist)
 - [schmittnieto starred devicons/devicon](https://github.com/devicons/devicon)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/7ad9cbb71c...4c41425470)
 - [schmittnieto starred DirkBuntinx/Export-App-Registration-API-Permissions](https://github.com/DirkBuntinx/Export-App-Registration-API-Permissions)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/5f8f412b20...bc250f9a75)
 - [schmittnieto starred SecurityBagel/CMMC-Bagel](https://github.com/SecurityBagel/CMMC-Bagel-Lite)
-- [schmittnieto created a tag v0.0.1-alpha in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/tree/v0.0.1-alpha)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
