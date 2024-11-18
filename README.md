@@ -34,7 +34,7 @@
 | <img src="/assets/img/microsoft-certified-expert-badge-DevOps.png" height="120" width="120"/> | [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/CristianSchmittNieto-7357/225ACCA9CD499B3C?sharingId=24F0DC952D8EB05D) |
 | <img src="/assets/img/microsoft-certified-expert-badge-expert.png" height="120" width="120"/> | [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/CristianSchmittNieto-7357/B8D453727AF2E0FF?sharingId=24F0DC952D8EB05D) |
 
-# 🐙 Latest GitHub activities
+# 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/a667e53a17...9a7e1e43ec)
