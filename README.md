@@ -37,8 +37,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/53714f62db...bf81dad509)
+- [schmittnieto starred IntuneAdmin/IntuneBaselines](https://github.com/IntuneAdmin/IntuneBaselines)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/a667e53a17...9a7e1e43ec)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/da8793e06c...0f30c50c90)
 - [schmittnieto starred svrooij/WingetIntune](https://github.com/svrooij/WingetIntune)
 - [schmittnieto starred admindroid-community/powershell-scripts](https://github.com/admindroid-community/powershell-scripts)
 - [schmittnieto starred jdhitsolutions/PSBluesky](https://github.com/jdhitsolutions/PSBluesky)
