@@ -37,7 +37,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/8fab9a9ebe...3aacb70a20)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/df7af99f78...688b8b47ad)
+- [schmittnieto starred merill/awesome-entra](https://github.com/merill/awesome-entra)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/53714f62db...bf81dad509)
 - [schmittnieto starred IntuneAdmin/IntuneBaselines](https://github.com/IntuneAdmin/IntuneBaselines)
 - [schmittnieto starred svrooij/WingetIntune](https://github.com/svrooij/WingetIntune)
