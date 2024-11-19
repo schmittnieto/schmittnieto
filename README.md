@@ -37,7 +37,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/9a7e1e43ec...8fab9a9ebe)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/8fab9a9ebe...3aacb70a20)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/53714f62db...bf81dad509)
 - [schmittnieto starred IntuneAdmin/IntuneBaselines](https://github.com/IntuneAdmin/IntuneBaselines)
 - [schmittnieto starred svrooij/WingetIntune](https://github.com/svrooij/WingetIntune)
@@ -49,7 +49,6 @@
 - [schmittnieto starred Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist)
 - [schmittnieto starred devicons/devicon](https://github.com/devicons/devicon)
 - [schmittnieto starred DirkBuntinx/Export-App-Registration-API-Permissions](https://github.com/DirkBuntinx/Export-App-Registration-API-Permissions)
-- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/5f8f412b20...bc250f9a75)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
