@@ -37,6 +37,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred jflieben/assortedFunctionsV2](https://github.com/jflieben/assortedFunctionsV2)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/df7af99f78...688b8b47ad)
 - [schmittnieto starred merill/awesome-entra](https://github.com/merill/awesome-entra)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/53714f62db...bf81dad509)
