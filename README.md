@@ -37,6 +37,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred nicolonsky/ConditionalAccessDocumentation](https://github.com/nicolonsky/ConditionalAccessDocumentation)
+- [schmittnieto starred microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples)
 - [schmittnieto starred mspnp/AzureNamingTool](https://github.com/mspnp/AzureNamingTool)
 - [schmittnieto starred jflieben/assortedFunctionsV2](https://github.com/jflieben/assortedFunctionsV2)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/df7af99f78...688b8b47ad)
