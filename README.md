@@ -37,6 +37,12 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto forked schmittnieto/TechNet-Gallery from MScholtes/TechNet-Gallery](https://github.com/schmittnieto/TechNet-Gallery)
+- [schmittnieto starred MScholtes/TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery)
+- [schmittnieto starred paulwetter/DocumentConfigMgrCB](https://github.com/paulwetter/DocumentConfigMgrCB)
+- [schmittnieto starred shawntmeyer/AzureVirtualDesktop](https://github.com/shawntmeyer/AzureVirtualDesktop)
+- [schmittnieto starred shawntmeyer/AVDClientKiosk](https://github.com/shawntmeyer/AVDClientKiosk)
+- [schmittnieto starred nicolonsky/AAGuids](https://github.com/nicolonsky/AAGuids)
 - [schmittnieto starred nicolonsky/ConditionalAccessDocumentation](https://github.com/nicolonsky/ConditionalAccessDocumentation)
 - [schmittnieto starred microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples)
 - [schmittnieto starred mspnp/AzureNamingTool](https://github.com/mspnp/AzureNamingTool)
@@ -50,10 +56,6 @@
 - [schmittnieto starred jdhitsolutions/PSBluesky](https://github.com/jdhitsolutions/PSBluesky)
 - [schmittnieto starred LuiseFreese/BlueSkyTerminal](https://github.com/LuiseFreese/BlueSkyTerminal)
 - [schmittnieto opened an issue in merill/bluesky](https://github.com/merill/bluesky/issues/480)
-- [schmittnieto starred a1mery/pnp-modern-search-like-component](https://github.com/a1mery/pnp-modern-search-like-component)
-- [schmittnieto starred Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist)
-- [schmittnieto starred devicons/devicon](https://github.com/devicons/devicon)
-- [schmittnieto starred DirkBuntinx/Export-App-Registration-API-Permissions](https://github.com/DirkBuntinx/Export-App-Registration-API-Permissions)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
