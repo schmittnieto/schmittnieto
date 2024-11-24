@@ -37,7 +37,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/688b8b47ad...ca9f333e84)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/3228b76993...9424b4ced5)
 - [schmittnieto forked schmittnieto/TechNet-Gallery from MScholtes/TechNet-Gallery](https://github.com/schmittnieto/TechNet-Gallery)
 - [schmittnieto starred MScholtes/TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery)
 - [schmittnieto starred paulwetter/DocumentConfigMgrCB](https://github.com/paulwetter/DocumentConfigMgrCB)
@@ -49,12 +49,6 @@
 - [schmittnieto starred mspnp/AzureNamingTool](https://github.com/mspnp/AzureNamingTool)
 - [schmittnieto starred jflieben/assortedFunctionsV2](https://github.com/jflieben/assortedFunctionsV2)
 - [schmittnieto starred merill/awesome-entra](https://github.com/merill/awesome-entra)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/53714f62db...bf81dad509)
-- [schmittnieto starred IntuneAdmin/IntuneBaselines](https://github.com/IntuneAdmin/IntuneBaselines)
-- [schmittnieto starred svrooij/WingetIntune](https://github.com/svrooij/WingetIntune)
-- [schmittnieto starred admindroid-community/powershell-scripts](https://github.com/admindroid-community/powershell-scripts)
-- [schmittnieto starred jdhitsolutions/PSBluesky](https://github.com/jdhitsolutions/PSBluesky)
-- [schmittnieto starred LuiseFreese/BlueSkyTerminal](https://github.com/LuiseFreese/BlueSkyTerminal)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
