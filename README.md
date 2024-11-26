@@ -37,6 +37,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred clarkio/azure-mask](https://github.com/clarkio/azure-mask)
 - [schmittnieto starred DanielChronlund/DCToolbox](https://github.com/DanielChronlund/DCToolbox)
 - [schmittnieto starred ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 - [schmittnieto starred Skatterbrainz/Helium](https://github.com/Skatterbrainz/Helium)
