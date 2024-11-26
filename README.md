@@ -37,6 +37,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred DanielChronlund/DCToolbox](https://github.com/DanielChronlund/DCToolbox)
+- [schmittnieto starred ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
+- [schmittnieto starred Skatterbrainz/Helium](https://github.com/Skatterbrainz/Helium)
 - [schmittnieto starred canix1/PIMSCAN](https://github.com/canix1/PIMSCAN)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/9424b4ced5...185a176714)
 - [schmittnieto forked schmittnieto/TechNet-Gallery from MScholtes/TechNet-Gallery](https://github.com/schmittnieto/TechNet-Gallery)
@@ -49,7 +52,6 @@
 - [schmittnieto starred microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples)
 - [schmittnieto starred mspnp/AzureNamingTool](https://github.com/mspnp/AzureNamingTool)
 - [schmittnieto starred jflieben/assortedFunctionsV2](https://github.com/jflieben/assortedFunctionsV2)
-- [schmittnieto starred merill/awesome-entra](https://github.com/merill/awesome-entra)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
