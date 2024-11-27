@@ -37,22 +37,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b82660fc8e...ebd39bac01)
+- [schmittnieto starred PeterKlapwijk/Microsoft-Logic-Apps](https://github.com/PeterKlapwijk/Microsoft-Logic-Apps)
 - [schmittnieto starred clarkio/azure-mask](https://github.com/clarkio/azure-mask)
 - [schmittnieto starred DanielChronlund/DCToolbox](https://github.com/DanielChronlund/DCToolbox)
 - [schmittnieto starred ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 - [schmittnieto starred Skatterbrainz/Helium](https://github.com/Skatterbrainz/Helium)
 - [schmittnieto starred canix1/PIMSCAN](https://github.com/canix1/PIMSCAN)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/9424b4ced5...185a176714)
-- [schmittnieto forked schmittnieto/TechNet-Gallery from MScholtes/TechNet-Gallery](https://github.com/schmittnieto/TechNet-Gallery)
-- [schmittnieto starred MScholtes/TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery)
-- [schmittnieto starred paulwetter/DocumentConfigMgrCB](https://github.com/paulwetter/DocumentConfigMgrCB)
-- [schmittnieto starred shawntmeyer/AzureVirtualDesktop](https://github.com/shawntmeyer/AzureVirtualDesktop)
-- [schmittnieto starred shawntmeyer/AVDClientKiosk](https://github.com/shawntmeyer/AVDClientKiosk)
-- [schmittnieto starred nicolonsky/AAGuids](https://github.com/nicolonsky/AAGuids)
-- [schmittnieto starred nicolonsky/ConditionalAccessDocumentation](https://github.com/nicolonsky/ConditionalAccessDocumentation)
-- [schmittnieto starred microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples)
-- [schmittnieto starred mspnp/AzureNamingTool](https://github.com/mspnp/AzureNamingTool)
-- [schmittnieto starred jflieben/assortedFunctionsV2](https://github.com/jflieben/assortedFunctionsV2)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
