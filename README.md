@@ -37,6 +37,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred Azure/arc_jumpstart_docs](https://github.com/Azure/arc_jumpstart_docs)
+- [schmittnieto starred microsoft/azure_arc](https://github.com/microsoft/azure_arc)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b82660fc8e...ebd39bac01)
 - [schmittnieto starred PeterKlapwijk/Microsoft-Logic-Apps](https://github.com/PeterKlapwijk/Microsoft-Logic-Apps)
 - [schmittnieto starred clarkio/azure-mask](https://github.com/clarkio/azure-mask)
