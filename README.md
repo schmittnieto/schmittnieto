@@ -37,8 +37,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/a1b96cc664...dfc9b665ac)
-- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/b36bd6729d...1e003b4920)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/68cfe2e08c...1c3e84aff5)
+- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/1e003b4920...e7856a5ee0)
 - [schmittnieto starred cammurray/orca](https://github.com/cammurray/orca)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ad71c5f8fb...2d32fda192)
 - [schmittnieto released v0.0.2-alpha at schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/releases/tag/v0.0.2-alpha)
@@ -48,8 +48,6 @@
 - [schmittnieto starred microsoft/azure_arc](https://github.com/microsoft/azure_arc)
 - [schmittnieto starred PeterKlapwijk/Microsoft-Logic-Apps](https://github.com/PeterKlapwijk/Microsoft-Logic-Apps)
 - [schmittnieto starred clarkio/azure-mask](https://github.com/clarkio/azure-mask)
-- [schmittnieto starred DanielChronlund/DCToolbox](https://github.com/DanielChronlund/DCToolbox)
-- [schmittnieto starred ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
