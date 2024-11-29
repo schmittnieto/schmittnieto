@@ -37,9 +37,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto released v0.0.2-alpha at schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/releases/tag/v0.0.2-alpha)
+- [schmittnieto created a tag v0.0.2-alpha in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/tree/v0.0.2-alpha)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/28c4328770...a1b96cc664)
+- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/50727f19d8...b36bd6729d)
+- [schmittnieto starred fabrisodotps1/M365PSProfile](https://github.com/fabrisodotps1/M365PSProfile)
 - [schmittnieto starred Azure/arc_jumpstart_docs](https://github.com/Azure/arc_jumpstart_docs)
 - [schmittnieto starred microsoft/azure_arc](https://github.com/microsoft/azure_arc)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b82660fc8e...ebd39bac01)
 - [schmittnieto starred PeterKlapwijk/Microsoft-Logic-Apps](https://github.com/PeterKlapwijk/Microsoft-Logic-Apps)
 - [schmittnieto starred clarkio/azure-mask](https://github.com/clarkio/azure-mask)
 - [schmittnieto starred DanielChronlund/DCToolbox](https://github.com/DanielChronlund/DCToolbox)
