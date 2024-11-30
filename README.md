@@ -37,6 +37,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto commented on issue Azure/AzureLocal-Supportability#27](https://github.com/Azure/AzureLocal-Supportability/issues/27#issuecomment-2508979352)
+- [schmittnieto opened an issue in Azure/AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/27)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/68cfe2e08c...1c3e84aff5)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/1e003b4920...e7856a5ee0)
 - [schmittnieto starred cammurray/orca](https://github.com/cammurray/orca)
@@ -46,8 +48,6 @@
 - [schmittnieto starred fabrisodotps1/M365PSProfile](https://github.com/fabrisodotps1/M365PSProfile)
 - [schmittnieto starred Azure/arc_jumpstart_docs](https://github.com/Azure/arc_jumpstart_docs)
 - [schmittnieto starred microsoft/azure_arc](https://github.com/microsoft/azure_arc)
-- [schmittnieto starred PeterKlapwijk/Microsoft-Logic-Apps](https://github.com/PeterKlapwijk/Microsoft-Logic-Apps)
-- [schmittnieto starred clarkio/azure-mask](https://github.com/clarkio/azure-mask)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
