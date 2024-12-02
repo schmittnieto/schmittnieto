@@ -37,7 +37,10 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/cd74b3acae...b50bf9f59b)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/73d386e5b3...4268da1783)
+- [schmittnieto starred DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [schmittnieto starred jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from)
+- [schmittnieto starred DevClate/EntraFIDOFinder](https://github.com/DevClate/EntraFIDOFinder)
 - [schmittnieto starred MG-Cloudflow/Intune-Toolkit](https://github.com/MG-Cloudflow/Intune-Toolkit)
 - [schmittnieto commented on issue Azure/AzureLocal-Supportability#27](https://github.com/Azure/AzureLocal-Supportability/issues/27#issuecomment-2508979352)
 - [schmittnieto opened an issue in Azure/AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/27)
@@ -48,7 +51,6 @@
 - [schmittnieto created a tag v0.0.2-alpha in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/tree/v0.0.2-alpha)
 - [schmittnieto starred fabrisodotps1/M365PSProfile](https://github.com/fabrisodotps1/M365PSProfile)
 - [schmittnieto starred Azure/arc_jumpstart_docs](https://github.com/Azure/arc_jumpstart_docs)
-- [schmittnieto starred microsoft/azure_arc](https://github.com/microsoft/azure_arc)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
