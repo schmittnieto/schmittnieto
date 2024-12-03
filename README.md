@@ -37,6 +37,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred ugurkocde/IntuneDeviceQuery](https://github.com/ugurkocde/IntuneDeviceQuery)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/73d386e5b3...4268da1783)
 - [schmittnieto starred DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - [schmittnieto starred jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from)
@@ -50,7 +51,6 @@
 - [schmittnieto released v0.0.2-alpha at schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/releases/tag/v0.0.2-alpha)
 - [schmittnieto created a tag v0.0.2-alpha in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/tree/v0.0.2-alpha)
 - [schmittnieto starred fabrisodotps1/M365PSProfile](https://github.com/fabrisodotps1/M365PSProfile)
-- [schmittnieto starred Azure/arc_jumpstart_docs](https://github.com/Azure/arc_jumpstart_docs)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
