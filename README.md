@@ -37,6 +37,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred SigmaHQ/sigma](https://github.com/SigmaHQ/sigma)
 - [schmittnieto starred Azure/Azure-Lighthouse-samples](https://github.com/Azure/Azure-Lighthouse-samples)
 - [schmittnieto starred ugurkocde/IntuneDeviceQuery](https://github.com/ugurkocde/IntuneDeviceQuery)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/73d386e5b3...4268da1783)
