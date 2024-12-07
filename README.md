@@ -37,6 +37,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto commented on issue schmittnieto/AzSHCI#1](https://github.com/schmittnieto/AzSHCI/issues/1#issuecomment-2523267191)
 - [schmittnieto starred SigmaHQ/sigma](https://github.com/SigmaHQ/sigma)
 - [schmittnieto starred Azure/Azure-Lighthouse-samples](https://github.com/Azure/Azure-Lighthouse-samples)
 - [schmittnieto starred ugurkocde/IntuneDeviceQuery](https://github.com/ugurkocde/IntuneDeviceQuery)
