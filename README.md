@@ -37,6 +37,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred Vejitaxp/michaelsendpoint_public](https://github.com/Vejitaxp/michaelsendpoint_public)
 - [schmittnieto starred lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche)
 - [schmittnieto commented on issue schmittnieto/AzSHCI#1](https://github.com/schmittnieto/AzSHCI/issues/1#issuecomment-2523267191)
 - [schmittnieto starred SigmaHQ/sigma](https://github.com/SigmaHQ/sigma)
