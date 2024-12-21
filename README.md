@@ -37,6 +37,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred MHaggis/PowerShell-Hunter](https://github.com/MHaggis/PowerShell-Hunter)
 - [schmittnieto starred Vejitaxp/michaelsendpoint_public](https://github.com/Vejitaxp/michaelsendpoint_public)
 - [schmittnieto starred lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche)
 - [schmittnieto commented on issue schmittnieto/AzSHCI#1](https://github.com/schmittnieto/AzSHCI/issues/1#issuecomment-2523267191)
@@ -54,7 +55,6 @@
 - [schmittnieto starred cammurray/orca](https://github.com/cammurray/orca)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ad71c5f8fb...2d32fda192)
 - [schmittnieto released v0.0.2-alpha at schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/releases/tag/v0.0.2-alpha)
-- [schmittnieto created a tag v0.0.2-alpha in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/tree/v0.0.2-alpha)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
