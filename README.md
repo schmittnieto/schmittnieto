@@ -38,6 +38,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/08df6e4e0a...6e0819c574)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/c116764627...02753a18cc)
 - [schmittnieto starred MHaggis/PowerShell-Hunter](https://github.com/MHaggis/PowerShell-Hunter)
 - [schmittnieto starred Vejitaxp/michaelsendpoint_public](https://github.com/Vejitaxp/michaelsendpoint_public)
 - [schmittnieto starred lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche)
@@ -45,7 +47,6 @@
 - [schmittnieto starred SigmaHQ/sigma](https://github.com/SigmaHQ/sigma)
 - [schmittnieto starred Azure/Azure-Lighthouse-samples](https://github.com/Azure/Azure-Lighthouse-samples)
 - [schmittnieto starred ugurkocde/IntuneDeviceQuery](https://github.com/ugurkocde/IntuneDeviceQuery)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/73d386e5b3...4268da1783)
 - [schmittnieto starred DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - [schmittnieto starred jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from)
 - [schmittnieto starred DevClate/EntraFIDOFinder](https://github.com/DevClate/EntraFIDOFinder)
@@ -53,9 +54,6 @@
 - [schmittnieto commented on issue Azure/AzureLocal-Supportability#27](https://github.com/Azure/AzureLocal-Supportability/issues/27#issuecomment-2508979352)
 - [schmittnieto opened an issue in Azure/AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/27)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/1e003b4920...e7856a5ee0)
-- [schmittnieto starred cammurray/orca](https://github.com/cammurray/orca)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ad71c5f8fb...2d32fda192)
-- [schmittnieto released v0.0.2-alpha at schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/releases/tag/v0.0.2-alpha)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
