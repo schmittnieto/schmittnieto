@@ -15,11 +15,11 @@
 
 # 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reflecting on 2024 and Goals for 2025](https://schmitt-nieto.com/blog/new-year/)
 - [GitHub Tools and Repositories that I use](https://schmitt-nieto.com/blog/github-tools/)
 - [Azure Stack HCI: Azure Virtual Desktop](https://schmitt-nieto.com/blog/azure-stack-hci-azure-virtual-desktop/)
 - [Azure Stack HCI: VM Deployment](https://schmitt-nieto.com/blog/azure-stack-hci-vm-deployment/)
 - [Azure Stack HCI: Day2 operations](https://schmitt-nieto.com/blog/azure-stack-hci-day2/)
-- [Azure Stack HCI: Demolab](https://schmitt-nieto.com/blog/azure-stack-hci-demolab/)
 <!-- BLOG-POST-LIST:END -->
 <!-- Credits to Blog Updates on readme to: https://github.com/gautamkrishnar/blog-post-workflow -->
 
