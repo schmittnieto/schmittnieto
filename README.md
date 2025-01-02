@@ -38,7 +38,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/5ca25ae8a8...657b99ee47)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/f510bfb591...3db2569c33)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/c116764627...02753a18cc)
 - [schmittnieto starred MHaggis/PowerShell-Hunter](https://github.com/MHaggis/PowerShell-Hunter)
 - [schmittnieto starred Vejitaxp/michaelsendpoint_public](https://github.com/Vejitaxp/michaelsendpoint_public)
@@ -51,7 +51,6 @@
 - [schmittnieto starred jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from)
 - [schmittnieto starred DevClate/EntraFIDOFinder](https://github.com/DevClate/EntraFIDOFinder)
 - [schmittnieto starred MG-Cloudflow/Intune-Toolkit](https://github.com/MG-Cloudflow/Intune-Toolkit)
-- [schmittnieto commented on issue Azure/AzureLocal-Supportability#27](https://github.com/Azure/AzureLocal-Supportability/issues/27#issuecomment-2508979352)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
