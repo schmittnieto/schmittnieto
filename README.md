@@ -38,7 +38,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/f510bfb591...3db2569c33)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/2f93732f82...500c0570d4)
+- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/d4eeeca867...eaa43c944b)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/c116764627...02753a18cc)
 - [schmittnieto starred MHaggis/PowerShell-Hunter](https://github.com/MHaggis/PowerShell-Hunter)
 - [schmittnieto starred Vejitaxp/michaelsendpoint_public](https://github.com/Vejitaxp/michaelsendpoint_public)
@@ -50,7 +51,6 @@
 - [schmittnieto starred DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - [schmittnieto starred jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from)
 - [schmittnieto starred DevClate/EntraFIDOFinder](https://github.com/DevClate/EntraFIDOFinder)
-- [schmittnieto starred MG-Cloudflow/Intune-Toolkit](https://github.com/MG-Cloudflow/Intune-Toolkit)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
