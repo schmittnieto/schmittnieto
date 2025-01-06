@@ -38,8 +38,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/2f93732f82...500c0570d4)
-- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/d4eeeca867...eaa43c944b)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/500c0570d4...d4fd27bb8f)
+- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/eaa43c944b...9b184afdc7)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/c116764627...02753a18cc)
 - [schmittnieto starred MHaggis/PowerShell-Hunter](https://github.com/MHaggis/PowerShell-Hunter)
 - [schmittnieto starred Vejitaxp/michaelsendpoint_public](https://github.com/Vejitaxp/michaelsendpoint_public)
@@ -49,8 +49,6 @@
 - [schmittnieto starred Azure/Azure-Lighthouse-samples](https://github.com/Azure/Azure-Lighthouse-samples)
 - [schmittnieto starred ugurkocde/IntuneDeviceQuery](https://github.com/ugurkocde/IntuneDeviceQuery)
 - [schmittnieto starred DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-- [schmittnieto starred jekyll/jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from)
-- [schmittnieto starred DevClate/EntraFIDOFinder](https://github.com/DevClate/EntraFIDOFinder)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
