@@ -1,5 +1,5 @@
 # 🦾 About Me
-🔭 I’m currently working on Azure Stack HCI, AKS Hybrid and Azure Virtual Desktop<br>👯 I’m looking to collaborate on Community Projects <br>🤓 I’m currently learning Best Practices on Bicep and Terraform<br>💬 Ask me about anything ralated to Azure<br>⚡ You can contact me in German, Spanish or English 
+🔭 I’m currently working on Azure Local, AKS Hybrid, Azure Virtual Desktop, Windows365 and Intune<br>👯 I’m looking to collaborate on Community Projects <br>🤓 I’m currently learning Best Practices on Bicep and Terraform<br>💬 Ask me about anything ralated to Azure<br>⚡ You can contact me in German, Spanish or English 
 
 
 # 🌐 Socials
@@ -15,11 +15,11 @@
 
 # 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Local: AKS and SQL Managed instances](https://schmitt-nieto.com/blog/azure-local-aks/)
+- [Reflecting on 2024 and Goals for 2025](https://schmitt-nieto.com/blog/new-year/)
+- [GitHub Tools and Repositories that I use](https://schmitt-nieto.com/blog/github-tools/)
 - [Azure Stack HCI: Azure Virtual Desktop](https://schmitt-nieto.com/blog/azure-stack-hci-azure-virtual-desktop/)
 - [Azure Stack HCI: VM Deployment](https://schmitt-nieto.com/blog/azure-stack-hci-vm-deployment/)
-- [Azure Stack HCI: Day2 operations](https://schmitt-nieto.com/blog/azure-stack-hci-day2/)
-- [Azure Stack HCI: Demolab](https://schmitt-nieto.com/blog/azure-stack-hci-demolab/)
-- [Azure Stack HCI: Evolution, Use Cases, and Comparison with Other Solutions](https://schmitt-nieto.com/blog/azure-stack-hci-evolution-use-cases-comparison/)
 <!-- BLOG-POST-LIST:END -->
 <!-- Credits to Blog Updates on readme to: https://github.com/gautamkrishnar/blog-post-workflow -->
 
@@ -36,22 +36,21 @@
 | <img src="/assets/img/microsoft-certified-expert-badge-DevOps.png" height="120" width="120"/> | [Microsoft Certified: DevOps Engineer Expert](https://learn.microsoft.com/api/credentials/share/en-us/CristianSchmittNieto-7357/225ACCA9CD499B3C?sharingId=24F0DC952D8EB05D) |
 | <img src="/assets/img/microsoft-certified-expert-badge-expert.png" height="120" width="120"/> | [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/CristianSchmittNieto-7357/B8D453727AF2E0FF?sharingId=24F0DC952D8EB05D) |
 
-# 🐙 Latest GitHub activities
+# 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/7653f809e5...a667e53a17)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/da8793e06c...0f30c50c90)
-- [schmittnieto starred svrooij/WingetIntune](https://github.com/svrooij/WingetIntune)
-- [schmittnieto starred admindroid-community/powershell-scripts](https://github.com/admindroid-community/powershell-scripts)
-- [schmittnieto starred jdhitsolutions/PSBluesky](https://github.com/jdhitsolutions/PSBluesky)
-- [schmittnieto starred LuiseFreese/BlueSkyTerminal](https://github.com/LuiseFreese/BlueSkyTerminal)
-- [schmittnieto opened an issue in merill/bluesky](https://github.com/merill/bluesky/issues/480)
-- [schmittnieto starred a1mery/pnp-modern-search-like-component](https://github.com/a1mery/pnp-modern-search-like-component)
-- [schmittnieto starred Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist)
-- [schmittnieto starred devicons/devicon](https://github.com/devicons/devicon)
-- [schmittnieto starred DirkBuntinx/Export-App-Registration-API-Permissions](https://github.com/DirkBuntinx/Export-App-Registration-API-Permissions)
-- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/5f8f412b20...bc250f9a75)
-- [schmittnieto starred SecurityBagel/CMMC-Bagel](https://github.com/SecurityBagel/CMMC-Bagel-Lite)
+- [schmittnieto starred ugurkocde/DeviceOffboardingManager](https://github.com/ugurkocde/DeviceOffboardingManager)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/707fa42b90...73b6d28abb)
+- [schmittnieto starred andrew-s-taylor/EUCToolbox](https://github.com/andrew-s-taylor/EUCToolbox)
+- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/eaa43c944b...9b184afdc7)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/c116764627...02753a18cc)
+- [schmittnieto starred MHaggis/PowerShell-Hunter](https://github.com/MHaggis/PowerShell-Hunter)
+- [schmittnieto starred Vejitaxp/michaelsendpoint_public](https://github.com/Vejitaxp/michaelsendpoint_public)
+- [schmittnieto starred lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche)
+- [schmittnieto commented on issue schmittnieto/AzSHCI#1](https://github.com/schmittnieto/AzSHCI/issues/1#issuecomment-2523267191)
+- [schmittnieto starred SigmaHQ/sigma](https://github.com/SigmaHQ/sigma)
+- [schmittnieto starred Azure/Azure-Lighthouse-samples](https://github.com/Azure/Azure-Lighthouse-samples)
+- [schmittnieto starred ugurkocde/IntuneDeviceQuery](https://github.com/ugurkocde/IntuneDeviceQuery)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
