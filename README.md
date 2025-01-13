@@ -27,7 +27,7 @@
 
 | Badge | Certification |
 |---|---|
-| <img src="/assets/img/nerdio-nme-200.png" height="120" width="120"/> | [Nerdio Manager for Enterprise Certified](https://schmitt-nieto.com/assets/img/cert/NME-200.pdf){:target="_blank"} |
+| <img src="/assets/img/nerdio-nme-200.png" height="120" width="120"/> | [Nerdio Manager for Enterprise Certified](https://schmitt-nieto.com/assets/img/cert/NME-200.pdf) |
 | <img src="/assets/img/microsoft-certified-fundamentals-badge-AI.png" height="120" width="120"/> | [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/CristianSchmittNieto-7357/DEC07C6846AF65A7?sharingId=24F0DC952D8EB05D) |
 | <img src="/assets/img/microsoft-certified-associate-badge-adm.png" height="120" width="120"/> | [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/CristianSchmittNieto-7357/5FBC968AEABFC10B?sharingId=24F0DC952D8EB05D) |
 | <img src="/assets/img/microsoft-certified-associate-badge-hybrid.png" height="120" width="120"/> | [Microsoft Certified: Windows Server Hybrid Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/CristianSchmittNieto-7357/A3635D8F3BE9F9C2?sharingId=24F0DC952D8EB05D) |
