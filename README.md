@@ -39,13 +39,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred satnaing/satnaing.dev](https://github.com/satnaing/satnaing.dev)
 - [schmittnieto starred harvansh007/Intune-Device-and-User-Add-and-Remove-Tool](https://github.com/harvansh007/Intune-Device-and-User-Add-and-Remove-Tool)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/69d44221f1...822c473b9d)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/dba189a81a...6a28a2c6bd)
 - [schmittnieto starred ugurkocde/DeviceOffboardingManager](https://github.com/ugurkocde/DeviceOffboardingManager)
 - [schmittnieto starred andrew-s-taylor/EUCToolbox](https://github.com/andrew-s-taylor/EUCToolbox)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/eaa43c944b...9b184afdc7)
-- [schmittnieto starred MHaggis/PowerShell-Hunter](https://github.com/MHaggis/PowerShell-Hunter)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
