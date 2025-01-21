@@ -39,6 +39,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred kmcquade/awesome-azure-security](https://github.com/kmcquade/awesome-azure-security)
 - [schmittnieto starred Azure-Samples/ai-document-review](https://github.com/Azure-Samples/ai-document-review)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ab94b16c7b...ef4a5a18f8)
 - [schmittnieto starred Friends-Security/ShadowHound](https://github.com/Friends-Security/ShadowHound)
