@@ -39,6 +39,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred lrivallain/az-migrate-dep-visu](https://github.com/lrivallain/az-migrate-dep-visu)
 - [schmittnieto starred kmcquade/awesome-azure-security](https://github.com/kmcquade/awesome-azure-security)
 - [schmittnieto starred Azure-Samples/ai-document-review](https://github.com/Azure-Samples/ai-document-review)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ab94b16c7b...ef4a5a18f8)
@@ -51,7 +52,6 @@
 - [schmittnieto starred harvansh007/Intune-Device-and-User-Add-and-Remove-Tool](https://github.com/harvansh007/Intune-Device-and-User-Add-and-Remove-Tool)
 - [schmittnieto starred ugurkocde/DeviceOffboardingManager](https://github.com/ugurkocde/DeviceOffboardingManager)
 - [schmittnieto starred andrew-s-taylor/EUCToolbox](https://github.com/andrew-s-taylor/EUCToolbox)
-- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/eaa43c944b...9b184afdc7)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
