@@ -39,13 +39,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/f950c04f16...13bbcb625e)
 - [schmittnieto starred lrivallain/az-migrate-dep-visu](https://github.com/lrivallain/az-migrate-dep-visu)
 - [schmittnieto starred kmcquade/awesome-azure-security](https://github.com/kmcquade/awesome-azure-security)
 - [schmittnieto starred Azure-Samples/ai-document-review](https://github.com/Azure-Samples/ai-document-review)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ab94b16c7b...ef4a5a18f8)
 - [schmittnieto starred Friends-Security/ShadowHound](https://github.com/Friends-Security/ShadowHound)
 - [schmittnieto starred mivano/azure-cost-cli](https://github.com/mivano/azure-cost-cli)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/f3aa4d97e0...f950c04f16)
 - [schmittnieto starred joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record)
 - [schmittnieto starred KubeDeckio/KubeSnapIt](https://github.com/KubeDeckio/KubeSnapIt)
 - [schmittnieto starred satnaing/satnaing.dev](https://github.com/satnaing/satnaing.dev)
