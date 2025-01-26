@@ -39,8 +39,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/e0711ca649...9fe854221b)
+- [schmittnieto starred deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 - [schmittnieto starred 0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/f950c04f16...13bbcb625e)
 - [schmittnieto starred lrivallain/az-migrate-dep-visu](https://github.com/lrivallain/az-migrate-dep-visu)
 - [schmittnieto starred kmcquade/awesome-azure-security](https://github.com/kmcquade/awesome-azure-security)
 - [schmittnieto starred Azure-Samples/ai-document-review](https://github.com/Azure-Samples/ai-document-review)
