@@ -39,7 +39,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/9fe854221b...bc2e405cc7)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/bc2e405cc7...3e98c8503e)
 - [schmittnieto starred deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 - [schmittnieto starred 0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list)
 - [schmittnieto starred lrivallain/az-migrate-dep-visu](https://github.com/lrivallain/az-migrate-dep-visu)
@@ -52,7 +52,6 @@
 - [schmittnieto starred KubeDeckio/KubeSnapIt](https://github.com/KubeDeckio/KubeSnapIt)
 - [schmittnieto starred satnaing/satnaing.dev](https://github.com/satnaing/satnaing.dev)
 - [schmittnieto starred harvansh007/Intune-Device-and-User-Add-and-Remove-Tool](https://github.com/harvansh007/Intune-Device-and-User-Add-and-Remove-Tool)
-- [schmittnieto starred ugurkocde/DeviceOffboardingManager](https://github.com/ugurkocde/DeviceOffboardingManager)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
