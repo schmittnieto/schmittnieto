@@ -39,6 +39,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred chrisbinsunny/chrisbinsunny.github.io](https://github.com/chrisbinsunny/chrisbinsunny.github.io)
 - [schmittnieto starred microsoft/shell-intune-samples](https://github.com/microsoft/shell-intune-samples)
 - [schmittnieto starred microsoft/Intune-solutions](https://github.com/microsoft/Intune-solutions)
 - [schmittnieto starred microsoft/mggraph-intune-samples](https://github.com/microsoft/mggraph-intune-samples)
