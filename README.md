@@ -39,6 +39,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred microsoft/shell-intune-samples](https://github.com/microsoft/shell-intune-samples)
+- [schmittnieto starred microsoft/Intune-solutions](https://github.com/microsoft/Intune-solutions)
+- [schmittnieto starred microsoft/mggraph-intune-samples](https://github.com/microsoft/mggraph-intune-samples)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/bc2e405cc7...3e98c8503e)
 - [schmittnieto starred deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 - [schmittnieto starred 0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list)
