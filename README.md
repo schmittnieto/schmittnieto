@@ -1,11 +1,11 @@
 # 🦾 About Me
-🔭 I’m currently working on Azure Local, AKS Hybrid, Azure Virtual Desktop, Windows365 and Intune<br>👯 I’m looking to collaborate on Community Projects <br>🤓 I’m currently learning Best Practices on Bicep and Terraform<br>💬 Ask me about anything ralated to Azure<br>⚡ You can contact me in German, Spanish or English 
+🔭 I’m currently working on Azure Local, AKS Hybrid, Azure Virtual Desktop, Windows365 and Intune<br>👯 I’m looking to collaborate on Community Projects <br>✍️ I’m currently learning Best Practices on Bicep and Terraform<br>💬 Ask me about anything ralated to Azure<br>⚡ You can contact me in German, Spanish or English 
 
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-schmitt-nieto/) [![WebSite](https://img.shields.io/badge/Website-%230077B5.svg?logo=github-pages&logoColor=white)](https://schmitt-nieto.com) [![Blusky](https://img.shields.io/badge/bluesky-white?logo=bluesky&logoColor=white&color=blue)](https://bsky.app/profile/schmitt-nieto.com)
 
-# 🤖 Tech Stack
+# 👨‍💻 Tech Stack
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat&logo=pi-hole&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) 
 
 # 📊 GitHub Stats
@@ -15,11 +15,11 @@
 
 # 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Local: Lifecycle Management](https://schmitt-nieto.com/blog/azure-local-lifecycle/)
 - [Azure Local: AKS and SQL Managed instances](https://schmitt-nieto.com/blog/azure-local-aks/)
 - [Reflecting on 2024 and Goals for 2025](https://schmitt-nieto.com/blog/new-year/)
 - [GitHub Tools and Repositories that I use](https://schmitt-nieto.com/blog/github-tools/)
 - [Azure Stack HCI: Azure Virtual Desktop](https://schmitt-nieto.com/blog/azure-stack-hci-azure-virtual-desktop/)
-- [Azure Stack HCI: VM Deployment](https://schmitt-nieto.com/blog/azure-stack-hci-vm-deployment/)
 <!-- BLOG-POST-LIST:END -->
 <!-- Credits to Blog Updates on readme to: https://github.com/gautamkrishnar/blog-post-workflow -->
 
@@ -40,13 +40,24 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred carlzxc71/azure-terraform-metricalerts](https://github.com/carlzxc71/azure-terraform-metricalerts)
+- [schmittnieto starred chrisbinsunny/chrisbinsunny.github.io](https://github.com/chrisbinsunny/chrisbinsunny.github.io)
+- [schmittnieto starred microsoft/shell-intune-samples](https://github.com/microsoft/shell-intune-samples)
+- [schmittnieto starred microsoft/Intune-solutions](https://github.com/microsoft/Intune-solutions)
+- [schmittnieto starred microsoft/mggraph-intune-samples](https://github.com/microsoft/mggraph-intune-samples)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/bc2e405cc7...3e98c8503e)
+- [schmittnieto starred deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
+- [schmittnieto starred 0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list)
+- [schmittnieto starred lrivallain/az-migrate-dep-visu](https://github.com/lrivallain/az-migrate-dep-visu)
+- [schmittnieto starred kmcquade/awesome-azure-security](https://github.com/kmcquade/awesome-azure-security)
+- [schmittnieto starred Azure-Samples/ai-document-review](https://github.com/Azure-Samples/ai-document-review)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ab94b16c7b...ef4a5a18f8)
+- [schmittnieto starred Friends-Security/ShadowHound](https://github.com/Friends-Security/ShadowHound)
+- [schmittnieto starred mivano/azure-cost-cli](https://github.com/mivano/azure-cost-cli)
+- [schmittnieto starred joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record)
+- [schmittnieto starred KubeDeckio/KubeSnapIt](https://github.com/KubeDeckio/KubeSnapIt)
 - [schmittnieto starred satnaing/satnaing.dev](https://github.com/satnaing/satnaing.dev)
 - [schmittnieto starred harvansh007/Intune-Device-and-User-Add-and-Remove-Tool](https://github.com/harvansh007/Intune-Device-and-User-Add-and-Remove-Tool)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/69d44221f1...822c473b9d)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/dba189a81a...6a28a2c6bd)
-- [schmittnieto starred ugurkocde/DeviceOffboardingManager](https://github.com/ugurkocde/DeviceOffboardingManager)
-- [schmittnieto starred andrew-s-taylor/EUCToolbox](https://github.com/andrew-s-taylor/EUCToolbox)
-- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/eaa43c944b...9b184afdc7)
 <!-- LATESTACTIVITYGITHUB:END -->
 
 [![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
