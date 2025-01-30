@@ -10,7 +10,6 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=SchmittNieto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SchmittNieto&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SchmittNieto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📝 Latest Blog Posts
@@ -58,4 +57,3 @@
 - [schmittnieto starred KubeDeckio/KubeSnapIt](https://github.com/KubeDeckio/KubeSnapIt)
 <!-- LATESTACTIVITYGITHUB:END -->
 
-[![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
