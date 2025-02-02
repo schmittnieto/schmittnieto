@@ -39,6 +39,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred megadose/holehe](https://github.com/megadose/holehe)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/41beaa17c2...53181a123e)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/628b59533f...f8beb54444)
 - [schmittnieto starred carlzxc71/azure-terraform-metricalerts](https://github.com/carlzxc71/azure-terraform-metricalerts)
