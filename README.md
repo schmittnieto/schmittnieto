@@ -39,6 +39,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred ddneves/awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning)
 - [schmittnieto starred megadose/holehe](https://github.com/megadose/holehe)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/41beaa17c2...53181a123e)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/628b59533f...f8beb54444)
@@ -55,6 +56,5 @@
 - [schmittnieto starred Friends-Security/ShadowHound](https://github.com/Friends-Security/ShadowHound)
 - [schmittnieto starred mivano/azure-cost-cli](https://github.com/mivano/azure-cost-cli)
 - [schmittnieto starred joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record)
-- [schmittnieto starred KubeDeckio/KubeSnapIt](https://github.com/KubeDeckio/KubeSnapIt)
 <!-- LATESTACTIVITYGITHUB:END -->
 
