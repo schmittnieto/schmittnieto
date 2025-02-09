@@ -14,11 +14,11 @@
 
 # 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Local meets Nerdio](https://schmitt-nieto.com/blog/azure-local-nerdio/)
 - [Azure Local: Lifecycle Management](https://schmitt-nieto.com/blog/azure-local-lifecycle/)
 - [Azure Local: AKS and SQL Managed instances](https://schmitt-nieto.com/blog/azure-local-aks/)
 - [Reflecting on 2024 and Goals for 2025](https://schmitt-nieto.com/blog/new-year/)
 - [GitHub Tools and Repositories that I use](https://schmitt-nieto.com/blog/github-tools/)
-- [Azure Stack HCI: Azure Virtual Desktop](https://schmitt-nieto.com/blog/azure-stack-hci-azure-virtual-desktop/)
 <!-- BLOG-POST-LIST:END -->
 <!-- Credits to Blog Updates on readme to: https://github.com/gautamkrishnar/blog-post-workflow -->
 
