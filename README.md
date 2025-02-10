@@ -40,10 +40,10 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/60ea5b526f...4dc66fc42e)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/c170f7e2c6...9b12dd1fe8)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/90640adb2b...d9d633a449)
 - [schmittnieto starred ddneves/awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning)
 - [schmittnieto starred megadose/holehe](https://github.com/megadose/holehe)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/628b59533f...f8beb54444)
 - [schmittnieto starred carlzxc71/azure-terraform-metricalerts](https://github.com/carlzxc71/azure-terraform-metricalerts)
 - [schmittnieto starred chrisbinsunny/chrisbinsunny.github.io](https://github.com/chrisbinsunny/chrisbinsunny.github.io)
 - [schmittnieto starred microsoft/shell-intune-samples](https://github.com/microsoft/shell-intune-samples)
