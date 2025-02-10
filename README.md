@@ -1,5 +1,5 @@
 # 🦾 About Me
-🔭 I’m currently working on Azure Local, AKS Hybrid, Azure Virtual Desktop, Windows365 and Intune<br>👯 I’m looking to collaborate on Community Projects <br>✍️ I’m currently learning Best Practices on Bicep and Terraform<br>💬 Ask me about anything ralated to Azure<br>⚡ You can contact me in German, Spanish or English 
+🤺 I’m currently working on Azure Local, AKS Hybrid, Azure Virtual Desktop, Windows365 and Intune<br>👯 I’m looking to collaborate on Community Projects <br>✍️ I’m currently learning Best Practices on Bicep and Terraform<br>💬 Ask me about anything ralated to Azure<br>⚡ You can contact me in German, Spanish or English 
 
 
 # 🌐 Socials
@@ -10,16 +10,15 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=SchmittNieto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SchmittNieto&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SchmittNieto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Local meets Nerdio](https://schmitt-nieto.com/blog/azure-local-nerdio/)
 - [Azure Local: Lifecycle Management](https://schmitt-nieto.com/blog/azure-local-lifecycle/)
 - [Azure Local: AKS and SQL Managed instances](https://schmitt-nieto.com/blog/azure-local-aks/)
 - [Reflecting on 2024 and Goals for 2025](https://schmitt-nieto.com/blog/new-year/)
 - [GitHub Tools and Repositories that I use](https://schmitt-nieto.com/blog/github-tools/)
-- [Azure Stack HCI: Azure Virtual Desktop](https://schmitt-nieto.com/blog/azure-stack-hci-azure-virtual-desktop/)
 <!-- BLOG-POST-LIST:END -->
 <!-- Credits to Blog Updates on readme to: https://github.com/gautamkrishnar/blog-post-workflow -->
 
@@ -41,24 +40,21 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/60ea5b526f...4dc66fc42e)
+- [schmittnieto starred ddneves/awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning)
+- [schmittnieto starred megadose/holehe](https://github.com/megadose/holehe)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/628b59533f...f8beb54444)
 - [schmittnieto starred carlzxc71/azure-terraform-metricalerts](https://github.com/carlzxc71/azure-terraform-metricalerts)
 - [schmittnieto starred chrisbinsunny/chrisbinsunny.github.io](https://github.com/chrisbinsunny/chrisbinsunny.github.io)
 - [schmittnieto starred microsoft/shell-intune-samples](https://github.com/microsoft/shell-intune-samples)
 - [schmittnieto starred microsoft/Intune-solutions](https://github.com/microsoft/Intune-solutions)
 - [schmittnieto starred microsoft/mggraph-intune-samples](https://github.com/microsoft/mggraph-intune-samples)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/bc2e405cc7...3e98c8503e)
 - [schmittnieto starred deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 - [schmittnieto starred 0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list)
 - [schmittnieto starred lrivallain/az-migrate-dep-visu](https://github.com/lrivallain/az-migrate-dep-visu)
 - [schmittnieto starred kmcquade/awesome-azure-security](https://github.com/kmcquade/awesome-azure-security)
 - [schmittnieto starred Azure-Samples/ai-document-review](https://github.com/Azure-Samples/ai-document-review)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ab94b16c7b...ef4a5a18f8)
 - [schmittnieto starred Friends-Security/ShadowHound](https://github.com/Friends-Security/ShadowHound)
 - [schmittnieto starred mivano/azure-cost-cli](https://github.com/mivano/azure-cost-cli)
-- [schmittnieto starred joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record)
-- [schmittnieto starred KubeDeckio/KubeSnapIt](https://github.com/KubeDeckio/KubeSnapIt)
-- [schmittnieto starred satnaing/satnaing.dev](https://github.com/satnaing/satnaing.dev)
-- [schmittnieto starred harvansh007/Intune-Device-and-User-Add-and-Remove-Tool](https://github.com/harvansh007/Intune-Device-and-User-Add-and-Remove-Tool)
 <!-- LATESTACTIVITYGITHUB:END -->
 
-[![](https://visitcount.itsvg.in/api?id=SchmittNieto&icon=0&color=3)](https://visitcount.itsvg.in)
