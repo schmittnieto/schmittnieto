@@ -40,6 +40,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/c170f7e2c6...9b12dd1fe8)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/90640adb2b...d9d633a449)
 - [schmittnieto starred ddneves/awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning)
@@ -55,6 +56,5 @@
 - [schmittnieto starred kmcquade/awesome-azure-security](https://github.com/kmcquade/awesome-azure-security)
 - [schmittnieto starred Azure-Samples/ai-document-review](https://github.com/Azure-Samples/ai-document-review)
 - [schmittnieto starred Friends-Security/ShadowHound](https://github.com/Friends-Security/ShadowHound)
-- [schmittnieto starred mivano/azure-cost-cli](https://github.com/mivano/azure-cost-cli)
 <!-- LATESTACTIVITYGITHUB:END -->
 
