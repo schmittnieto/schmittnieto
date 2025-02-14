@@ -40,9 +40,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b7398481fe...674139f701)
 - [schmittnieto starred Azure/RDS-Templates](https://github.com/Azure/RDS-Templates)
 - [schmittnieto starred ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/c170f7e2c6...9b12dd1fe8)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/90640adb2b...d9d633a449)
 - [schmittnieto starred ddneves/awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning)
 - [schmittnieto starred megadose/holehe](https://github.com/megadose/holehe)
@@ -55,6 +55,5 @@
 - [schmittnieto starred 0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list)
 - [schmittnieto starred lrivallain/az-migrate-dep-visu](https://github.com/lrivallain/az-migrate-dep-visu)
 - [schmittnieto starred kmcquade/awesome-azure-security](https://github.com/kmcquade/awesome-azure-security)
-- [schmittnieto starred Azure-Samples/ai-document-review](https://github.com/Azure-Samples/ai-document-review)
 <!-- LATESTACTIVITYGITHUB:END -->
 
