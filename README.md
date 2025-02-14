@@ -40,7 +40,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b7398481fe...674139f701)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/ca0039a1d5...d655e0a11a)
+- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/f21e163685...763ba35a31)
 - [schmittnieto starred Azure/RDS-Templates](https://github.com/Azure/RDS-Templates)
 - [schmittnieto starred ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/90640adb2b...d9d633a449)
@@ -52,8 +53,5 @@
 - [schmittnieto starred microsoft/Intune-solutions](https://github.com/microsoft/Intune-solutions)
 - [schmittnieto starred microsoft/mggraph-intune-samples](https://github.com/microsoft/mggraph-intune-samples)
 - [schmittnieto starred deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
-- [schmittnieto starred 0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list)
-- [schmittnieto starred lrivallain/az-migrate-dep-visu](https://github.com/lrivallain/az-migrate-dep-visu)
-- [schmittnieto starred kmcquade/awesome-azure-security](https://github.com/kmcquade/awesome-azure-security)
 <!-- LATESTACTIVITYGITHUB:END -->
 
