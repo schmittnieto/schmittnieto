@@ -40,6 +40,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred jamesdplee/cloudlee-projects](https://github.com/jamesdplee/cloudlee-projects)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/ca0039a1d5...d655e0a11a)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/f21e163685...763ba35a31)
 - [schmittnieto starred Azure/RDS-Templates](https://github.com/Azure/RDS-Templates)
@@ -52,6 +53,5 @@
 - [schmittnieto starred microsoft/shell-intune-samples](https://github.com/microsoft/shell-intune-samples)
 - [schmittnieto starred microsoft/Intune-solutions](https://github.com/microsoft/Intune-solutions)
 - [schmittnieto starred microsoft/mggraph-intune-samples](https://github.com/microsoft/mggraph-intune-samples)
-- [schmittnieto starred deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)
 <!-- LATESTACTIVITYGITHUB:END -->
 
