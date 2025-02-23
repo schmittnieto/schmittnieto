@@ -40,12 +40,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred microsoft/LinuxBrokerForAVDAccess](https://github.com/microsoft/LinuxBrokerForAVDAccess)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/333204fc8c...4b0ec12296)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/d655e0a11a...e71af489d2)
 - [schmittnieto starred jamesdplee/cloudlee-projects](https://github.com/jamesdplee/cloudlee-projects)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/ca0039a1d5...d655e0a11a)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/f21e163685...763ba35a31)
 - [schmittnieto starred Azure/RDS-Templates](https://github.com/Azure/RDS-Templates)
 - [schmittnieto starred ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/90640adb2b...d9d633a449)
 - [schmittnieto starred ddneves/awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning)
 - [schmittnieto starred megadose/holehe](https://github.com/megadose/holehe)
 - [schmittnieto starred carlzxc71/azure-terraform-metricalerts](https://github.com/carlzxc71/azure-terraform-metricalerts)
