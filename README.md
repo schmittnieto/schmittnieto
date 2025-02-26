@@ -40,6 +40,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred ugurkocde/IntuneBrew](https://github.com/ugurkocde/IntuneBrew)
 - [schmittnieto starred Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)
 - [schmittnieto starred microsoft/LinuxBrokerForAVDAccess](https://github.com/microsoft/LinuxBrokerForAVDAccess)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/333204fc8c...4b0ec12296)
