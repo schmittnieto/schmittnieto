@@ -40,6 +40,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred microsoft/AaronLocker](https://github.com/microsoft/AaronLocker)
 - [schmittnieto starred ugurkocde/IntuneBrew](https://github.com/ugurkocde/IntuneBrew)
 - [schmittnieto starred Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)
 - [schmittnieto starred microsoft/LinuxBrokerForAVDAccess](https://github.com/microsoft/LinuxBrokerForAVDAccess)
@@ -52,9 +53,5 @@
 - [schmittnieto starred ddneves/awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning)
 - [schmittnieto starred megadose/holehe](https://github.com/megadose/holehe)
 - [schmittnieto starred carlzxc71/azure-terraform-metricalerts](https://github.com/carlzxc71/azure-terraform-metricalerts)
-- [schmittnieto starred chrisbinsunny/chrisbinsunny.github.io](https://github.com/chrisbinsunny/chrisbinsunny.github.io)
-- [schmittnieto starred microsoft/shell-intune-samples](https://github.com/microsoft/shell-intune-samples)
-- [schmittnieto starred microsoft/Intune-solutions](https://github.com/microsoft/Intune-solutions)
-- [schmittnieto starred microsoft/mggraph-intune-samples](https://github.com/microsoft/mggraph-intune-samples)
 <!-- LATESTACTIVITYGITHUB:END -->
 
