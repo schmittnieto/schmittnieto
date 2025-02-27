@@ -40,6 +40,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred vinijmoura/Azure-DevOps](https://github.com/vinijmoura/Azure-DevOps)
 - [schmittnieto starred microsoft/AaronLocker](https://github.com/microsoft/AaronLocker)
 - [schmittnieto starred ugurkocde/IntuneBrew](https://github.com/ugurkocde/IntuneBrew)
 - [schmittnieto starred Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)
