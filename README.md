@@ -40,6 +40,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred microsoft/ARI](https://github.com/microsoft/ARI)
 - [schmittnieto starred markjones-msft/ArcDashboard](https://github.com/markjones-msft/ArcDashboard)
 - [schmittnieto starred MSB365/Microsoft-365-assessment-Script](https://github.com/MSB365/Microsoft-365-assessment-Script)
 - [schmittnieto closed an issue in Azure/AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/27)
