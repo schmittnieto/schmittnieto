@@ -40,7 +40,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/f8ceb2ecf0...352182f517)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/1fb6819d69...b1e65d7f00)
 - [schmittnieto starred microsoft/ARI](https://github.com/microsoft/ARI)
 - [schmittnieto starred markjones-msft/ArcDashboard](https://github.com/markjones-msft/ArcDashboard)
 - [schmittnieto starred MSB365/Microsoft-365-assessment-Script](https://github.com/MSB365/Microsoft-365-assessment-Script)
@@ -55,6 +55,5 @@
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/f21e163685...763ba35a31)
 - [schmittnieto starred Azure/RDS-Templates](https://github.com/Azure/RDS-Templates)
 - [schmittnieto starred ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
-- [schmittnieto starred ddneves/awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning)
 <!-- LATESTACTIVITYGITHUB:END -->
 
