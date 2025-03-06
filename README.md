@@ -40,7 +40,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/9c8433e646...53c080ee29)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/40bc2f4004...df6ffcbc0b)
 - [schmittnieto starred microsoft/ARI](https://github.com/microsoft/ARI)
 - [schmittnieto starred markjones-msft/ArcDashboard](https://github.com/markjones-msft/ArcDashboard)
 - [schmittnieto starred MSB365/Microsoft-365-assessment-Script](https://github.com/MSB365/Microsoft-365-assessment-Script)
@@ -52,6 +52,5 @@
 - [schmittnieto starred microsoft/LinuxBrokerForAVDAccess](https://github.com/microsoft/LinuxBrokerForAVDAccess)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/333204fc8c...4b0ec12296)
 - [schmittnieto starred jamesdplee/cloudlee-projects](https://github.com/jamesdplee/cloudlee-projects)
-- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/f21e163685...763ba35a31)
 <!-- LATESTACTIVITYGITHUB:END -->
 
