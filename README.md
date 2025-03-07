@@ -40,7 +40,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/915b9a5194...2773b3cbfb)
+- [schmittnieto closed an issue in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/issues/1)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/2773b3cbfb...60b7a3090a)
+- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/763ba35a31...7b8425964c)
 - [schmittnieto starred microsoft/ARI](https://github.com/microsoft/ARI)
 - [schmittnieto starred markjones-msft/ArcDashboard](https://github.com/markjones-msft/ArcDashboard)
 - [schmittnieto starred MSB365/Microsoft-365-assessment-Script](https://github.com/MSB365/Microsoft-365-assessment-Script)
@@ -49,7 +51,5 @@
 - [schmittnieto starred microsoft/AaronLocker](https://github.com/microsoft/AaronLocker)
 - [schmittnieto starred ugurkocde/IntuneBrew](https://github.com/ugurkocde/IntuneBrew)
 - [schmittnieto starred Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)
-- [schmittnieto starred microsoft/LinuxBrokerForAVDAccess](https://github.com/microsoft/LinuxBrokerForAVDAccess)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/333204fc8c...4b0ec12296)
 <!-- LATESTACTIVITYGITHUB:END -->
 
