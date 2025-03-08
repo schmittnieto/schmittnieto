@@ -40,16 +40,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/88af1050f7...74d3fd91d7)
+- [schmittnieto created a branch main in schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/main)
+- [schmittnieto created a repository schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator//)
 - [schmittnieto closed an issue in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/issues/1)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/2773b3cbfb...60b7a3090a)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/763ba35a31...7b8425964c)
 - [schmittnieto starred microsoft/ARI](https://github.com/microsoft/ARI)
 - [schmittnieto starred markjones-msft/ArcDashboard](https://github.com/markjones-msft/ArcDashboard)
-- [schmittnieto starred MSB365/Microsoft-365-assessment-Script](https://github.com/MSB365/Microsoft-365-assessment-Script)
-- [schmittnieto closed an issue in Azure/AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/27)
-- [schmittnieto starred vinijmoura/Azure-DevOps](https://github.com/vinijmoura/Azure-DevOps)
-- [schmittnieto starred microsoft/AaronLocker](https://github.com/microsoft/AaronLocker)
-- [schmittnieto starred ugurkocde/IntuneBrew](https://github.com/ugurkocde/IntuneBrew)
-- [schmittnieto starred Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)
 <!-- LATESTACTIVITYGITHUB:END -->
 
