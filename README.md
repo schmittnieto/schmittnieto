@@ -40,13 +40,11 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/88af1050f7...74d3fd91d7)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/e3e65f7a13...7107d7d352)
+- [schmittnieto pushed to main in schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/74d3fd91d7...ca7fd49f9a)
 - [schmittnieto created a branch main in schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/main)
 - [schmittnieto created a repository schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator//)
 - [schmittnieto closed an issue in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/issues/1)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/2773b3cbfb...60b7a3090a)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/763ba35a31...7b8425964c)
-- [schmittnieto starred microsoft/ARI](https://github.com/microsoft/ARI)
-- [schmittnieto starred markjones-msft/ArcDashboard](https://github.com/markjones-msft/ArcDashboard)
 <!-- LATESTACTIVITYGITHUB:END -->
 
