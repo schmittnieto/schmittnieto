@@ -40,6 +40,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred glueckkanja/MyWorkID](https://github.com/glueckkanja/MyWorkID)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/7107d7d352...d4c6435a04)
 - [schmittnieto starred schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator)
 - [schmittnieto pushed to main in schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/74d3fd91d7...ca7fd49f9a)
