@@ -40,6 +40,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred AllwaysHyPe/graph-automation-infra](https://github.com/AllwaysHyPe/graph-automation-infra)
 - [schmittnieto starred microsoft/just-another-kusto-hacker](https://github.com/microsoft/just-another-kusto-hacker)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/cacacdd0de...13eccacf39)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/fbb602687b...a30a1d5e30)
