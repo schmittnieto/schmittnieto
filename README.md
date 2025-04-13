@@ -45,6 +45,5 @@
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/cacacdd0de...13eccacf39)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/fbb602687b...a30a1d5e30)
 - [schmittnieto starred AllwaysHyPe/graph-automation](https://github.com/AllwaysHyPe/graph-automation)
-- [schmittnieto starred kevincobain2000/action-camo-purge](https://github.com/kevincobain2000/action-camo-purge)
 <!-- LATESTACTIVITYGITHUB:END -->
 
