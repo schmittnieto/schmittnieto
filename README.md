@@ -26,7 +26,9 @@
 
 | Badge | Certification |
 |---|---|
-| <img src="/assets/img/mscc2025.png" height="120" width="120"/> | [Microsoft Community Contributor 2025](https://www.credly.com/badges/c9188d86-44a2-457b-bcb7-11423a24a97c/public_url) | <img src="/assets/img/mscc2024.png" height="120" width="120"/> | [Microsoft Community Contributor 2024](https://www.credly.com/badges/5c59cba2-abd4-49bf-99e4-4f72570851d0/public_url) | <img src="/assets/img/devoteam-digital-champion.png" height="120" width="120"/> | [Devoteam Digital Champion](https://eu.badgr.com/public/assertions/nyYBb_cJS_yLso8m1pnOHQ?identity__email=cristian.schmitt.nieto@devoteam.com) |
+| <img src="/assets/img/mscc2025.png" height="120" width="120"/> | [Microsoft Community Contributor 2025](https://www.credly.com/badges/c9188d86-44a2-457b-bcb7-11423a24a97c/public_url) |
+| <img src="/assets/img/mscc2024.png" height="120" width="120"/> | [Microsoft Community Contributor 2024](https://www.credly.com/badges/5c59cba2-abd4-49bf-99e4-4f72570851d0/public_url) |
+| <img src="/assets/img/devoteam-digital-champion.png" height="120" width="120"/> | [Devoteam Digital Champion](https://eu.badgr.com/public/assertions/nyYBb_cJS_yLso8m1pnOHQ?identity__email=cristian.schmitt.nieto@devoteam.com) |
 | <img src="/assets/img/nerdio-nme-200.png" height="120" width="120"/> | [Nerdio Manager for Enterprise Certified](https://schmitt-nieto.com/assets/img/cert/NME-200.pdf) |
 | <img src="/assets/img/microsoft-certified-fundamentals-badge-AI.png" height="120" width="120"/> | [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/CristianSchmittNieto/DEC07C6846AF65A7?sharingId=24F0DC952D8EB05D) |
 | <img src="/assets/img/microsoft-certified-associate-badge-adm.png" height="120" width="120"/> | [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/CristianSchmittNieto/5FBC968AEABFC10B?sharingId=24F0DC952D8EB05D) |
