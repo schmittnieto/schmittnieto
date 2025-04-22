@@ -42,14 +42,14 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/a52fd0e04b...a0a0d63e2e)
+- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/a30a1d5e30...dc9b82c4f0)
 - [schmittnieto pushed to main in schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/a072702b1a...5356830ab5)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/0ed7b4ef2f...a52fd0e04b)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/e48d6df264...3bc55c6c4d)
 - [schmittnieto pushed to main in schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/7f5aceb9ff...8d1ecd076f)
 - [schmittnieto created a branch main in schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/main)
 - [schmittnieto created a repository schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions//)
 - [schmittnieto starred AllwaysHyPe/graph-automation-infra](https://github.com/AllwaysHyPe/graph-automation-infra)
 - [schmittnieto starred microsoft/just-another-kusto-hacker](https://github.com/microsoft/just-another-kusto-hacker)
-- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/fbb602687b...a30a1d5e30)
 <!-- LATESTACTIVITYGITHUB:END -->
 
