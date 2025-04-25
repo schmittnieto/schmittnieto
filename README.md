@@ -42,6 +42,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit)
 - [schmittnieto starred PieterbasNagengast/Azure-AzMappingWorkbook](https://github.com/PieterbasNagengast/Azure-AzMappingWorkbook)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ded8ac0d59...ddcbf6f582)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/a52fd0e04b...a0a0d63e2e)
