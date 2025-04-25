@@ -42,6 +42,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto opened an issue in merill/aka](https://github.com/merill/aka/issues/3139)
 - [schmittnieto starred enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit)
 - [schmittnieto starred PieterbasNagengast/Azure-AzMappingWorkbook](https://github.com/PieterbasNagengast/Azure-AzMappingWorkbook)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ded8ac0d59...ddcbf6f582)
@@ -52,6 +53,5 @@
 - [schmittnieto created a branch main in schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/main)
 - [schmittnieto created a repository schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions//)
 - [schmittnieto starred AllwaysHyPe/graph-automation-infra](https://github.com/AllwaysHyPe/graph-automation-infra)
-- [schmittnieto starred microsoft/just-another-kusto-hacker](https://github.com/microsoft/just-another-kusto-hacker)
 <!-- LATESTACTIVITYGITHUB:END -->
 
