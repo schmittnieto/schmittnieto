@@ -42,6 +42,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/6de51fce88...a94cf3d53e)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/55c3ce7841...d16c11295a)
 - [schmittnieto opened an issue in merill/aka](https://github.com/merill/aka/issues/3139)
@@ -50,6 +51,5 @@
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ded8ac0d59...ddcbf6f582)
 - [schmittnieto pushed to main in schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/a072702b1a...5356830ab5)
 - [schmittnieto pushed to main in schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/7f5aceb9ff...8d1ecd076f)
-- [schmittnieto created a branch main in schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/main)
 <!-- LATESTACTIVITYGITHUB:END -->
 
