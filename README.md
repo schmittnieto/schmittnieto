@@ -42,9 +42,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/9987c9e27e...0101917af2)
 - [schmittnieto starred Azure/DevBoxAccelerator](https://github.com/Azure/DevBoxAccelerator)
 - [schmittnieto starred GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/c517fe103a...c7fd648938)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/d16c11295a...a13b3d1b23)
 - [schmittnieto pushed to main in schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/8d1ecd076f...b1712ee242)
 - [schmittnieto starred erikgraa/azure-arc-gateway-terraform](https://github.com/erikgraa/azure-arc-gateway-terraform)
