@@ -42,6 +42,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred rod-trent/MustLearnKQL](https://github.com/rod-trent/MustLearnKQL)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/9987c9e27e...0101917af2)
 - [schmittnieto starred Azure/DevBoxAccelerator](https://github.com/Azure/DevBoxAccelerator)
 - [schmittnieto starred GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai)
