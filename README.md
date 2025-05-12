@@ -42,6 +42,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred kewalaka/az-bootstrap](https://github.com/kewalaka/az-bootstrap)
 - [schmittnieto starred midudev/libro-aprendiendo-git-issues](https://github.com/midudev/libro-aprendiendo-git-issues)
 - [schmittnieto forked schmittnieto/Azure-AzMappingWorkbook from PieterbasNagengast/Azure-AzMappingWorkbook](https://github.com/schmittnieto/Azure-AzMappingWorkbook)
 - [schmittnieto starred rod-trent/MustLearnKQL](https://github.com/rod-trent/MustLearnKQL)
