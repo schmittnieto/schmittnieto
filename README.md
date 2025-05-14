@@ -42,6 +42,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred vijay2181/k8s-500-prod-issues](https://github.com/vijay2181/k8s-500-prod-issues)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/72609cdf9d...f78a3b4faf)
 - [schmittnieto starred kewalaka/az-bootstrap](https://github.com/kewalaka/az-bootstrap)
 - [schmittnieto starred midudev/libro-aprendiendo-git-issues](https://github.com/midudev/libro-aprendiendo-git-issues)
