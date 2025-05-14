@@ -42,11 +42,11 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/72609cdf9d...f78a3b4faf)
 - [schmittnieto starred kewalaka/az-bootstrap](https://github.com/kewalaka/az-bootstrap)
 - [schmittnieto starred midudev/libro-aprendiendo-git-issues](https://github.com/midudev/libro-aprendiendo-git-issues)
 - [schmittnieto forked schmittnieto/Azure-AzMappingWorkbook from PieterbasNagengast/Azure-AzMappingWorkbook](https://github.com/schmittnieto/Azure-AzMappingWorkbook)
 - [schmittnieto starred rod-trent/MustLearnKQL](https://github.com/rod-trent/MustLearnKQL)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/9987c9e27e...0101917af2)
 - [schmittnieto starred Azure/DevBoxAccelerator](https://github.com/Azure/DevBoxAccelerator)
 - [schmittnieto starred GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/d16c11295a...a13b3d1b23)
