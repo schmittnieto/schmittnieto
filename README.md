@@ -42,6 +42,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/f559c46675...30ccf90c2f)
 - [schmittnieto starred vijay2181/k8s-500-prod-issues](https://github.com/vijay2181/k8s-500-prod-issues)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/72609cdf9d...f78a3b4faf)
 - [schmittnieto starred kewalaka/az-bootstrap](https://github.com/kewalaka/az-bootstrap)
@@ -58,6 +59,5 @@
 - [schmittnieto starred enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit)
 - [schmittnieto starred PieterbasNagengast/Azure-AzMappingWorkbook](https://github.com/PieterbasNagengast/Azure-AzMappingWorkbook)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ded8ac0d59...ddcbf6f582)
-- [schmittnieto pushed to main in schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/a072702b1a...5356830ab5)
 <!-- LATESTACTIVITYGITHUB:END -->
 
