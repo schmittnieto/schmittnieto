@@ -26,6 +26,7 @@
 
 | Badge | Certification |
 |---|---|
+| <img src="/assets/img/mscca2025.png" height="120" width="120"/> | [Microsoft Community Advocate 2025](https://www.credly.com/badges/1e812232-ae96-4aba-b1f3-ef021a1d562e/public_url) |
 | <img src="/assets/img/mscc2025.png" height="120" width="120"/> | [Microsoft Community Contributor 2025](https://www.credly.com/badges/c9188d86-44a2-457b-bcb7-11423a24a97c/public_url) |
 | <img src="/assets/img/mscc2024.png" height="120" width="120"/> | [Microsoft Community Contributor 2024](https://www.credly.com/badges/5c59cba2-abd4-49bf-99e4-4f72570851d0/public_url) |
 | <img src="/assets/img/devoteam-digital-champion.png" height="120" width="120"/> | [Devoteam Digital Champion](https://eu.badgr.com/public/assertions/nyYBb_cJS_yLso8m1pnOHQ?identity__email=cristian.schmitt.nieto@devoteam.com) |
