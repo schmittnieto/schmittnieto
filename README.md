@@ -42,22 +42,15 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/7b1fc27454...06be1d4e6e)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/f78a3b4faf...e51411ebf6)
 - [schmittnieto pushed to main in schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/f559c46675...30ccf90c2f)
 - [schmittnieto starred vijay2181/k8s-500-prod-issues](https://github.com/vijay2181/k8s-500-prod-issues)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/72609cdf9d...f78a3b4faf)
 - [schmittnieto starred kewalaka/az-bootstrap](https://github.com/kewalaka/az-bootstrap)
 - [schmittnieto starred midudev/libro-aprendiendo-git-issues](https://github.com/midudev/libro-aprendiendo-git-issues)
 - [schmittnieto forked schmittnieto/Azure-AzMappingWorkbook from PieterbasNagengast/Azure-AzMappingWorkbook](https://github.com/schmittnieto/Azure-AzMappingWorkbook)
 - [schmittnieto starred rod-trent/MustLearnKQL](https://github.com/rod-trent/MustLearnKQL)
 - [schmittnieto starred Azure/DevBoxAccelerator](https://github.com/Azure/DevBoxAccelerator)
 - [schmittnieto starred GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai)
-- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/d16c11295a...a13b3d1b23)
-- [schmittnieto pushed to main in schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/8d1ecd076f...b1712ee242)
-- [schmittnieto starred erikgraa/azure-arc-gateway-terraform](https://github.com/erikgraa/azure-arc-gateway-terraform)
-- [schmittnieto starred x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
-- [schmittnieto opened an issue in merill/aka](https://github.com/merill/aka/issues/3139)
-- [schmittnieto starred enderalci/AACMAToolkit](https://github.com/enderalci/AACMAToolkit)
-- [schmittnieto starred PieterbasNagengast/Azure-AzMappingWorkbook](https://github.com/PieterbasNagengast/Azure-AzMappingWorkbook)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ded8ac0d59...ddcbf6f582)
 <!-- LATESTACTIVITYGITHUB:END -->
 
