@@ -43,17 +43,19 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred apvarun/blist-hugo-theme](https://github.com/apvarun/blist-hugo-theme)
+- [schmittnieto starred xianmin/hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane)
+- [schmittnieto starred devcows/hugo-universal-theme](https://github.com/devcows/hugo-universal-theme)
+- [schmittnieto starred CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)
+- [schmittnieto starred AmazingRise/hugo-theme-diary](https://github.com/AmazingRise/hugo-theme-diary)
+- [schmittnieto starred g1eny0ung/hugo-theme-dream](https://github.com/g1eny0ung/hugo-theme-dream)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/2cd2d1909b...a2151ff2c6)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ef446f1141...eb3d83b0c0)
+- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/a13b3d1b23...18d544f3e4)
 - [schmittnieto opened a pull request in Get-Nerdio/NMW](https://github.com/Get-Nerdio/NMW/pull/39)
 - [schmittnieto pushed to main in schmittnieto/NMW](https://github.com/schmittnieto/NMW/compare/0cfb2b3396...001a9c8410)
 - [schmittnieto forked schmittnieto/NMW from Get-Nerdio/NMW](https://github.com/schmittnieto/NMW)
 - [schmittnieto forked schmittnieto/review-checklists from Azure/review-checklists](https://github.com/schmittnieto/review-checklists)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/7b1fc27454...06be1d4e6e)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/f78a3b4faf...e51411ebf6)
 - [schmittnieto pushed to main in schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/f559c46675...30ccf90c2f)
-- [schmittnieto starred vijay2181/k8s-500-prod-issues](https://github.com/vijay2181/k8s-500-prod-issues)
-- [schmittnieto starred kewalaka/az-bootstrap](https://github.com/kewalaka/az-bootstrap)
-- [schmittnieto starred midudev/libro-aprendiendo-git-issues](https://github.com/midudev/libro-aprendiendo-git-issues)
-- [schmittnieto forked schmittnieto/Azure-AzMappingWorkbook from PieterbasNagengast/Azure-AzMappingWorkbook](https://github.com/schmittnieto/Azure-AzMappingWorkbook)
-- [schmittnieto starred rod-trent/MustLearnKQL](https://github.com/rod-trent/MustLearnKQL)
 <!-- LATESTACTIVITYGITHUB:END -->
 
