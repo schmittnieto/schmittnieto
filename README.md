@@ -14,11 +14,11 @@
 
 # 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Nerdio Scripted Actions: Windows Scripts](https://schmitt-nieto.com/blog/nerdio-scripted-actions-windows-scripts/)
 - [Azure Local: Backup and Disaster Recovery](https://schmitt-nieto.com/blog/azure-local-backup-and-disaster-recovery/)
 - [Azure Local: Redundancy](https://schmitt-nieto.com/blog/azure-local-redundancy/)
 - [Azure Local meets Nerdio](https://schmitt-nieto.com/blog/azure-local-nerdio/)
 - [Azure Local: Lifecycle Management](https://schmitt-nieto.com/blog/azure-local-lifecycle/)
-- [Azure Local: AKS and SQL Managed instances](https://schmitt-nieto.com/blog/azure-local-aks/)
 <!-- BLOG-POST-LIST:END -->
 <!-- Credits to Blog Updates on readme to: https://github.com/gautamkrishnar/blog-post-workflow -->
 
