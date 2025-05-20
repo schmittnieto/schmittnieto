@@ -43,6 +43,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred DanielBradley1/CAPolicyCopier](https://github.com/DanielBradley1/CAPolicyCopier)
 - [schmittnieto starred dell/azurestack-docs](https://github.com/dell/azurestack-docs)
 - [schmittnieto starred schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/437fdd95b0...a23ffffe41)
