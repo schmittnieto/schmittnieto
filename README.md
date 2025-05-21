@@ -43,6 +43,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto forked schmittnieto/AzureLocalHOLs from DellGEOS/AzureLocalHOLs](https://github.com/schmittnieto/AzureLocalHOLs)
 - [schmittnieto starred DanielBradley1/CAPolicyCopier](https://github.com/DanielBradley1/CAPolicyCopier)
 - [schmittnieto starred dell/azurestack-docs](https://github.com/dell/azurestack-docs)
 - [schmittnieto starred schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions)
