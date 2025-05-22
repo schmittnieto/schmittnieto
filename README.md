@@ -48,7 +48,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/59433a8358...dbf16e1e6c)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/1b6ea54193...4d60163fa9)
 - [schmittnieto forked schmittnieto/AzureLocalHOLs from DellGEOS/AzureLocalHOLs](https://github.com/schmittnieto/AzureLocalHOLs)
 - [schmittnieto starred DanielBradley1/CAPolicyCopier](https://github.com/DanielBradley1/CAPolicyCopier)
 - [schmittnieto starred dell/azurestack-docs](https://github.com/dell/azurestack-docs)
@@ -64,11 +64,5 @@
 - [schmittnieto pushed to main in schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/30ccf90c2f...955b5bbee2)
 - [schmittnieto starred george-markou/Azure-Hyper-V-Lab](https://github.com/george-markou/Azure-Hyper-V-Lab)
 - [schmittnieto forked schmittnieto/az-bootstrap from kewalaka/az-bootstrap](https://github.com/schmittnieto/az-bootstrap)
-- [schmittnieto starred apvarun/blist-hugo-theme](https://github.com/apvarun/blist-hugo-theme)
-- [schmittnieto starred xianmin/hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane)
-- [schmittnieto starred devcows/hugo-universal-theme](https://github.com/devcows/hugo-universal-theme)
-- [schmittnieto starred CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)
-- [schmittnieto starred AmazingRise/hugo-theme-diary](https://github.com/AmazingRise/hugo-theme-diary)
-- [schmittnieto starred g1eny0ung/hugo-theme-dream](https://github.com/g1eny0ung/hugo-theme-dream)
 <!-- LATESTACTIVITYGITHUB:END -->
 
