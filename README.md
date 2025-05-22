@@ -10,7 +10,7 @@
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=SchmittNieto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=m=SchmittNieto&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=schmittnieto&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SchmittNieto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📝 Latest Blog Posts
