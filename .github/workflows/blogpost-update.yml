@@ -19,4 +19,4 @@ jobs:
           feed_list: "https://schmitt-nieto.com/feed.xml"
           max_post_count: '10'
           date_format: "UTC:dd mmm yyyy"
-          template: "$newline- [$title]($url) - $date"
+          template: "$newline- $date - [$title]($url)"
