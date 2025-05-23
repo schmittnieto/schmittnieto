@@ -48,6 +48,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred gnon17/MS-Cloud-Scripts](https://github.com/gnon17/MS-Cloud-Scripts)
+- [schmittnieto forked schmittnieto/migration-visualizer from Zerg00s/migration-visualizer](https://github.com/schmittnieto/migration-visualizer)
+- [schmittnieto starred Zerg00s/migration-visualizer](https://github.com/Zerg00s/migration-visualizer)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/1b6ea54193...4d60163fa9)
 - [schmittnieto forked schmittnieto/AzureLocalHOLs from DellGEOS/AzureLocalHOLs](https://github.com/schmittnieto/AzureLocalHOLs)
 - [schmittnieto starred DanielBradley1/CAPolicyCopier](https://github.com/DanielBradley1/CAPolicyCopier)
@@ -62,7 +65,5 @@
 - [schmittnieto pushed to main in schmittnieto/NMW](https://github.com/schmittnieto/NMW/compare/001a9c8410...b643b1bf8b)
 - [schmittnieto closed a pull request in Get-Nerdio/NMW](https://github.com/Get-Nerdio/NMW/pull/39)
 - [schmittnieto pushed to main in schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/30ccf90c2f...955b5bbee2)
-- [schmittnieto starred george-markou/Azure-Hyper-V-Lab](https://github.com/george-markou/Azure-Hyper-V-Lab)
-- [schmittnieto forked schmittnieto/az-bootstrap from kewalaka/az-bootstrap](https://github.com/schmittnieto/az-bootstrap)
 <!-- LATESTACTIVITYGITHUB:END -->
 
