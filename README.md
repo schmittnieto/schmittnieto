@@ -48,6 +48,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred DanielBradley1/Entra-Authentication-Methods-Report](https://github.com/DanielBradley1/Entra-Authentication-Methods-Report)
+- [schmittnieto starred ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam)
 - [schmittnieto starred gnon17/MS-Cloud-Scripts](https://github.com/gnon17/MS-Cloud-Scripts)
 - [schmittnieto forked schmittnieto/migration-visualizer from Zerg00s/migration-visualizer](https://github.com/schmittnieto/migration-visualizer)
 - [schmittnieto starred Zerg00s/migration-visualizer](https://github.com/Zerg00s/migration-visualizer)
@@ -63,7 +65,5 @@
 - [schmittnieto starred jvalegre/aqme](https://github.com/jvalegre/aqme)
 - [schmittnieto opened a pull request in Get-Nerdio/NMW](https://github.com/Get-Nerdio/NMW/pull/40)
 - [schmittnieto pushed to main in schmittnieto/NMW](https://github.com/schmittnieto/NMW/compare/001a9c8410...b643b1bf8b)
-- [schmittnieto closed a pull request in Get-Nerdio/NMW](https://github.com/Get-Nerdio/NMW/pull/39)
-- [schmittnieto pushed to main in schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/30ccf90c2f...955b5bbee2)
 <!-- LATESTACTIVITYGITHUB:END -->
 
