@@ -48,6 +48,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred alexverboon/Entra-PIM-Helpers](https://github.com/alexverboon/Entra-PIM-Helpers)
 - [schmittnieto starred DanielBradley1/Entra-Authentication-Methods-Report](https://github.com/DanielBradley1/Entra-Authentication-Methods-Report)
 - [schmittnieto starred ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam)
 - [schmittnieto starred gnon17/MS-Cloud-Scripts](https://github.com/gnon17/MS-Cloud-Scripts)
@@ -64,6 +65,5 @@
 - [schmittnieto starred fberson/Slidedecks](https://github.com/fberson/Slidedecks)
 - [schmittnieto starred jvalegre/aqme](https://github.com/jvalegre/aqme)
 - [schmittnieto opened a pull request in Get-Nerdio/NMW](https://github.com/Get-Nerdio/NMW/pull/40)
-- [schmittnieto pushed to main in schmittnieto/NMW](https://github.com/schmittnieto/NMW/compare/001a9c8410...b643b1bf8b)
 <!-- LATESTACTIVITYGITHUB:END -->
 
