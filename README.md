@@ -48,6 +48,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/a23ffffe41...f58ec18916)
+- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/3888eb323e...508df96e7c)
+- [schmittnieto starred nicowyss/accesspackagebuilder](https://github.com/nicowyss/accesspackagebuilder)
 - [schmittnieto starred alexverboon/Entra-PIM-Helpers](https://github.com/alexverboon/Entra-PIM-Helpers)
 - [schmittnieto starred DanielBradley1/Entra-Authentication-Methods-Report](https://github.com/DanielBradley1/Entra-Authentication-Methods-Report)
 - [schmittnieto starred ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam)
@@ -59,11 +62,8 @@
 - [schmittnieto starred DanielBradley1/CAPolicyCopier](https://github.com/DanielBradley1/CAPolicyCopier)
 - [schmittnieto starred dell/azurestack-docs](https://github.com/dell/azurestack-docs)
 - [schmittnieto starred schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/437fdd95b0...a23ffffe41)
-- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/18d544f3e4...3888eb323e)
 - [schmittnieto starred fberson/Parallels](https://github.com/fberson/Parallels)
 - [schmittnieto starred fberson/Slidedecks](https://github.com/fberson/Slidedecks)
 - [schmittnieto starred jvalegre/aqme](https://github.com/jvalegre/aqme)
-- [schmittnieto opened a pull request in Get-Nerdio/NMW](https://github.com/Get-Nerdio/NMW/pull/40)
 <!-- LATESTACTIVITYGITHUB:END -->
 
