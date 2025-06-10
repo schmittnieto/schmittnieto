@@ -48,6 +48,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred Azure/azure-migrate-explore](https://github.com/Azure/azure-migrate-explore)
+- [schmittnieto starred Ruthhl3ss/intunedriftcontrol](https://github.com/Ruthhl3ss/intunedriftcontrol)
 - [schmittnieto starred Azure/Azure-Network-Security](https://github.com/Azure/Azure-Network-Security)
 - [schmittnieto starred open-webui/open-webui](https://github.com/open-webui/open-webui)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/a23ffffe41...f58ec18916)
@@ -66,6 +68,5 @@
 - [schmittnieto starred schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions)
 - [schmittnieto starred fberson/Parallels](https://github.com/fberson/Parallels)
 - [schmittnieto starred fberson/Slidedecks](https://github.com/fberson/Slidedecks)
-- [schmittnieto starred jvalegre/aqme](https://github.com/jvalegre/aqme)
 <!-- LATESTACTIVITYGITHUB:END -->
 
