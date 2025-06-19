@@ -63,6 +63,5 @@
 - [schmittnieto starred Zerg00s/migration-visualizer](https://github.com/Zerg00s/migration-visualizer)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/1b6ea54193...4d60163fa9)
 - [schmittnieto forked schmittnieto/AzureLocalHOLs from DellGEOS/AzureLocalHOLs](https://github.com/schmittnieto/AzureLocalHOLs)
-- [schmittnieto starred DanielBradley1/CAPolicyCopier](https://github.com/DanielBradley1/CAPolicyCopier)
 <!-- LATESTACTIVITYGITHUB:END -->
 
