@@ -64,9 +64,5 @@
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/1b6ea54193...4d60163fa9)
 - [schmittnieto forked schmittnieto/AzureLocalHOLs from DellGEOS/AzureLocalHOLs](https://github.com/schmittnieto/AzureLocalHOLs)
 - [schmittnieto starred DanielBradley1/CAPolicyCopier](https://github.com/DanielBradley1/CAPolicyCopier)
-- [schmittnieto starred dell/azurestack-docs](https://github.com/dell/azurestack-docs)
-- [schmittnieto starred schmittnieto/nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions)
-- [schmittnieto starred fberson/Parallels](https://github.com/fberson/Parallels)
-- [schmittnieto starred fberson/Slidedecks](https://github.com/fberson/Slidedecks)
 <!-- LATESTACTIVITYGITHUB:END -->
 
