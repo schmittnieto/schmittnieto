@@ -56,7 +56,5 @@
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/3888eb323e...508df96e7c)
 - [schmittnieto starred nicowyss/accesspackagebuilder](https://github.com/nicowyss/accesspackagebuilder)
 - [schmittnieto starred alexverboon/Entra-PIM-Helpers](https://github.com/alexverboon/Entra-PIM-Helpers)
-- [schmittnieto starred DanielBradley1/Entra-Authentication-Methods-Report](https://github.com/DanielBradley1/Entra-Authentication-Methods-Report)
-- [schmittnieto starred ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam)
 <!-- LATESTACTIVITYGITHUB:END -->
 
