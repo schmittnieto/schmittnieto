@@ -58,8 +58,5 @@
 - [schmittnieto starred alexverboon/Entra-PIM-Helpers](https://github.com/alexverboon/Entra-PIM-Helpers)
 - [schmittnieto starred DanielBradley1/Entra-Authentication-Methods-Report](https://github.com/DanielBradley1/Entra-Authentication-Methods-Report)
 - [schmittnieto starred ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam)
-- [schmittnieto starred gnon17/MS-Cloud-Scripts](https://github.com/gnon17/MS-Cloud-Scripts)
-- [schmittnieto forked schmittnieto/migration-visualizer from Zerg00s/migration-visualizer](https://github.com/schmittnieto/migration-visualizer)
-- [schmittnieto starred Zerg00s/migration-visualizer](https://github.com/Zerg00s/migration-visualizer)
 <!-- LATESTACTIVITYGITHUB:END -->
 
