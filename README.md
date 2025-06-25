@@ -56,6 +56,5 @@
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/a23ffffe41...f58ec18916)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/3888eb323e...508df96e7c)
 - [schmittnieto starred nicowyss/accesspackagebuilder](https://github.com/nicowyss/accesspackagebuilder)
-- [schmittnieto starred alexverboon/Entra-PIM-Helpers](https://github.com/alexverboon/Entra-PIM-Helpers)
 <!-- LATESTACTIVITYGITHUB:END -->
 
