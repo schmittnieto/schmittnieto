@@ -48,8 +48,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/d5fba78865...4d33cca629)
-- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/77f798bccf...385e4500af)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/84cbf9ac80...ec877fc894)
+- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/385e4500af...8a58d1c09c)
 - [schmittnieto forked schmittnieto/GPOZaurr from EvotecIT/GPOZaurr](https://github.com/schmittnieto/GPOZaurr)
 - [schmittnieto pushed to main in schmittnieto/NMW](https://github.com/schmittnieto/NMW/compare/b643b1bf8b...3351d1712f)
 - [schmittnieto starred Azure/azure-migrate-explore](https://github.com/Azure/azure-migrate-explore)
