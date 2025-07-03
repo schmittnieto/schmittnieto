@@ -55,7 +55,5 @@
 - [schmittnieto starred Azure/azure-migrate-explore](https://github.com/Azure/azure-migrate-explore)
 - [schmittnieto starred Ruthhl3ss/intunedriftcontrol](https://github.com/Ruthhl3ss/intunedriftcontrol)
 - [schmittnieto starred Azure/Azure-Network-Security](https://github.com/Azure/Azure-Network-Security)
-- [schmittnieto starred open-webui/open-webui](https://github.com/open-webui/open-webui)
-- [schmittnieto starred nicowyss/accesspackagebuilder](https://github.com/nicowyss/accesspackagebuilder)
 <!-- LATESTACTIVITYGITHUB:END -->
 
