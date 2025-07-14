@@ -48,6 +48,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred Azure/azure-monitor-baseline-alerts](https://github.com/Azure/azure-monitor-baseline-alerts)
 - [schmittnieto starred skiddder/arc-run-command](https://github.com/skiddder/arc-run-command)
 - [schmittnieto starred humanascode/terraform-azapi-nsgator](https://github.com/humanascode/terraform-azapi-nsgator)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/af79123801...9e0f65011f)
