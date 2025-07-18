@@ -48,11 +48,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/10d8039677...fa286877fc)
+- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/56c55878b5...14d93d7e79)
+- [schmittnieto starred nicolonsky/IntuneDriveMapping](https://github.com/nicolonsky/IntuneDriveMapping)
+- [schmittnieto starred PSBicep/PSBicep](https://github.com/PSBicep/PSBicep)
 - [schmittnieto starred Azure/azure-monitor-baseline-alerts](https://github.com/Azure/azure-monitor-baseline-alerts)
 - [schmittnieto starred skiddder/arc-run-command](https://github.com/skiddder/arc-run-command)
 - [schmittnieto starred humanascode/terraform-azapi-nsgator](https://github.com/humanascode/terraform-azapi-nsgator)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/af79123801...9e0f65011f)
-- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/8a58d1c09c...56c55878b5)
 - [schmittnieto forked schmittnieto/GPOZaurr from EvotecIT/GPOZaurr](https://github.com/schmittnieto/GPOZaurr)
 - [schmittnieto pushed to main in schmittnieto/NMW](https://github.com/schmittnieto/NMW/compare/b643b1bf8b...3351d1712f)
 <!-- LATESTACTIVITYGITHUB:END -->
