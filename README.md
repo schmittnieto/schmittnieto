@@ -48,8 +48,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/10d8039677...fa286877fc)
-- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/56c55878b5...14d93d7e79)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/0f00383f34...e82215e054)
+- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/14d93d7e79...d56eb44f48)
 - [schmittnieto starred nicolonsky/IntuneDriveMapping](https://github.com/nicolonsky/IntuneDriveMapping)
 - [schmittnieto starred PSBicep/PSBicep](https://github.com/PSBicep/PSBicep)
 - [schmittnieto starred Azure/azure-monitor-baseline-alerts](https://github.com/Azure/azure-monitor-baseline-alerts)
