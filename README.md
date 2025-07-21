@@ -51,15 +51,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/1970341be2...1fd45316f4)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/5f4ce99820...54eeb24368)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ce03b4341f...888934698d)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/67146c24ac...09f95bf9f4)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/14d93d7e79...d56eb44f48)
 - [schmittnieto starred nicolonsky/IntuneDriveMapping](https://github.com/nicolonsky/IntuneDriveMapping)
 - [schmittnieto starred PSBicep/PSBicep](https://github.com/PSBicep/PSBicep)
 - [schmittnieto starred Azure/azure-monitor-baseline-alerts](https://github.com/Azure/azure-monitor-baseline-alerts)
 - [schmittnieto starred skiddder/arc-run-command](https://github.com/skiddder/arc-run-command)
 - [schmittnieto starred humanascode/terraform-azapi-nsgator](https://github.com/humanascode/terraform-azapi-nsgator)
-- [schmittnieto forked schmittnieto/GPOZaurr from EvotecIT/GPOZaurr](https://github.com/schmittnieto/GPOZaurr)
-- [schmittnieto pushed to main in schmittnieto/NMW](https://github.com/schmittnieto/NMW/compare/b643b1bf8b...3351d1712f)
 <!-- LATESTACTIVITYGITHUB:END -->
 
