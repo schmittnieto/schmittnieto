@@ -50,7 +50,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/0f00383f34...e82215e054)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/1970341be2...1fd45316f4)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/5f4ce99820...54eeb24368)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/14d93d7e79...d56eb44f48)
 - [schmittnieto starred nicolonsky/IntuneDriveMapping](https://github.com/nicolonsky/IntuneDriveMapping)
 - [schmittnieto starred PSBicep/PSBicep](https://github.com/PSBicep/PSBicep)
