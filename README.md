@@ -31,6 +31,7 @@
 
 | Badge | Certification |
 |---|---|
+| <img src="/assets/img/nerdio-nmeps-100.png" height="120" width="120"/> | [Nerdio Enterprise Partner Sales Fundamentals (NMEPS-100)](https://schmitt-nieto.com/assets/img/cert/NMEPS-100.pdf) |
 | <img src="/assets/img/nerdio-nme-201.png" height="120" width="120"/> | [Nerdio Manager for Enterprise Foundations (NME-201)](https://schmitt-nieto.com/assets/img/cert/NME-201.pdf) |
 | <img src="/assets/img/mscca2025.png" height="120" width="120"/> | [Microsoft Community Advocate 2025](https://www.credly.com/badges/1e812232-ae96-4aba-b1f3-ef021a1d562e/public_url) |
 | <img src="/assets/img/mscc2025.png" height="120" width="120"/> | [Microsoft Community Contributor 2025](https://www.credly.com/badges/c9188d86-44a2-457b-bcb7-11423a24a97c/public_url) |
