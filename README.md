@@ -51,6 +51,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [schmittnieto starred srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ce03b4341f...888934698d)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/67146c24ac...09f95bf9f4)
