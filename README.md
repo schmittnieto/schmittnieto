@@ -51,11 +51,12 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/09f95bf9f4...7fd6377d08)
+- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/d56eb44f48...3a6d1e149e)
+- [schmittnieto starred christosgalano/bicep-template-repo](https://github.com/christosgalano/bicep-template-repo)
 - [schmittnieto starred kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [schmittnieto starred srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ce03b4341f...888934698d)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/67146c24ac...09f95bf9f4)
-- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/14d93d7e79...d56eb44f48)
 - [schmittnieto starred nicolonsky/IntuneDriveMapping](https://github.com/nicolonsky/IntuneDriveMapping)
 - [schmittnieto starred PSBicep/PSBicep](https://github.com/PSBicep/PSBicep)
 - [schmittnieto starred Azure/azure-monitor-baseline-alerts](https://github.com/Azure/azure-monitor-baseline-alerts)
