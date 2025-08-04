@@ -62,6 +62,5 @@
 - [schmittnieto starred PSBicep/PSBicep](https://github.com/PSBicep/PSBicep)
 - [schmittnieto starred Azure/azure-monitor-baseline-alerts](https://github.com/Azure/azure-monitor-baseline-alerts)
 - [schmittnieto starred skiddder/arc-run-command](https://github.com/skiddder/arc-run-command)
-- [schmittnieto starred humanascode/terraform-azapi-nsgator](https://github.com/humanascode/terraform-azapi-nsgator)
 <!-- LATESTACTIVITYGITHUB:END -->
 
