@@ -51,6 +51,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred Ruthhl3ss/PSNerdio](https://github.com/Ruthhl3ss/PSNerdio)
 - [schmittnieto starred emike09/Hyper-V](https://github.com/emike09/Hyper-V)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/09f95bf9f4...7fd6377d08)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/d56eb44f48...3a6d1e149e)
