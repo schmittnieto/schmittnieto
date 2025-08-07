@@ -51,6 +51,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred sapientinc/HRM](https://github.com/sapientinc/HRM)
 - [schmittnieto starred Azure-Samples/AzureLocal](https://github.com/Azure-Samples/AzureLocal)
 - [schmittnieto starred openai/gpt-oss](https://github.com/openai/gpt-oss)
 - [schmittnieto starred Ruthhl3ss/PSNerdio](https://github.com/Ruthhl3ss/PSNerdio)
