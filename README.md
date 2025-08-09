@@ -51,8 +51,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/e9d6cea174...11574c37b7)
 - [schmittnieto starred schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local)
-- [schmittnieto pushed to main in schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/378ed03283...ee29de0357)
 - [schmittnieto starred sapientinc/HRM](https://github.com/sapientinc/HRM)
 - [schmittnieto starred Azure-Samples/AzureLocal](https://github.com/Azure-Samples/AzureLocal)
 - [schmittnieto starred openai/gpt-oss](https://github.com/openai/gpt-oss)
@@ -65,7 +65,5 @@
 - [schmittnieto starred srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ce03b4341f...888934698d)
 - [schmittnieto starred nicolonsky/IntuneDriveMapping](https://github.com/nicolonsky/IntuneDriveMapping)
-- [schmittnieto starred PSBicep/PSBicep](https://github.com/PSBicep/PSBicep)
-- [schmittnieto starred Azure/azure-monitor-baseline-alerts](https://github.com/Azure/azure-monitor-baseline-alerts)
 <!-- LATESTACTIVITYGITHUB:END -->
 
