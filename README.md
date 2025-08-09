@@ -51,7 +51,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/dee2cd4257...8de5527c82)
+- [schmittnieto pushed to main in schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/378ed03283...ee29de0357)
 - [schmittnieto starred sapientinc/HRM](https://github.com/sapientinc/HRM)
 - [schmittnieto starred Azure-Samples/AzureLocal](https://github.com/Azure-Samples/AzureLocal)
 - [schmittnieto starred openai/gpt-oss](https://github.com/openai/gpt-oss)
