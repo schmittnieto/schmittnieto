@@ -12,6 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=schmittnieto&show_icons=true&theme=dark&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=schmittnieto&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=schmittnieto&theme=dark&layout=compact)<br/>
+![Cristian's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SchmittNieto&theme=github-compact&radius=8)<br/>
 
 # 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
