@@ -52,19 +52,22 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/NMW](https://github.com/schmittnieto/NMW/compare/3351d1712f...b2f6c71d5c)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/0801547887...72d5b6c053)
+- [schmittnieto starred Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/59cd7fa10e...817a1fda42)
+- [schmittnieto opened a pull request in lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture/pull/56)
+- [schmittnieto pushed to main in schmittnieto/awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture/compare/2cde9d3b66...b571ba0d1c)
+- [schmittnieto starred mmelkersen/Tools](https://github.com/mmelkersen/Tools)
+- [schmittnieto forked schmittnieto/awesome-azure-architecture from lukemurraynz/awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture)
+- [schmittnieto pushed to main in schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/c4d47931a4...18006c817f)
 - [schmittnieto starred NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst)
-- [schmittnieto pushed to main in schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/5298a62c5e...26935eb123)
 - [schmittnieto starred schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local)
 - [schmittnieto starred sapientinc/HRM](https://github.com/sapientinc/HRM)
 - [schmittnieto starred Azure-Samples/AzureLocal](https://github.com/Azure-Samples/AzureLocal)
 - [schmittnieto starred openai/gpt-oss](https://github.com/openai/gpt-oss)
 - [schmittnieto starred Ruthhl3ss/PSNerdio](https://github.com/Ruthhl3ss/PSNerdio)
 - [schmittnieto starred emike09/Hyper-V](https://github.com/emike09/Hyper-V)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/09f95bf9f4...7fd6377d08)
 - [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/d56eb44f48...3a6d1e149e)
-- [schmittnieto starred christosgalano/bicep-template-repo](https://github.com/christosgalano/bicep-template-repo)
-- [schmittnieto starred kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [schmittnieto starred srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ce03b4341f...888934698d)
 <!-- LATESTACTIVITYGITHUB:END -->
 
