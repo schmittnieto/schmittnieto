@@ -51,7 +51,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/e9d6cea174...11574c37b7)
+- [schmittnieto starred NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst)
+- [schmittnieto pushed to main in schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/5298a62c5e...26935eb123)
 - [schmittnieto starred schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local)
 - [schmittnieto starred sapientinc/HRM](https://github.com/sapientinc/HRM)
 - [schmittnieto starred Azure-Samples/AzureLocal](https://github.com/Azure-Samples/AzureLocal)
@@ -64,6 +65,5 @@
 - [schmittnieto starred kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [schmittnieto starred srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ce03b4341f...888934698d)
-- [schmittnieto starred nicolonsky/IntuneDriveMapping](https://github.com/nicolonsky/IntuneDriveMapping)
 <!-- LATESTACTIVITYGITHUB:END -->
 
