@@ -52,6 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+- [schmittnieto starred jakehildreth/Locksmith](https://github.com/jakehildreth/Locksmith)
 - [schmittnieto pushed to main in schmittnieto/NMW](https://github.com/schmittnieto/NMW/compare/3351d1712f...b2f6c71d5c)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/0801547887...72d5b6c053)
 - [schmittnieto starred Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
@@ -68,6 +70,5 @@
 - [schmittnieto starred openai/gpt-oss](https://github.com/openai/gpt-oss)
 - [schmittnieto starred Ruthhl3ss/PSNerdio](https://github.com/Ruthhl3ss/PSNerdio)
 - [schmittnieto starred emike09/Hyper-V](https://github.com/emike09/Hyper-V)
-- [schmittnieto pushed to main in schmittnieto/AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/d56eb44f48...3a6d1e149e)
 <!-- LATESTACTIVITYGITHUB:END -->
 
