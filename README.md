@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred markrussinovich/refchecker](https://github.com/markrussinovich/refchecker)
 - [schmittnieto starred Get-Nerdio/NMM-SE](https://github.com/Get-Nerdio/NMM-SE)
 - [schmittnieto pushed to main in schmittnieto/awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture/compare/b571ba0d1c...0cc5f13a49)
 - [schmittnieto pushed to main in schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/4131f7a64e...bc70372eb9)
