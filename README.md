@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred jakewalsh90/Terraform-Azure](https://github.com/jakewalsh90/Terraform-Azure)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/97165cd7d5...e6b687bb06)
 - [schmittnieto starred markrussinovich/refchecker](https://github.com/markrussinovich/refchecker)
 - [schmittnieto starred Get-Nerdio/NMM-SE](https://github.com/Get-Nerdio/NMM-SE)
