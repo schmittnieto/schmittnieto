@@ -16,6 +16,7 @@
 
 # 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Awesome Azure Local](https://schmitt-nieto.com/blog/awesome-azure-local/) - 08 Aug 2025
 - [Nerdio Scripted Actions: Windows Scripts](https://schmitt-nieto.com/blog/nerdio-scripted-actions-windows-scripts/) - 16 May 2025
 - [Azure Local: Backup and Disaster Recovery](https://schmitt-nieto.com/blog/azure-local-backup-and-disaster-recovery/) - 28 Mar 2025
 - [Azure Local: Redundancy](https://schmitt-nieto.com/blog/azure-local-redundancy/) - 28 Feb 2025
@@ -24,8 +25,7 @@
 - [Azure Local: AKS and SQL Managed instances](https://schmitt-nieto.com/blog/azure-local-aks/) - 08 Jan 2025
 - [Reflecting on 2024 and Goals for 2025](https://schmitt-nieto.com/blog/new-year/) - 30 Dec 2024
 - [GitHub Tools and Repositories that I use](https://schmitt-nieto.com/blog/github-tools/) - 30 Nov 2024
-- [Azure Local: Azure Virtual Desktop](https://schmitt-nieto.com/blog/azure-stack-hci-azure-virtual-desktop/) - 16 Nov 2024
-- [Azure Local: VM Deployment](https://schmitt-nieto.com/blog/azure-stack-hci-vm-deployment/) - 01 Nov 2024<!-- BLOG-POST-LIST:END -->
+- [Azure Local: Azure Virtual Desktop](https://schmitt-nieto.com/blog/azure-stack-hci-azure-virtual-desktop/) - 16 Nov 2024<!-- BLOG-POST-LIST:END -->
 <!-- Credits to Blog Updates on readme to: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 # 🎓 Certifications
