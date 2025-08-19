@@ -52,12 +52,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/bc70372eb9...92cac3e1f1)
+- [schmittnieto starred rtibi/hybridcore.github.io](https://github.com/rtibi/hybridcore.github.io)
 - [schmittnieto starred jakewalsh90/Terraform-Azure](https://github.com/jakewalsh90/Terraform-Azure)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/97165cd7d5...e6b687bb06)
 - [schmittnieto starred markrussinovich/refchecker](https://github.com/markrussinovich/refchecker)
 - [schmittnieto starred Get-Nerdio/NMM-SE](https://github.com/Get-Nerdio/NMM-SE)
 - [schmittnieto pushed to main in schmittnieto/awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture/compare/b571ba0d1c...0cc5f13a49)
-- [schmittnieto pushed to main in schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/4131f7a64e...bc70372eb9)
 - [schmittnieto starred jonathan-vella/azure-local-sizing-guides](https://github.com/jonathan-vella/azure-local-sizing-guides)
 - [schmittnieto starred openai/openai-cookbook](https://github.com/openai/openai-cookbook)
 - [schmittnieto starred jakehildreth/Locksmith](https://github.com/jakehildreth/Locksmith)
@@ -68,6 +69,5 @@
 - [schmittnieto starred mmelkersen/Tools](https://github.com/mmelkersen/Tools)
 - [schmittnieto forked schmittnieto/awesome-azure-architecture from lukemurraynz/awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture)
 - [schmittnieto starred NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst)
-- [schmittnieto starred schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local)
 <!-- LATESTACTIVITYGITHUB:END -->
 
