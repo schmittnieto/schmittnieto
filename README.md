@@ -1,4 +1,4 @@
-# 🪪 About Me
+# 🤓 About Me
 🤺 I’m currently working on Azure Local, AKS Hybrid, Azure Virtual Desktop, Windows365 and Intune<br>👯 I’m looking to collaborate on Community Projects <br>✍️ I’m currently learning Best Practices on Bicep and Terraform<br>💬 Ask me about anything ralated to Azure<br>⚡ You can contact me in German, Spanish or English 
 
 
