@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/808d5e3591...6f6fcb7990)
 - [schmittnieto pushed to main in schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/bc70372eb9...92cac3e1f1)
 - [schmittnieto starred rtibi/hybridcore.github.io](https://github.com/rtibi/hybridcore.github.io)
 - [schmittnieto starred jakewalsh90/Terraform-Azure](https://github.com/jakewalsh90/Terraform-Azure)
@@ -64,7 +65,6 @@
 - [schmittnieto starred jakehildreth/Locksmith](https://github.com/jakehildreth/Locksmith)
 - [schmittnieto pushed to main in schmittnieto/NMW](https://github.com/schmittnieto/NMW/compare/3351d1712f...b2f6c71d5c)
 - [schmittnieto starred Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/59cd7fa10e...817a1fda42)
 - [schmittnieto opened a pull request in lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture/pull/56)
 - [schmittnieto starred mmelkersen/Tools](https://github.com/mmelkersen/Tools)
 - [schmittnieto forked schmittnieto/awesome-azure-architecture from lukemurraynz/awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture)
