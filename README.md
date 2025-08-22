@@ -52,8 +52,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/808d5e3591...6f6fcb7990)
-- [schmittnieto pushed to main in schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/bc70372eb9...92cac3e1f1)
+- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/1151011ed4...f655c7881e)
+- [schmittnieto pushed to main in schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/0264f98774...bfba1ccc1f)
+- [schmittnieto starred PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit)
 - [schmittnieto starred rtibi/hybridcore.github.io](https://github.com/rtibi/hybridcore.github.io)
 - [schmittnieto starred jakewalsh90/Terraform-Azure](https://github.com/jakewalsh90/Terraform-Azure)
 - [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/97165cd7d5...e6b687bb06)
