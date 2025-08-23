@@ -52,23 +52,14 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed to main in schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/1151011ed4...f655c7881e)
-- [schmittnieto pushed to main in schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/0264f98774...bfba1ccc1f)
-- [schmittnieto starred PSAppDeployToolkit/PSAppDeployToolkit](https://github.com/PSAppDeployToolkit/PSAppDeployToolkit)
-- [schmittnieto starred rtibi/hybridcore.github.io](https://github.com/rtibi/hybridcore.github.io)
-- [schmittnieto starred jakewalsh90/Terraform-Azure](https://github.com/jakewalsh90/Terraform-Azure)
-- [schmittnieto pushed to main in schmittnieto/schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/97165cd7d5...e6b687bb06)
-- [schmittnieto starred markrussinovich/refchecker](https://github.com/markrussinovich/refchecker)
-- [schmittnieto starred Get-Nerdio/NMM-SE](https://github.com/Get-Nerdio/NMM-SE)
-- [schmittnieto pushed to main in schmittnieto/awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture/compare/b571ba0d1c...0cc5f13a49)
-- [schmittnieto starred jonathan-vella/azure-local-sizing-guides](https://github.com/jonathan-vella/azure-local-sizing-guides)
-- [schmittnieto starred openai/openai-cookbook](https://github.com/openai/openai-cookbook)
-- [schmittnieto starred jakehildreth/Locksmith](https://github.com/jakehildreth/Locksmith)
-- [schmittnieto pushed to main in schmittnieto/NMW](https://github.com/schmittnieto/NMW/compare/3351d1712f...b2f6c71d5c)
-- [schmittnieto starred Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-- [schmittnieto opened a pull request in lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture/pull/56)
-- [schmittnieto starred mmelkersen/Tools](https://github.com/mmelkersen/Tools)
-- [schmittnieto forked schmittnieto/awesome-azure-architecture from lukemurraynz/awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture)
-- [schmittnieto starred NetSPI/MicroBurst](https://github.com/NetSPI/MicroBurst)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/23fc15472f...a391d3af20)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/bfba1ccc1f...5a1d87c95c)
+- [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/9a9871a0cd...dbb997c31f)
+- [schmittnieto starred PSAppDeployToolkit/PSAppDeployToolkit](/PSAppDeployToolkit/PSAppDeployToolkit)
+- [schmittnieto starred rtibi/hybridcore.github.io](/rtibi/hybridcore.github.io)
+- [schmittnieto starred jakewalsh90/Terraform-Azure](/jakewalsh90/Terraform-Azure)
+- [schmittnieto starred markrussinovich/refchecker](/markrussinovich/refchecker)
+- [schmittnieto starred Get-Nerdio/NMM-SE](/Get-Nerdio/NMM-SE)
+- [schmittnieto pushed awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture/compare/b571ba0d1c...0cc5f13a49)
 <!-- LATESTACTIVITYGITHUB:END -->
 
