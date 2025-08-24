@@ -52,14 +52,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/1baa8f6a98...b84fcdb4ce)
+- [schmittnieto starred MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions](/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions)
+- [schmittnieto starred kustonaut/kql-cheat-sheet](/kustonaut/kql-cheat-sheet)
+- [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/582fd70f70...500ba54fe7)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/23fc15472f...a391d3af20)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/bfba1ccc1f...5a1d87c95c)
 - [schmittnieto starred PSAppDeployToolkit/PSAppDeployToolkit](/PSAppDeployToolkit/PSAppDeployToolkit)
 - [schmittnieto starred rtibi/hybridcore.github.io](/rtibi/hybridcore.github.io)
 - [schmittnieto starred jakewalsh90/Terraform-Azure](/jakewalsh90/Terraform-Azure)
-- [schmittnieto starred markrussinovich/refchecker](/markrussinovich/refchecker)
-- [schmittnieto starred Get-Nerdio/NMM-SE](/Get-Nerdio/NMM-SE)
-- [schmittnieto pushed awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture/compare/b571ba0d1c...0cc5f13a49)
 <!-- LATESTACTIVITYGITHUB:END -->
 
