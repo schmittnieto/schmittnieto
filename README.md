@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred Naglafarn/ArchitecturalDrawings](/Naglafarn/ArchitecturalDrawings)
 - [schmittnieto starred MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions](/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions)
 - [schmittnieto starred kustonaut/kql-cheat-sheet](/kustonaut/kql-cheat-sheet)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/582fd70f70...500ba54fe7)
