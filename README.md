@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred dan-madsen/AzNetworkDiagram](/dan-madsen/AzNetworkDiagram)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/156f37c18d...428b721b76)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/abd64c7c14...67cc6ff20e)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ff305cb4ce...affdcc5681)
