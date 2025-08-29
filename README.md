@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred Seidlm/Microsoft-Azure](/Seidlm/Microsoft-Azure)
 - [schmittnieto starred PanXProject/awesome-certificates](/PanXProject/awesome-certificates)
 - [schmittnieto starred dan-madsen/AzNetworkDiagram](/dan-madsen/AzNetworkDiagram)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/156f37c18d...428b721b76)
