@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred vitobotta/hetzner-k3s](/vitobotta/hetzner-k3s)
 - [schmittnieto starred vmisson/azure-netbench](/vmisson/azure-netbench)
 - [schmittnieto starred Seidlm/Microsoft-Azure](/Seidlm/Microsoft-Azure)
 - [schmittnieto starred PanXProject/awesome-certificates](/PanXProject/awesome-certificates)
