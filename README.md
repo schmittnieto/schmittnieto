@@ -52,13 +52,14 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred michaelmsonne/MicrosoftOnlineErrorLookupTool](/michaelmsonne/MicrosoftOnlineErrorLookupTool)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/365a939e5b...947321bec7)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/67cc6ff20e...866ec21099)
 - [schmittnieto starred vitobotta/hetzner-k3s](/vitobotta/hetzner-k3s)
 - [schmittnieto starred vmisson/azure-netbench](/vmisson/azure-netbench)
 - [schmittnieto starred Seidlm/Microsoft-Azure](/Seidlm/Microsoft-Azure)
 - [schmittnieto starred PanXProject/awesome-certificates](/PanXProject/awesome-certificates)
 - [schmittnieto starred dan-madsen/AzNetworkDiagram](/dan-madsen/AzNetworkDiagram)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/156f37c18d...428b721b76)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/abd64c7c14...67cc6ff20e)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ff305cb4ce...affdcc5681)
 - [schmittnieto starred Naglafarn/ArchitecturalDrawings](/Naglafarn/ArchitecturalDrawings)
 - [schmittnieto starred MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions](/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions)
