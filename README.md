@@ -52,18 +52,18 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/4ddb3ca94e...8d519d7f72)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/3ffe466fcb...38350b8fd9)
+- [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/e5ffcc6e43...11f61ed4d9)
 - [schmittnieto starred michaelmsonne/MicrosoftOnlineErrorLookupTool](/michaelmsonne/MicrosoftOnlineErrorLookupTool)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/365a939e5b...947321bec7)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/67cc6ff20e...866ec21099)
 - [schmittnieto starred vitobotta/hetzner-k3s](/vitobotta/hetzner-k3s)
 - [schmittnieto starred vmisson/azure-netbench](/vmisson/azure-netbench)
 - [schmittnieto starred Seidlm/Microsoft-Azure](/Seidlm/Microsoft-Azure)
 - [schmittnieto starred PanXProject/awesome-certificates](/PanXProject/awesome-certificates)
 - [schmittnieto starred dan-madsen/AzNetworkDiagram](/dan-madsen/AzNetworkDiagram)
-- [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ff305cb4ce...affdcc5681)
 - [schmittnieto starred Naglafarn/ArchitecturalDrawings](/Naglafarn/ArchitecturalDrawings)
 - [schmittnieto starred MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions](/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions)
 - [schmittnieto starred kustonaut/kql-cheat-sheet](/kustonaut/kql-cheat-sheet)
-- [schmittnieto starred PSAppDeployToolkit/PSAppDeployToolkit](/PSAppDeployToolkit/PSAppDeployToolkit)
 <!-- LATESTACTIVITYGITHUB:END -->
 
