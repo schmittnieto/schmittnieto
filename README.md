@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto forked schmittnieto/AzureLocal from Azure-Samples/AzureLocal](/schmittnieto/AzureLocal)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/4ddb3ca94e...8d519d7f72)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/3ffe466fcb...38350b8fd9)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/e5ffcc6e43...11f61ed4d9)
