@@ -52,12 +52,12 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/8d519d7f72...058454f5f0)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/866ec21099...97e22742e5)
 - [schmittnieto forked schmittnieto/AzureLocal from Azure-Samples/AzureLocal](/schmittnieto/AzureLocal)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/4ddb3ca94e...8d519d7f72)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/3ffe466fcb...38350b8fd9)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/e5ffcc6e43...11f61ed4d9)
 - [schmittnieto starred michaelmsonne/MicrosoftOnlineErrorLookupTool](/michaelmsonne/MicrosoftOnlineErrorLookupTool)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/67cc6ff20e...866ec21099)
 - [schmittnieto starred vitobotta/hetzner-k3s](/vitobotta/hetzner-k3s)
 - [schmittnieto starred vmisson/azure-netbench](/vmisson/azure-netbench)
 - [schmittnieto starred Seidlm/Microsoft-Azure](/Seidlm/Microsoft-Azure)
