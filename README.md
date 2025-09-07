@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred elder-plinius/L1B3RT4S](/elder-plinius/L1B3RT4S)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/8d519d7f72...058454f5f0)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/866ec21099...97e22742e5)
 - [schmittnieto forked schmittnieto/AzureLocal from Azure-Samples/AzureLocal](/schmittnieto/AzureLocal)
