@@ -52,9 +52,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b421736756...d90b5fbd59)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/97e22742e5...d6ed39e0b7)
 - [schmittnieto starred elder-plinius/L1B3RT4S](/elder-plinius/L1B3RT4S)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/8d519d7f72...058454f5f0)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/866ec21099...97e22742e5)
 - [schmittnieto forked schmittnieto/AzureLocal from Azure-Samples/AzureLocal](/schmittnieto/AzureLocal)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/3ffe466fcb...38350b8fd9)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/e5ffcc6e43...11f61ed4d9)
