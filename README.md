@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred EvotecIT/DomainDetective](/EvotecIT/DomainDetective)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b421736756...d90b5fbd59)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/97e22742e5...d6ed39e0b7)
 - [schmittnieto starred elder-plinius/L1B3RT4S](/elder-plinius/L1B3RT4S)
@@ -66,6 +67,5 @@
 - [schmittnieto starred dan-madsen/AzNetworkDiagram](/dan-madsen/AzNetworkDiagram)
 - [schmittnieto starred Naglafarn/ArchitecturalDrawings](/Naglafarn/ArchitecturalDrawings)
 - [schmittnieto starred MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions](/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions)
-- [schmittnieto starred kustonaut/kql-cheat-sheet](/kustonaut/kql-cheat-sheet)
 <!-- LATESTACTIVITYGITHUB:END -->
 
