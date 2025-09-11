@@ -52,10 +52,10 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/a6a2ad89c1...0888462208)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/d6ed39e0b7...5531e72ed0)
 - [schmittnieto starred stan-smith/FossFLOW](/stan-smith/FossFLOW)
 - [schmittnieto starred EvotecIT/DomainDetective](/EvotecIT/DomainDetective)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b421736756...d90b5fbd59)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/97e22742e5...d6ed39e0b7)
 - [schmittnieto starred elder-plinius/L1B3RT4S](/elder-plinius/L1B3RT4S)
 - [schmittnieto forked schmittnieto/AzureLocal from Azure-Samples/AzureLocal](/schmittnieto/AzureLocal)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/3ffe466fcb...38350b8fd9)
@@ -66,6 +66,5 @@
 - [schmittnieto starred Seidlm/Microsoft-Azure](/Seidlm/Microsoft-Azure)
 - [schmittnieto starred PanXProject/awesome-certificates](/PanXProject/awesome-certificates)
 - [schmittnieto starred dan-madsen/AzNetworkDiagram](/dan-madsen/AzNetworkDiagram)
-- [schmittnieto starred Naglafarn/ArchitecturalDrawings](/Naglafarn/ArchitecturalDrawings)
 <!-- LATESTACTIVITYGITHUB:END -->
 
