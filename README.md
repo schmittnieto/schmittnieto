@@ -52,9 +52,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/aff68e6b92...ca5b60189d)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/ca5b60189d...5e2d3d3514)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/5531e72ed0...bb957b9cc4)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/38350b8fd9...e7aba32e97)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/d6ed39e0b7...5531e72ed0)
 - [schmittnieto starred stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW)
 - [schmittnieto starred EvotecIT/DomainDetective](https://github.com/EvotecIT/DomainDetective)
 - [schmittnieto starred elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S)
