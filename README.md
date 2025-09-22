@@ -52,6 +52,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto opened a pull request in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/172)
+- [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/cf8fb47f56...ef4ed81b24)
+- [schmittnieto forked schmittnieto/AzureLocal-Supportability from Azure/AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/e57302e715...107040fa8a)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/e7aba32e97...7556e39a56)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/bb957b9cc4...66accd748f)
@@ -61,6 +64,5 @@
 - [schmittnieto forked schmittnieto/AzureLocal from Azure-Samples/AzureLocal](https://github.com/schmittnieto/AzureLocal)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/e5ffcc6e43...11f61ed4d9)
 - [schmittnieto starred michaelmsonne/MicrosoftOnlineErrorLookupTool](https://github.com/michaelmsonne/MicrosoftOnlineErrorLookupTool)
-- [schmittnieto starred vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s)
 <!-- LATESTACTIVITYGITHUB:END -->
 
