@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
 - [schmittnieto opened a pull request in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/172)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/cf8fb47f56...ef4ed81b24)
 - [schmittnieto forked schmittnieto/AzureLocal-Supportability from Azure/AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability)
@@ -62,7 +63,5 @@
 - [schmittnieto starred EvotecIT/DomainDetective](https://github.com/EvotecIT/DomainDetective)
 - [schmittnieto starred elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S)
 - [schmittnieto forked schmittnieto/AzureLocal from Azure-Samples/AzureLocal](https://github.com/schmittnieto/AzureLocal)
-- [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/e5ffcc6e43...11f61ed4d9)
-- [schmittnieto starred michaelmsonne/MicrosoftOnlineErrorLookupTool](https://github.com/michaelmsonne/MicrosoftOnlineErrorLookupTool)
 <!-- LATESTACTIVITYGITHUB:END -->
 
