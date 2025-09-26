@@ -52,19 +52,18 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/6458b3846d...5fe75f5d5f)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/7556e39a56...45f1d4d2a5)
 - [schmittnieto starred microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC)
 - [schmittnieto starred Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [schmittnieto starred microsoft/diskspd](https://github.com/microsoft/diskspd)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/107040fa8a...20b786f5cc)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/66accd748f...60d94c6461)
 - [schmittnieto pushed nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/733137f449...2d9d59181d)
 - [schmittnieto starred drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
 - [schmittnieto opened a pull request in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/172)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/cf8fb47f56...ef4ed81b24)
 - [schmittnieto forked schmittnieto/AzureLocal-Supportability from Azure/AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/e7aba32e97...7556e39a56)
 - [schmittnieto starred stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW)
 - [schmittnieto starred EvotecIT/DomainDetective](https://github.com/EvotecIT/DomainDetective)
-- [schmittnieto starred elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S)
 <!-- LATESTACTIVITYGITHUB:END -->
 
