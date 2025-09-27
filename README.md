@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred vladjoh/Need4Admin](https://github.com/vladjoh/Need4Admin)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/5fe75f5d5f...d558e0a9bb)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/45f1d4d2a5...cfee8e44e5)
 - [schmittnieto starred microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC)
@@ -64,6 +65,5 @@
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/cf8fb47f56...ef4ed81b24)
 - [schmittnieto forked schmittnieto/AzureLocal-Supportability from Azure/AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability)
 - [schmittnieto starred stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW)
-- [schmittnieto starred EvotecIT/DomainDetective](https://github.com/EvotecIT/DomainDetective)
 <!-- LATESTACTIVITYGITHUB:END -->
 
