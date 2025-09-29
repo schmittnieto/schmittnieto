@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed review-checklists](https://github.com/schmittnieto/review-checklists/compare/c40dae838f...e276de3845)
 - [schmittnieto starred vladjoh/Need4Admin](https://github.com/vladjoh/Need4Admin)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/5fe75f5d5f...d558e0a9bb)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/45f1d4d2a5...cfee8e44e5)
@@ -64,6 +65,5 @@
 - [schmittnieto opened a pull request in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/172)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/cf8fb47f56...ef4ed81b24)
 - [schmittnieto forked schmittnieto/AzureLocal-Supportability from Azure/AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability)
-- [schmittnieto starred stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW)
 <!-- LATESTACTIVITYGITHUB:END -->
 
