@@ -62,7 +62,7 @@
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/66accd748f...60d94c6461)
 - [schmittnieto pushed nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/733137f449...2d9d59181d)
 - [schmittnieto starred drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
-- [schmittnieto opened a pull request in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/172)
+- [schmittnieto contributed to Azure/AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/172)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/cf8fb47f56...ef4ed81b24)
 - [schmittnieto forked schmittnieto/AzureLocal-Supportability from Azure/AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability)
 <!-- LATESTACTIVITYGITHUB:END -->
