@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred nnellans/bicep-guide](https://github.com/nnellans/bicep-guide)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/d558e0a9bb...bf4d77754e)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/cfee8e44e5...030c7b1d70)
 - [schmittnieto pushed review-checklists](https://github.com/schmittnieto/review-checklists/compare/c40dae838f...e276de3845)
