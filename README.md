@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred DrazenNikolic/FSLogix-Profile-Status](https://github.com/DrazenNikolic/FSLogix-Profile-Status)
 - [schmittnieto starred nnellans/bicep-guide](https://github.com/nnellans/bicep-guide)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/d558e0a9bb...bf4d77754e)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/cfee8e44e5...030c7b1d70)
