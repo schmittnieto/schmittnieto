@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/2d9d59181d...d35f97e97c)
 - [schmittnieto starred MicrosoftDocs/architecture-center](https://github.com/MicrosoftDocs/architecture-center)
 - [schmittnieto starred microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
 - [schmittnieto starred DrazenNikolic/FSLogix-Profile-Status](https://github.com/DrazenNikolic/FSLogix-Profile-Status)
@@ -64,7 +65,6 @@
 - [schmittnieto starred Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [schmittnieto starred microsoft/diskspd](https://github.com/microsoft/diskspd)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/66accd748f...60d94c6461)
-- [schmittnieto pushed nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/733137f449...2d9d59181d)
 - [schmittnieto starred drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
 - [schmittnieto contributed to Azure/AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/172)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/cf8fb47f56...ef4ed81b24)
