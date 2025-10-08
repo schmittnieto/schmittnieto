@@ -52,6 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred MicrosoftDocs/architecture-center](https://github.com/MicrosoftDocs/architecture-center)
+- [schmittnieto starred microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
 - [schmittnieto starred DrazenNikolic/FSLogix-Profile-Status](https://github.com/DrazenNikolic/FSLogix-Profile-Status)
 - [schmittnieto starred nnellans/bicep-guide](https://github.com/nnellans/bicep-guide)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/d558e0a9bb...bf4d77754e)
