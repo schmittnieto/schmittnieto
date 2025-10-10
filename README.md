@@ -52,14 +52,14 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/bf4d77754e...2a532a6c9a)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b0997a7c59...36a4d1e686)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/030c7b1d70...2cd454f3c9)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/60d94c6461...013862e945)
 - [schmittnieto pushed nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/2d9d59181d...d35f97e97c)
 - [schmittnieto starred MicrosoftDocs/architecture-center](https://github.com/MicrosoftDocs/architecture-center)
 - [schmittnieto starred microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
 - [schmittnieto starred DrazenNikolic/FSLogix-Profile-Status](https://github.com/DrazenNikolic/FSLogix-Profile-Status)
 - [schmittnieto starred nnellans/bicep-guide](https://github.com/nnellans/bicep-guide)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/cfee8e44e5...030c7b1d70)
 - [schmittnieto pushed review-checklists](https://github.com/schmittnieto/review-checklists/compare/c40dae838f...e276de3845)
 - [schmittnieto starred vladjoh/Need4Admin](https://github.com/vladjoh/Need4Admin)
 - [schmittnieto starred microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC)
