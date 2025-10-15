@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred PieterbasNagengast/Azure-HubSpoke-LabBuilder](https://github.com/PieterbasNagengast/Azure-HubSpoke-LabBuilder)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b0997a7c59...36a4d1e686)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/030c7b1d70...2cd454f3c9)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/60d94c6461...013862e945)
@@ -68,6 +69,5 @@
 - [schmittnieto starred drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
 - [schmittnieto contributed to Azure/AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/172)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/cf8fb47f56...ef4ed81b24)
-- [schmittnieto forked schmittnieto/AzureLocal-Supportability from Azure/AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability)
 <!-- LATESTACTIVITYGITHUB:END -->
 
