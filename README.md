@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto opened an issue in linkinator](https://github.com/JustinBeckwith/linkinator/issues/708)
 - [schmittnieto starred PieterbasNagengast/Azure-HubSpoke-LabBuilder](https://github.com/PieterbasNagengast/Azure-HubSpoke-LabBuilder)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b0997a7c59...36a4d1e686)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/030c7b1d70...2cd454f3c9)
