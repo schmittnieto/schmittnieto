@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)
 - [schmittnieto opened an issue in linkinator](https://github.com/JustinBeckwith/linkinator/issues/708)
 - [schmittnieto starred PieterbasNagengast/Azure-HubSpoke-LabBuilder](https://github.com/PieterbasNagengast/Azure-HubSpoke-LabBuilder)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b0997a7c59...36a4d1e686)
@@ -69,6 +70,5 @@
 - [schmittnieto starred microsoft/diskspd](https://github.com/microsoft/diskspd)
 - [schmittnieto starred drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
 - [schmittnieto contributed to Azure/AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/172)
-- [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/cf8fb47f56...ef4ed81b24)
 <!-- LATESTACTIVITYGITHUB:END -->
 
