@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 - [schmittnieto starred anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)
 - [schmittnieto opened an issue in linkinator](https://github.com/JustinBeckwith/linkinator/issues/708)
 - [schmittnieto starred PieterbasNagengast/Azure-HubSpoke-LabBuilder](https://github.com/PieterbasNagengast/Azure-HubSpoke-LabBuilder)
@@ -69,6 +70,5 @@
 - [schmittnieto starred Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [schmittnieto starred microsoft/diskspd](https://github.com/microsoft/diskspd)
 - [schmittnieto starred drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
-- [schmittnieto contributed to Azure/AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/172)
 <!-- LATESTACTIVITYGITHUB:END -->
 
