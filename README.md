@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred shiroinekotfs/WAC-on-DC](https://github.com/shiroinekotfs/WAC-on-DC)
 - [schmittnieto starred microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 - [schmittnieto starred anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)
 - [schmittnieto opened an issue in linkinator](https://github.com/JustinBeckwith/linkinator/issues/708)
