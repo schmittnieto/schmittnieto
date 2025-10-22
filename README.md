@@ -52,6 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto forked schmittnieto/IntuneStack from AllwaysHyPe/IntuneStack](https://github.com/schmittnieto/IntuneStack)
+- [schmittnieto starred AllwaysHyPe/IntuneStack](https://github.com/AllwaysHyPe/IntuneStack)
 - [schmittnieto starred shiroinekotfs/WAC-on-DC](https://github.com/shiroinekotfs/WAC-on-DC)
 - [schmittnieto starred microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 - [schmittnieto starred anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)
@@ -70,6 +72,5 @@
 - [schmittnieto starred microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC)
 - [schmittnieto starred Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [schmittnieto starred microsoft/diskspd](https://github.com/microsoft/diskspd)
-- [schmittnieto starred drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements)
 <!-- LATESTACTIVITYGITHUB:END -->
 
