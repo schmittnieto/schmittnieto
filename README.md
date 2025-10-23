@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred MorDavid/NetworkHound](https://github.com/MorDavid/NetworkHound)
 - [schmittnieto forked schmittnieto/IntuneStack from AllwaysHyPe/IntuneStack](https://github.com/schmittnieto/IntuneStack)
 - [schmittnieto starred AllwaysHyPe/IntuneStack](https://github.com/AllwaysHyPe/IntuneStack)
 - [schmittnieto starred shiroinekotfs/WAC-on-DC](https://github.com/shiroinekotfs/WAC-on-DC)
