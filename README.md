@@ -52,8 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/de67280fee...55f677855c)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/5f6fe1aded...99f62daf73)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/adb461c88e...87885ba662)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/05d7f418e0...0510b4d6a6)
 - [schmittnieto starred MorDavid/NetworkHound](https://github.com/MorDavid/NetworkHound)
 - [schmittnieto forked schmittnieto/IntuneStack from AllwaysHyPe/IntuneStack](https://github.com/schmittnieto/IntuneStack)
 - [schmittnieto starred AllwaysHyPe/IntuneStack](https://github.com/AllwaysHyPe/IntuneStack)
@@ -69,7 +69,5 @@
 - [schmittnieto starred DrazenNikolic/FSLogix-Profile-Status](https://github.com/DrazenNikolic/FSLogix-Profile-Status)
 - [schmittnieto starred nnellans/bicep-guide](https://github.com/nnellans/bicep-guide)
 - [schmittnieto pushed review-checklists](https://github.com/schmittnieto/review-checklists/compare/c40dae838f...e276de3845)
-- [schmittnieto starred vladjoh/Need4Admin](https://github.com/vladjoh/Need4Admin)
-- [schmittnieto starred microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC)
 <!-- LATESTACTIVITYGITHUB:END -->
 
