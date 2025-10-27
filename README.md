@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred kkaminsk/AppFinder](https://github.com/kkaminsk/AppFinder)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/adb461c88e...87885ba662)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/05d7f418e0...0510b4d6a6)
 - [schmittnieto starred MorDavid/NetworkHound](https://github.com/MorDavid/NetworkHound)
@@ -68,6 +69,5 @@
 - [schmittnieto starred microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
 - [schmittnieto starred DrazenNikolic/FSLogix-Profile-Status](https://github.com/DrazenNikolic/FSLogix-Profile-Status)
 - [schmittnieto starred nnellans/bicep-guide](https://github.com/nnellans/bicep-guide)
-- [schmittnieto pushed review-checklists](https://github.com/schmittnieto/review-checklists/compare/c40dae838f...e276de3845)
 <!-- LATESTACTIVITYGITHUB:END -->
 
