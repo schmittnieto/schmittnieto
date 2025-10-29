@@ -52,8 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/288edb7afc...c2ddd67194)
 - [schmittnieto starred kkaminsk/AppFinder](https://github.com/kkaminsk/AppFinder)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/adb461c88e...87885ba662)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/05d7f418e0...0510b4d6a6)
 - [schmittnieto starred MorDavid/NetworkHound](https://github.com/MorDavid/NetworkHound)
 - [schmittnieto forked schmittnieto/IntuneStack from AllwaysHyPe/IntuneStack](https://github.com/schmittnieto/IntuneStack)
@@ -67,7 +67,5 @@
 - [schmittnieto pushed nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/2d9d59181d...d35f97e97c)
 - [schmittnieto starred MicrosoftDocs/architecture-center](https://github.com/MicrosoftDocs/architecture-center)
 - [schmittnieto starred microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners)
-- [schmittnieto starred DrazenNikolic/FSLogix-Profile-Status](https://github.com/DrazenNikolic/FSLogix-Profile-Status)
-- [schmittnieto starred nnellans/bicep-guide](https://github.com/nnellans/bicep-guide)
 <!-- LATESTACTIVITYGITHUB:END -->
 
