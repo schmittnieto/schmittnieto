@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred PacktPublishing/Cloud-Observability-with-Azure-Monitor](https://github.com/PacktPublishing/Cloud-Observability-with-Azure-Monitor)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/c475c84009...cb06d4daca)
 - [schmittnieto starred kkaminsk/AppFinder](https://github.com/kkaminsk/AppFinder)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/05d7f418e0...0510b4d6a6)
@@ -64,6 +65,5 @@
 - [schmittnieto opened an issue in linkinator](https://github.com/JustinBeckwith/linkinator/issues/708)
 - [schmittnieto starred PieterbasNagengast/Azure-HubSpoke-LabBuilder](https://github.com/PieterbasNagengast/Azure-HubSpoke-LabBuilder)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/030c7b1d70...2cd454f3c9)
-- [schmittnieto pushed nerdio-scripted-actions](https://github.com/schmittnieto/nerdio-scripted-actions/compare/2d9d59181d...d35f97e97c)
 <!-- LATESTACTIVITYGITHUB:END -->
 
