@@ -52,10 +52,10 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/2093def2a4...b7eb20d082)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/742b36b6a5...d36906b1b4)
 - [schmittnieto starred PacktPublishing/Cloud-Observability-with-Azure-Monitor](https://github.com/PacktPublishing/Cloud-Observability-with-Azure-Monitor)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/c475c84009...cb06d4daca)
 - [schmittnieto starred kkaminsk/AppFinder](https://github.com/kkaminsk/AppFinder)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/05d7f418e0...0510b4d6a6)
 - [schmittnieto starred MorDavid/NetworkHound](https://github.com/MorDavid/NetworkHound)
 - [schmittnieto forked schmittnieto/IntuneStack from AllwaysHyPe/IntuneStack](https://github.com/schmittnieto/IntuneStack)
 - [schmittnieto starred AllwaysHyPe/IntuneStack](https://github.com/AllwaysHyPe/IntuneStack)
@@ -64,6 +64,5 @@
 - [schmittnieto starred anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)
 - [schmittnieto opened an issue in linkinator](https://github.com/JustinBeckwith/linkinator/issues/708)
 - [schmittnieto starred PieterbasNagengast/Azure-HubSpoke-LabBuilder](https://github.com/PieterbasNagengast/Azure-HubSpoke-LabBuilder)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/030c7b1d70...2cd454f3c9)
 <!-- LATESTACTIVITYGITHUB:END -->
 
