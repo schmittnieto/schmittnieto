@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred HarriJaakkonen/Learn-Cert-Monitor](https://github.com/HarriJaakkonen/Learn-Cert-Monitor)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/2093def2a4...b7eb20d082)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/742b36b6a5...d36906b1b4)
 - [schmittnieto starred PacktPublishing/Cloud-Observability-with-Azure-Monitor](https://github.com/PacktPublishing/Cloud-Observability-with-Azure-Monitor)
@@ -63,6 +64,5 @@
 - [schmittnieto starred microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 - [schmittnieto starred anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)
 - [schmittnieto opened an issue in linkinator](https://github.com/JustinBeckwith/linkinator/issues/708)
-- [schmittnieto starred PieterbasNagengast/Azure-HubSpoke-LabBuilder](https://github.com/PieterbasNagengast/Azure-HubSpoke-LabBuilder)
 <!-- LATESTACTIVITYGITHUB:END -->
 
