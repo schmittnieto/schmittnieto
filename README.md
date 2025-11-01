@@ -52,12 +52,11 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/559e331aee...52488c8bcf)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/267dd9ebbb...0373843ed1)
+- [schmittnieto starred giscus/giscus](https://github.com/giscus/giscus)
 - [schmittnieto starred HarriJaakkonen/Learn-Cert-Monitor](https://github.com/HarriJaakkonen/Learn-Cert-Monitor)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/742b36b6a5...d36906b1b4)
 - [schmittnieto starred PacktPublishing/Cloud-Observability-with-Azure-Monitor](https://github.com/PacktPublishing/Cloud-Observability-with-Azure-Monitor)
 - [schmittnieto starred kkaminsk/AppFinder](https://github.com/kkaminsk/AppFinder)
-- [schmittnieto starred MorDavid/NetworkHound](https://github.com/MorDavid/NetworkHound)
-- [schmittnieto forked schmittnieto/IntuneStack from AllwaysHyPe/IntuneStack](https://github.com/schmittnieto/IntuneStack)
 <!-- LATESTACTIVITYGITHUB:END -->
 
