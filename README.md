@@ -52,17 +52,12 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/559e331aee...52488c8bcf)
 - [schmittnieto starred HarriJaakkonen/Learn-Cert-Monitor](https://github.com/HarriJaakkonen/Learn-Cert-Monitor)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/2093def2a4...b7eb20d082)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/742b36b6a5...d36906b1b4)
 - [schmittnieto starred PacktPublishing/Cloud-Observability-with-Azure-Monitor](https://github.com/PacktPublishing/Cloud-Observability-with-Azure-Monitor)
 - [schmittnieto starred kkaminsk/AppFinder](https://github.com/kkaminsk/AppFinder)
 - [schmittnieto starred MorDavid/NetworkHound](https://github.com/MorDavid/NetworkHound)
 - [schmittnieto forked schmittnieto/IntuneStack from AllwaysHyPe/IntuneStack](https://github.com/schmittnieto/IntuneStack)
-- [schmittnieto starred AllwaysHyPe/IntuneStack](https://github.com/AllwaysHyPe/IntuneStack)
-- [schmittnieto starred shiroinekotfs/WAC-on-DC](https://github.com/shiroinekotfs/WAC-on-DC)
-- [schmittnieto starred microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-- [schmittnieto starred anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)
-- [schmittnieto opened an issue in linkinator](https://github.com/JustinBeckwith/linkinator/issues/708)
 <!-- LATESTACTIVITYGITHUB:END -->
 
