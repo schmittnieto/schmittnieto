@@ -52,7 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/8c9feae190...aed7dc2d44)
+- [schmittnieto starred error505/azure-cloud-ai-visualizer](https://github.com/error505/azure-cloud-ai-visualizer)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/aed7dc2d44...df92f6cc03)
 - [schmittnieto starred giscus/giscus](https://github.com/giscus/giscus)
 - [schmittnieto starred HarriJaakkonen/Learn-Cert-Monitor](https://github.com/HarriJaakkonen/Learn-Cert-Monitor)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/742b36b6a5...d36906b1b4)
