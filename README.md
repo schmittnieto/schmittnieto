@@ -52,12 +52,12 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/1de79a9e8b...10f171814b)
+- [schmittnieto pushed review-checklists](https://github.com/schmittnieto/review-checklists/compare/e276de3845...def93e544e)
 - [schmittnieto starred error505/azure-cloud-ai-visualizer](https://github.com/error505/azure-cloud-ai-visualizer)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/aed7dc2d44...df92f6cc03)
 - [schmittnieto starred giscus/giscus](https://github.com/giscus/giscus)
 - [schmittnieto starred HarriJaakkonen/Learn-Cert-Monitor](https://github.com/HarriJaakkonen/Learn-Cert-Monitor)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/742b36b6a5...d36906b1b4)
 - [schmittnieto starred PacktPublishing/Cloud-Observability-with-Azure-Monitor](https://github.com/PacktPublishing/Cloud-Observability-with-Azure-Monitor)
-- [schmittnieto starred kkaminsk/AppFinder](https://github.com/kkaminsk/AppFinder)
 <!-- LATESTACTIVITYGITHUB:END -->
 
