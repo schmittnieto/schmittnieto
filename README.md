@@ -52,13 +52,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/cba83b89d1...5efd858fd9)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/13dc91c522...9f97a15f6d)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/26f27dd34b...30b80d6a19)
+- [schmittnieto starred microsoft/AKS-Arc-Apps](https://github.com/microsoft/AKS-Arc-Apps)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/95afb2cc75...8f67096f94)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/d36906b1b4...26f27dd34b)
 - [schmittnieto pushed review-checklists](https://github.com/schmittnieto/review-checklists/compare/e276de3845...def93e544e)
 - [schmittnieto starred error505/azure-cloud-ai-visualizer](https://github.com/error505/azure-cloud-ai-visualizer)
 - [schmittnieto starred giscus/giscus](https://github.com/giscus/giscus)
 - [schmittnieto starred HarriJaakkonen/Learn-Cert-Monitor](https://github.com/HarriJaakkonen/Learn-Cert-Monitor)
-- [schmittnieto starred PacktPublishing/Cloud-Observability-with-Azure-Monitor](https://github.com/PacktPublishing/Cloud-Observability-with-Azure-Monitor)
 <!-- LATESTACTIVITYGITHUB:END -->
 
