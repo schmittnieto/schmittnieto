@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred awood-ops/AzureFirewallRulesAsCode](https://github.com/awood-ops/AzureFirewallRulesAsCode)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/13dc91c522...9f97a15f6d)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/26f27dd34b...30b80d6a19)
 - [schmittnieto starred microsoft/AKS-Arc-Apps](https://github.com/microsoft/AKS-Arc-Apps)
@@ -59,6 +60,5 @@
 - [schmittnieto pushed review-checklists](https://github.com/schmittnieto/review-checklists/compare/e276de3845...def93e544e)
 - [schmittnieto starred error505/azure-cloud-ai-visualizer](https://github.com/error505/azure-cloud-ai-visualizer)
 - [schmittnieto starred giscus/giscus](https://github.com/giscus/giscus)
-- [schmittnieto starred HarriJaakkonen/Learn-Cert-Monitor](https://github.com/HarriJaakkonen/Learn-Cert-Monitor)
 <!-- LATESTACTIVITYGITHUB:END -->
 
