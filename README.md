@@ -52,12 +52,15 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/17cb1011f7...5b31421f48)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/8f67096f94...58174a30e3)
+- [schmittnieto commented on an issue in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/204#issuecomment-3510777073)
+- [schmittnieto opened an issue in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/204)
+- [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/ef4ed81b24...38add8e530)
 - [schmittnieto starred MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)
 - [schmittnieto starred awood-ops/AzureFirewallRulesAsCode](https://github.com/awood-ops/AzureFirewallRulesAsCode)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/13dc91c522...9f97a15f6d)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/26f27dd34b...30b80d6a19)
 - [schmittnieto starred microsoft/AKS-Arc-Apps](https://github.com/microsoft/AKS-Arc-Apps)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/95afb2cc75...8f67096f94)
 - [schmittnieto pushed review-checklists](https://github.com/schmittnieto/review-checklists/compare/e276de3845...def93e544e)
 - [schmittnieto starred error505/azure-cloud-ai-visualizer](https://github.com/error505/azure-cloud-ai-visualizer)
 - [schmittnieto starred giscus/giscus](https://github.com/giscus/giscus)
