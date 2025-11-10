@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)
 - [schmittnieto starred awood-ops/AzureFirewallRulesAsCode](https://github.com/awood-ops/AzureFirewallRulesAsCode)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/13dc91c522...9f97a15f6d)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/26f27dd34b...30b80d6a19)
