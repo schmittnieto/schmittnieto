@@ -52,6 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus)
+- [schmittnieto starred KubeDeckio/KubeBuddy](https://github.com/KubeDeckio/KubeBuddy)
 - [schmittnieto starred microsoft/IPSubnetPlanner](https://github.com/microsoft/IPSubnetPlanner)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/6c006df3b9...411b127afd)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/58174a30e3...f4e448b0f0)
