@@ -52,6 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred open-webui/helm-charts](https://github.com/open-webui/helm-charts)
+- [schmittnieto starred otwld/ollama-helm](https://github.com/otwld/ollama-helm)
 - [schmittnieto starred prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus)
 - [schmittnieto starred KubeDeckio/KubeBuddy](https://github.com/KubeDeckio/KubeBuddy)
 - [schmittnieto starred microsoft/IPSubnetPlanner](https://github.com/microsoft/IPSubnetPlanner)
