@@ -52,7 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/411b127afd...451910b8b2)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/451910b8b2...ac214b4b65)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/30b80d6a19...551f9dcb67)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/f4e448b0f0...bad3f2b745)
 - [schmittnieto starred okieselbach/Intune](https://github.com/okieselbach/Intune)
 - [schmittnieto starred open-webui/helm-charts](https://github.com/open-webui/helm-charts)
@@ -65,8 +66,6 @@
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/ef4ed81b24...38add8e530)
 - [schmittnieto starred MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)
 - [schmittnieto starred awood-ops/AzureFirewallRulesAsCode](https://github.com/awood-ops/AzureFirewallRulesAsCode)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/26f27dd34b...30b80d6a19)
 - [schmittnieto starred microsoft/AKS-Arc-Apps](https://github.com/microsoft/AKS-Arc-Apps)
-- [schmittnieto pushed review-checklists](https://github.com/schmittnieto/review-checklists/compare/e276de3845...def93e544e)
 <!-- LATESTACTIVITYGITHUB:END -->
 
