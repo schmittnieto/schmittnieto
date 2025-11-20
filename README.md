@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred Azure/aks-desktop](https://github.com/Azure/aks-desktop)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/451910b8b2...ac214b4b65)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/30b80d6a19...551f9dcb67)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/f4e448b0f0...bad3f2b745)
