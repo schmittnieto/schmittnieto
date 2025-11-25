@@ -52,9 +52,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/05c3d33a40...28707685be)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/551f9dcb67...26912da8df)
 - [schmittnieto starred Azure/aks-desktop](https://github.com/Azure/aks-desktop)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/451910b8b2...ac214b4b65)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/30b80d6a19...551f9dcb67)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/f4e448b0f0...bad3f2b745)
 - [schmittnieto starred okieselbach/Intune](https://github.com/okieselbach/Intune)
 - [schmittnieto starred open-webui/helm-charts](https://github.com/open-webui/helm-charts)
