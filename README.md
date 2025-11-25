@@ -52,6 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred Azure/terraform-azurerm-avm-res-azurestackhci-cluster](https://github.com/Azure/terraform-azurerm-avm-res-azurestackhci-cluster)
+- [schmittnieto starred gyptazy/ProxLB](https://github.com/gyptazy/ProxLB)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/05c3d33a40...28707685be)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/551f9dcb67...26912da8df)
 - [schmittnieto starred Azure/aks-desktop](https://github.com/Azure/aks-desktop)
