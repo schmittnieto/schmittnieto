@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred Mynster9361/Least_Privileged_MSGraph](https://github.com/Mynster9361/Least_Privileged_MSGraph)
 - [schmittnieto starred Azure/terraform-azurerm-avm-res-azurestackhci-cluster](https://github.com/Azure/terraform-azurerm-avm-res-azurestackhci-cluster)
 - [schmittnieto starred gyptazy/ProxLB](https://github.com/gyptazy/ProxLB)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/05c3d33a40...28707685be)
