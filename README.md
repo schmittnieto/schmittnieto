@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams)
 - [schmittnieto starred msftnadavbh/AzurePricingMCP](https://github.com/msftnadavbh/AzurePricingMCP)
 - [schmittnieto starred Mynster9361/Least_Privileged_MSGraph](https://github.com/Mynster9361/Least_Privileged_MSGraph)
 - [schmittnieto starred Azure/terraform-azurerm-avm-res-azurestackhci-cluster](https://github.com/Azure/terraform-azurerm-avm-res-azurestackhci-cluster)
