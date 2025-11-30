@@ -52,26 +52,20 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/e2c0ce499b...cae896be92)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/616dfe7c9f...30c81b012b)
 - [schmittnieto starred philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams)
 - [schmittnieto starred msftnadavbh/AzurePricingMCP](https://github.com/msftnadavbh/AzurePricingMCP)
 - [schmittnieto starred Mynster9361/Least_Privileged_MSGraph](https://github.com/Mynster9361/Least_Privileged_MSGraph)
 - [schmittnieto starred Azure/terraform-azurerm-avm-res-azurestackhci-cluster](https://github.com/Azure/terraform-azurerm-avm-res-azurestackhci-cluster)
 - [schmittnieto starred gyptazy/ProxLB](https://github.com/gyptazy/ProxLB)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/05c3d33a40...28707685be)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/551f9dcb67...26912da8df)
 - [schmittnieto starred Azure/aks-desktop](https://github.com/Azure/aks-desktop)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/f4e448b0f0...bad3f2b745)
 - [schmittnieto starred okieselbach/Intune](https://github.com/okieselbach/Intune)
 - [schmittnieto starred open-webui/helm-charts](https://github.com/open-webui/helm-charts)
 - [schmittnieto starred otwld/ollama-helm](https://github.com/otwld/ollama-helm)
 - [schmittnieto starred prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus)
 - [schmittnieto starred KubeDeckio/KubeBuddy](https://github.com/KubeDeckio/KubeBuddy)
 - [schmittnieto starred microsoft/IPSubnetPlanner](https://github.com/microsoft/IPSubnetPlanner)
-- [schmittnieto commented on an issue in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/204#issuecomment-3510777073)
-- [schmittnieto opened an issue in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/204)
-- [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/ef4ed81b24...38add8e530)
-- [schmittnieto starred MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2)
-- [schmittnieto starred awood-ops/AzureFirewallRulesAsCode](https://github.com/awood-ops/AzureFirewallRulesAsCode)
-- [schmittnieto starred microsoft/AKS-Arc-Apps](https://github.com/microsoft/AKS-Arc-Apps)
 <!-- LATESTACTIVITYGITHUB:END -->
 
