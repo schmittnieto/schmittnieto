@@ -52,20 +52,19 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/e2c0ce499b...cae896be92)
+- [schmittnieto starred kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/cae896be92...5927ee3397)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/26912da8df...0a72c588eb)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/616dfe7c9f...30c81b012b)
 - [schmittnieto starred philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams)
 - [schmittnieto starred msftnadavbh/AzurePricingMCP](https://github.com/msftnadavbh/AzurePricingMCP)
 - [schmittnieto starred Mynster9361/Least_Privileged_MSGraph](https://github.com/Mynster9361/Least_Privileged_MSGraph)
 - [schmittnieto starred Azure/terraform-azurerm-avm-res-azurestackhci-cluster](https://github.com/Azure/terraform-azurerm-avm-res-azurestackhci-cluster)
 - [schmittnieto starred gyptazy/ProxLB](https://github.com/gyptazy/ProxLB)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/551f9dcb67...26912da8df)
 - [schmittnieto starred Azure/aks-desktop](https://github.com/Azure/aks-desktop)
 - [schmittnieto starred okieselbach/Intune](https://github.com/okieselbach/Intune)
 - [schmittnieto starred open-webui/helm-charts](https://github.com/open-webui/helm-charts)
 - [schmittnieto starred otwld/ollama-helm](https://github.com/otwld/ollama-helm)
 - [schmittnieto starred prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus)
-- [schmittnieto starred KubeDeckio/KubeBuddy](https://github.com/KubeDeckio/KubeBuddy)
-- [schmittnieto starred microsoft/IPSubnetPlanner](https://github.com/microsoft/IPSubnetPlanner)
 <!-- LATESTACTIVITYGITHUB:END -->
 
