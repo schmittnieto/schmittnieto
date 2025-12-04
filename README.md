@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred joriskahle007/joriskahle007.github.io](https://github.com/joriskahle007/joriskahle007.github.io)
 - [schmittnieto starred kaito-project/aikit](https://github.com/kaito-project/aikit)
 - [schmittnieto starred NVIDIA/nim-deploy](https://github.com/NVIDIA/nim-deploy)
 - [schmittnieto starred kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
@@ -65,6 +66,5 @@
 - [schmittnieto starred gyptazy/ProxLB](https://github.com/gyptazy/ProxLB)
 - [schmittnieto starred Azure/aks-desktop](https://github.com/Azure/aks-desktop)
 - [schmittnieto starred okieselbach/Intune](https://github.com/okieselbach/Intune)
-- [schmittnieto starred open-webui/helm-charts](https://github.com/open-webui/helm-charts)
 <!-- LATESTACTIVITYGITHUB:END -->
 
