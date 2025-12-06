@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/d310334c5f...397c9d67f7)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/30c81b012b...6ac479fc4a)
 - [schmittnieto starred joriskahle007/joriskahle007.github.io](https://github.com/joriskahle007/joriskahle007.github.io)
