@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred RobertEichenseer/AgenticAI.FoundryIQ](https://github.com/RobertEichenseer/AgenticAI.FoundryIQ)
 - [schmittnieto starred jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator)
 - [schmittnieto starred microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/d310334c5f...397c9d67f7)
