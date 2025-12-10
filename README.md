@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 - [schmittnieto starred RobertEichenseer/AgenticAI.FoundryIQ](https://github.com/RobertEichenseer/AgenticAI.FoundryIQ)
 - [schmittnieto starred jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator)
 - [schmittnieto starred microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local)
@@ -67,6 +68,5 @@
 - [schmittnieto starred Mynster9361/Least_Privileged_MSGraph](https://github.com/Mynster9361/Least_Privileged_MSGraph)
 - [schmittnieto starred Azure/terraform-azurerm-avm-res-azurestackhci-cluster](https://github.com/Azure/terraform-azurerm-avm-res-azurestackhci-cluster)
 - [schmittnieto starred gyptazy/ProxLB](https://github.com/gyptazy/ProxLB)
-- [schmittnieto starred Azure/aks-desktop](https://github.com/Azure/aks-desktop)
 <!-- LATESTACTIVITYGITHUB:END -->
 
