@@ -52,21 +52,17 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/15eef37dd7...e26ffd713f)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/2abdcd6499...e6814f51b9)
+- [schmittnieto starred mc2mc/Slide_decks_speakers](https://github.com/mc2mc/Slide_decks_speakers)
 - [schmittnieto starred CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 - [schmittnieto starred RobertEichenseer/AgenticAI.FoundryIQ](https://github.com/RobertEichenseer/AgenticAI.FoundryIQ)
 - [schmittnieto starred jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator)
 - [schmittnieto starred microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/d310334c5f...397c9d67f7)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/30c81b012b...6ac479fc4a)
 - [schmittnieto starred joriskahle007/joriskahle007.github.io](https://github.com/joriskahle007/joriskahle007.github.io)
 - [schmittnieto starred kaito-project/aikit](https://github.com/kaito-project/aikit)
 - [schmittnieto starred NVIDIA/nim-deploy](https://github.com/NVIDIA/nim-deploy)
 - [schmittnieto starred kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/26912da8df...0a72c588eb)
-- [schmittnieto starred philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams)
-- [schmittnieto starred msftnadavbh/AzurePricingMCP](https://github.com/msftnadavbh/AzurePricingMCP)
-- [schmittnieto starred Mynster9361/Least_Privileged_MSGraph](https://github.com/Mynster9361/Least_Privileged_MSGraph)
-- [schmittnieto starred Azure/terraform-azurerm-avm-res-azurestackhci-cluster](https://github.com/Azure/terraform-azurerm-avm-res-azurestackhci-cluster)
-- [schmittnieto starred gyptazy/ProxLB](https://github.com/gyptazy/ProxLB)
 <!-- LATESTACTIVITYGITHUB:END -->
 
