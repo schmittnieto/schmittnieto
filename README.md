@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/84ed9795a5...6784367c87)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/6ac479fc4a...fcf16638bf)
 - [schmittnieto starred zsrv/supermicro-product-key](https://github.com/zsrv/supermicro-product-key)
