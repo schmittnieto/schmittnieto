@@ -52,14 +52,15 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/15eef37dd7...e26ffd713f)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/84ed9795a5...6784367c87)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/6ac479fc4a...fcf16638bf)
+- [schmittnieto starred zsrv/supermicro-product-key](https://github.com/zsrv/supermicro-product-key)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/2abdcd6499...e6814f51b9)
 - [schmittnieto starred mc2mc/Slide_decks_speakers](https://github.com/mc2mc/Slide_decks_speakers)
 - [schmittnieto starred CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 - [schmittnieto starred RobertEichenseer/AgenticAI.FoundryIQ](https://github.com/RobertEichenseer/AgenticAI.FoundryIQ)
 - [schmittnieto starred jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator)
 - [schmittnieto starred microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/30c81b012b...6ac479fc4a)
 - [schmittnieto starred joriskahle007/joriskahle007.github.io](https://github.com/joriskahle007/joriskahle007.github.io)
 - [schmittnieto starred kaito-project/aikit](https://github.com/kaito-project/aikit)
 - [schmittnieto starred NVIDIA/nim-deploy](https://github.com/NVIDIA/nim-deploy)
