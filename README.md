@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
 - [schmittnieto starred ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/84ed9795a5...6784367c87)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/6ac479fc4a...fcf16638bf)
