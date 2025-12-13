@@ -52,6 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists)
+- [schmittnieto starred StevenBlack/hosts](https://github.com/StevenBlack/hosts)
 - [schmittnieto starred microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
 - [schmittnieto starred ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/84ed9795a5...6784367c87)
