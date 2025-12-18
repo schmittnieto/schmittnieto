@@ -52,15 +52,15 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/944554b976...9f8244a1b4)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/fcf16638bf...8fb0b881ec)
 - [schmittnieto starred ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/6784367c87...4d40a57de4)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/e6814f51b9...68e17b983c)
 - [schmittnieto starred ClementNerma/tapo-rest](https://github.com/ClementNerma/tapo-rest)
 - [schmittnieto starred jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists)
 - [schmittnieto starred StevenBlack/hosts](https://github.com/StevenBlack/hosts)
 - [schmittnieto starred microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
 - [schmittnieto starred ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/6ac479fc4a...fcf16638bf)
 - [schmittnieto starred zsrv/supermicro-product-key](https://github.com/zsrv/supermicro-product-key)
 - [schmittnieto starred mc2mc/Slide_decks_speakers](https://github.com/mc2mc/Slide_decks_speakers)
 - [schmittnieto starred CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
