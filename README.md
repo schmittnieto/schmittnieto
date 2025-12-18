@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/6784367c87...4d40a57de4)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/e6814f51b9...68e17b983c)
 - [schmittnieto starred ClementNerma/tapo-rest](https://github.com/ClementNerma/tapo-rest)
