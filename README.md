@@ -52,8 +52,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/944554b976...9f8244a1b4)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/fcf16638bf...8fb0b881ec)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/daf99a662f...6e843c8762)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/8fb0b881ec...f07aad3842)
+- [schmittnieto starred bytewax/awesome-public-real-time-datasets](https://github.com/bytewax/awesome-public-real-time-datasets)
 - [schmittnieto starred ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/e6814f51b9...68e17b983c)
 - [schmittnieto starred ClementNerma/tapo-rest](https://github.com/ClementNerma/tapo-rest)
@@ -68,8 +69,5 @@
 - [schmittnieto starred jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator)
 - [schmittnieto starred microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local)
 - [schmittnieto starred joriskahle007/joriskahle007.github.io](https://github.com/joriskahle007/joriskahle007.github.io)
-- [schmittnieto starred kaito-project/aikit](https://github.com/kaito-project/aikit)
-- [schmittnieto starred NVIDIA/nim-deploy](https://github.com/NVIDIA/nim-deploy)
-- [schmittnieto starred kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
 <!-- LATESTACTIVITYGITHUB:END -->
 
