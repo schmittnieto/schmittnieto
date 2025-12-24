@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred arudell/AzureLocal-Supportability](https://github.com/arudell/AzureLocal-Supportability)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/daf99a662f...6e843c8762)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/8fb0b881ec...f07aad3842)
 - [schmittnieto starred bytewax/awesome-public-real-time-datasets](https://github.com/bytewax/awesome-public-real-time-datasets)
@@ -68,6 +69,5 @@
 - [schmittnieto starred RobertEichenseer/AgenticAI.FoundryIQ](https://github.com/RobertEichenseer/AgenticAI.FoundryIQ)
 - [schmittnieto starred jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator)
 - [schmittnieto starred microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local)
-- [schmittnieto starred joriskahle007/joriskahle007.github.io](https://github.com/joriskahle007/joriskahle007.github.io)
 <!-- LATESTACTIVITYGITHUB:END -->
 
