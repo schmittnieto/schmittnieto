@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred rrevo/free-scribe-yearly-planner](https://github.com/rrevo/free-scribe-yearly-planner)
 - [schmittnieto starred awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [schmittnieto starred arudell/AzureLocal-Supportability](https://github.com/arudell/AzureLocal-Supportability)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/daf99a662f...6e843c8762)
