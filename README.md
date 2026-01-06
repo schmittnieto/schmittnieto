@@ -69,6 +69,5 @@
 - [schmittnieto starred mc2mc/Slide_decks_speakers](https://github.com/mc2mc/Slide_decks_speakers)
 - [schmittnieto starred CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 - [schmittnieto starred RobertEichenseer/AgenticAI.FoundryIQ](https://github.com/RobertEichenseer/AgenticAI.FoundryIQ)
-- [schmittnieto starred jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator)
 <!-- LATESTACTIVITYGITHUB:END -->
 
