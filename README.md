@@ -52,11 +52,11 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/6e843c8762...9e6d647c84)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/f07aad3842...ab8459ec0e)
 - [schmittnieto starred rrevo/free-scribe-yearly-planner](https://github.com/rrevo/free-scribe-yearly-planner)
 - [schmittnieto starred awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [schmittnieto starred arudell/AzureLocal-Supportability](https://github.com/arudell/AzureLocal-Supportability)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/daf99a662f...6e843c8762)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/8fb0b881ec...f07aad3842)
 - [schmittnieto starred bytewax/awesome-public-real-time-datasets](https://github.com/bytewax/awesome-public-real-time-datasets)
 - [schmittnieto starred ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/e6814f51b9...68e17b983c)
