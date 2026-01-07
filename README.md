@@ -52,8 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/6e843c8762...9e6d647c84)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/f07aad3842...ab8459ec0e)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/dc158f1c15...9a5f42a3b0)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/1334c10c37...ca377cfdd8)
 - [schmittnieto starred rrevo/free-scribe-yearly-planner](https://github.com/rrevo/free-scribe-yearly-planner)
 - [schmittnieto starred awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [schmittnieto starred arudell/AzureLocal-Supportability](https://github.com/arudell/AzureLocal-Supportability)
@@ -67,7 +67,5 @@
 - [schmittnieto starred ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
 - [schmittnieto starred zsrv/supermicro-product-key](https://github.com/zsrv/supermicro-product-key)
 - [schmittnieto starred mc2mc/Slide_decks_speakers](https://github.com/mc2mc/Slide_decks_speakers)
-- [schmittnieto starred CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
-- [schmittnieto starred RobertEichenseer/AgenticAI.FoundryIQ](https://github.com/RobertEichenseer/AgenticAI.FoundryIQ)
 <!-- LATESTACTIVITYGITHUB:END -->
 
