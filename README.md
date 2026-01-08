@@ -16,6 +16,7 @@
 
 # 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reflecting on 2025 and Goals for 2026](https://schmitt-nieto.com/blog/year-recap-2025/) - 30 Dec 2025
 - [Azure Local: How to Deploy LLMs on AKS](https://schmitt-nieto.com/blog/azure-local-llm/) - 29 Nov 2025
 - [Azure Local Deep Insights Workbook](https://schmitt-nieto.com/blog/azure-local-deep-insights-workbook/) - 30 Oct 2025
 - [Awesome Azure Local](https://schmitt-nieto.com/blog/awesome-azure-local/) - 08 Aug 2025
@@ -24,8 +25,7 @@
 - [Azure Local: Redundancy](https://schmitt-nieto.com/blog/azure-local-redundancy/) - 28 Feb 2025
 - [Azure Local meets Nerdio](https://schmitt-nieto.com/blog/azure-local-nerdio/) - 07 Feb 2025
 - [Azure Local: Lifecycle Management](https://schmitt-nieto.com/blog/azure-local-lifecycle/) - 24 Jan 2025
-- [Azure Local: AKS and SQL Managed instances](https://schmitt-nieto.com/blog/azure-local-aks/) - 08 Jan 2025
-- [Reflecting on 2024 and Goals for 2025](https://schmitt-nieto.com/blog/new-year/) - 30 Dec 2024<!-- BLOG-POST-LIST:END -->
+- [Azure Local: AKS and SQL Managed instances](https://schmitt-nieto.com/blog/azure-local-aks/) - 08 Jan 2025<!-- BLOG-POST-LIST:END -->
 <!-- Credits to Blog Updates on readme to: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 # 🎓 Certifications
