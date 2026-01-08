@@ -52,8 +52,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/4b4a7f8e3d...f60092d31e)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/1334c10c37...ca377cfdd8)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/23622c0239...d32c0e33e3)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/ded2feeca6...a20f811eba)
+- [schmittnieto starred gudszent/fslogix-redirections-builder](https://github.com/gudszent/fslogix-redirections-builder)
 - [schmittnieto starred rrevo/free-scribe-yearly-planner](https://github.com/rrevo/free-scribe-yearly-planner)
 - [schmittnieto starred awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [schmittnieto starred arudell/AzureLocal-Supportability](https://github.com/arudell/AzureLocal-Supportability)
@@ -65,7 +66,5 @@
 - [schmittnieto starred StevenBlack/hosts](https://github.com/StevenBlack/hosts)
 - [schmittnieto starred microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
 - [schmittnieto starred ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
-- [schmittnieto starred zsrv/supermicro-product-key](https://github.com/zsrv/supermicro-product-key)
-- [schmittnieto starred mc2mc/Slide_decks_speakers](https://github.com/mc2mc/Slide_decks_speakers)
 <!-- LATESTACTIVITYGITHUB:END -->
 
