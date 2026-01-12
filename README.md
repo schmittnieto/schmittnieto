@@ -63,7 +63,5 @@
 - [schmittnieto starred ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/e6814f51b9...68e17b983c)
 - [schmittnieto starred ClementNerma/tapo-rest](https://github.com/ClementNerma/tapo-rest)
-- [schmittnieto starred jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists)
-- [schmittnieto starred StevenBlack/hosts](https://github.com/StevenBlack/hosts)
 <!-- LATESTACTIVITYGITHUB:END -->
 
