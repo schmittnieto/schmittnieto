@@ -64,6 +64,5 @@
 - [schmittnieto starred ClementNerma/tapo-rest](https://github.com/ClementNerma/tapo-rest)
 - [schmittnieto starred jacklul/pihole-updatelists](https://github.com/jacklul/pihole-updatelists)
 - [schmittnieto starred StevenBlack/hosts](https://github.com/StevenBlack/hosts)
-- [schmittnieto starred microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
 <!-- LATESTACTIVITYGITHUB:END -->
 
