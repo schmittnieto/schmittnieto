@@ -52,8 +52,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/d32c0e33e3...76a138deef)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/68e17b983c...53a521db1d)
 - [schmittnieto starred riosengineer/open-webui-on-azure](https://github.com/riosengineer/open-webui-on-azure)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/23622c0239...d32c0e33e3)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/ded2feeca6...a20f811eba)
 - [schmittnieto starred gudszent/fslogix-redirections-builder](https://github.com/gudszent/fslogix-redirections-builder)
 - [schmittnieto starred rrevo/free-scribe-yearly-planner](https://github.com/rrevo/free-scribe-yearly-planner)
@@ -61,7 +62,5 @@
 - [schmittnieto starred arudell/AzureLocal-Supportability](https://github.com/arudell/AzureLocal-Supportability)
 - [schmittnieto starred bytewax/awesome-public-real-time-datasets](https://github.com/bytewax/awesome-public-real-time-datasets)
 - [schmittnieto starred ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/e6814f51b9...68e17b983c)
-- [schmittnieto starred ClementNerma/tapo-rest](https://github.com/ClementNerma/tapo-rest)
 <!-- LATESTACTIVITYGITHUB:END -->
 
