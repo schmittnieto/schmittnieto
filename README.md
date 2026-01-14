@@ -52,16 +52,15 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/6d662ad53b...76a8c55c5f)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/fedfd3b9bb...51b269b14b)
 - [schmittnieto starred anomalyco/opencode](https://github.com/anomalyco/opencode)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/49353a6cbb...c06858fb08)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/53a521db1d...c90b9ed033)
 - [schmittnieto starred riosengineer/open-webui-on-azure](https://github.com/riosengineer/open-webui-on-azure)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/ded2feeca6...a20f811eba)
 - [schmittnieto starred gudszent/fslogix-redirections-builder](https://github.com/gudszent/fslogix-redirections-builder)
 - [schmittnieto starred rrevo/free-scribe-yearly-planner](https://github.com/rrevo/free-scribe-yearly-planner)
 - [schmittnieto starred awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [schmittnieto starred arudell/AzureLocal-Supportability](https://github.com/arudell/AzureLocal-Supportability)
 - [schmittnieto starred bytewax/awesome-public-real-time-datasets](https://github.com/bytewax/awesome-public-real-time-datasets)
-- [schmittnieto starred ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 <!-- LATESTACTIVITYGITHUB:END -->
 
