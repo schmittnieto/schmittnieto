@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred DrazenNikolic/AVD-Golden-Image-Optimizer](https://github.com/DrazenNikolic/AVD-Golden-Image-Optimizer)
 - [schmittnieto starred cyb3rint3l-labs/ServerSecurityAudit](https://github.com/cyb3rint3l-labs/ServerSecurityAudit)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/6d662ad53b...76a8c55c5f)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/fedfd3b9bb...51b269b14b)
