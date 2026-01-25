@@ -63,6 +63,5 @@
 - [schmittnieto starred riosengineer/open-webui-on-azure](https://github.com/riosengineer/open-webui-on-azure)
 - [schmittnieto starred gudszent/fslogix-redirections-builder](https://github.com/gudszent/fslogix-redirections-builder)
 - [schmittnieto starred rrevo/free-scribe-yearly-planner](https://github.com/rrevo/free-scribe-yearly-planner)
-- [schmittnieto starred awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 <!-- LATESTACTIVITYGITHUB:END -->
 
