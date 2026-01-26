@@ -52,16 +52,15 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/76a8c55c5f...8b33760a33)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/0bf6c022df...69a24b4005)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/51b269b14b...41ba7f995d)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/c90b9ed033...aa8696cbb1)
 - [schmittnieto starred microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator)
 - [schmittnieto starred cyberweles/azure-tls-probe](https://github.com/cyberweles/azure-tls-probe)
 - [schmittnieto starred DrazenNikolic/AVD-Golden-Image-Optimizer](https://github.com/DrazenNikolic/AVD-Golden-Image-Optimizer)
 - [schmittnieto starred cyb3rint3l-labs/ServerSecurityAudit](https://github.com/cyb3rint3l-labs/ServerSecurityAudit)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/fedfd3b9bb...51b269b14b)
 - [schmittnieto starred anomalyco/opencode](https://github.com/anomalyco/opencode)
 - [schmittnieto starred riosengineer/open-webui-on-azure](https://github.com/riosengineer/open-webui-on-azure)
 - [schmittnieto starred gudszent/fslogix-redirections-builder](https://github.com/gudszent/fslogix-redirections-builder)
-- [schmittnieto starred rrevo/free-scribe-yearly-planner](https://github.com/rrevo/free-scribe-yearly-planner)
 <!-- LATESTACTIVITYGITHUB:END -->
 
