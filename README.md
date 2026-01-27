@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred hashicorp/agent-skills](https://github.com/hashicorp/agent-skills)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/0bf6c022df...69a24b4005)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/51b269b14b...41ba7f995d)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/c90b9ed033...aa8696cbb1)
