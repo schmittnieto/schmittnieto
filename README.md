@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred jonjarvis87/ImplementWindows365](https://github.com/jonjarvis87/ImplementWindows365)
 - [schmittnieto starred hashicorp/agent-skills](https://github.com/hashicorp/agent-skills)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/0bf6c022df...69a24b4005)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/51b269b14b...41ba7f995d)
