@@ -52,6 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2)
+- [schmittnieto starred vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit)
 - [schmittnieto starred BandaruDheeraj/moltbot-azure-container-apps](https://github.com/BandaruDheeraj/moltbot-azure-container-apps)
 - [schmittnieto starred Arcanum-Sec/arc_pi_taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy)
 - [schmittnieto starred openclaw/openclaw](https://github.com/openclaw/openclaw)
