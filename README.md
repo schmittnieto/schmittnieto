@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred RfidResearchGroup/ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra)
 - [schmittnieto starred microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2)
 - [schmittnieto starred vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit)
 - [schmittnieto starred BandaruDheeraj/moltbot-azure-container-apps](https://github.com/BandaruDheeraj/moltbot-azure-container-apps)
@@ -68,6 +69,5 @@
 - [schmittnieto starred cyb3rint3l-labs/ServerSecurityAudit](https://github.com/cyb3rint3l-labs/ServerSecurityAudit)
 - [schmittnieto starred anomalyco/opencode](https://github.com/anomalyco/opencode)
 - [schmittnieto starred riosengineer/open-webui-on-azure](https://github.com/riosengineer/open-webui-on-azure)
-- [schmittnieto starred gudszent/fslogix-redirections-builder](https://github.com/gudszent/fslogix-redirections-builder)
 <!-- LATESTACTIVITYGITHUB:END -->
 
