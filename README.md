@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred Azure/odinforazurelocal](https://github.com/Azure/odinforazurelocal)
 - [schmittnieto starred markrussinovich/bsodmosaic](https://github.com/markrussinovich/bsodmosaic)
 - [schmittnieto starred GameTec-live/ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI)
 - [schmittnieto starred RfidResearchGroup/ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra)
