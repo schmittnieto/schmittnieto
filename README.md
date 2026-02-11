@@ -71,6 +71,5 @@
 - [schmittnieto starred DrazenNikolic/AVD-Golden-Image-Optimizer](https://github.com/DrazenNikolic/AVD-Golden-Image-Optimizer)
 - [schmittnieto starred cyb3rint3l-labs/ServerSecurityAudit](https://github.com/cyb3rint3l-labs/ServerSecurityAudit)
 - [schmittnieto starred anomalyco/opencode](https://github.com/anomalyco/opencode)
-- [schmittnieto starred riosengineer/open-webui-on-azure](https://github.com/riosengineer/open-webui-on-azure)
 <!-- LATESTACTIVITYGITHUB:END -->
 
