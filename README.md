@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred jonathan-vella/azure-agentic-infraops](https://github.com/jonathan-vella/azure-agentic-infraops)
 - [schmittnieto starred Azure/odinforazurelocal](https://github.com/Azure/odinforazurelocal)
 - [schmittnieto starred markrussinovich/bsodmosaic](https://github.com/markrussinovich/bsodmosaic)
 - [schmittnieto starred GameTec-live/ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI)
