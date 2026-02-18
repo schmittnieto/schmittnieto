@@ -52,6 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/43949d56a3...1ef7394f7b)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/a7f521ca88...afef5b4546)
 - [schmittnieto starred jonathan-vella/azure-agentic-infraops](https://github.com/jonathan-vella/azure-agentic-infraops)
 - [schmittnieto starred Azure/odinforazurelocal](https://github.com/Azure/odinforazurelocal)
 - [schmittnieto starred markrussinovich/bsodmosaic](https://github.com/markrussinovich/bsodmosaic)
@@ -64,9 +66,7 @@
 - [schmittnieto starred openclaw/openclaw](https://github.com/openclaw/openclaw)
 - [schmittnieto starred jonjarvis87/ImplementWindows365](https://github.com/jonjarvis87/ImplementWindows365)
 - [schmittnieto starred hashicorp/agent-skills](https://github.com/hashicorp/agent-skills)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/0bf6c022df...69a24b4005)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/51b269b14b...41ba7f995d)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/c90b9ed033...aa8696cbb1)
 - [schmittnieto starred microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator)
 - [schmittnieto starred cyberweles/azure-tls-probe](https://github.com/cyberweles/azure-tls-probe)
 - [schmittnieto starred DrazenNikolic/AVD-Golden-Image-Optimizer](https://github.com/DrazenNikolic/AVD-Golden-Image-Optimizer)
