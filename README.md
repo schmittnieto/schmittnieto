@@ -69,6 +69,5 @@
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/51b269b14b...41ba7f995d)
 - [schmittnieto starred microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator)
 - [schmittnieto starred cyberweles/azure-tls-probe](https://github.com/cyberweles/azure-tls-probe)
-- [schmittnieto starred DrazenNikolic/AVD-Golden-Image-Optimizer](https://github.com/DrazenNikolic/AVD-Golden-Image-Optimizer)
 <!-- LATESTACTIVITYGITHUB:END -->
 
