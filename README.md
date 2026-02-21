@@ -67,6 +67,5 @@
 - [schmittnieto starred jonjarvis87/ImplementWindows365](https://github.com/jonjarvis87/ImplementWindows365)
 - [schmittnieto starred hashicorp/agent-skills](https://github.com/hashicorp/agent-skills)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/51b269b14b...41ba7f995d)
-- [schmittnieto starred microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator](https://github.com/microsoft/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator)
 <!-- LATESTACTIVITYGITHUB:END -->
 
