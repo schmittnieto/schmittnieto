@@ -65,6 +65,5 @@
 - [schmittnieto starred Arcanum-Sec/arc_pi_taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy)
 - [schmittnieto starred openclaw/openclaw](https://github.com/openclaw/openclaw)
 - [schmittnieto starred jonjarvis87/ImplementWindows365](https://github.com/jonjarvis87/ImplementWindows365)
-- [schmittnieto starred hashicorp/agent-skills](https://github.com/hashicorp/agent-skills)
 <!-- LATESTACTIVITYGITHUB:END -->
 
