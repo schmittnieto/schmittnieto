@@ -64,6 +64,5 @@
 - [schmittnieto starred BandaruDheeraj/moltbot-azure-container-apps](https://github.com/BandaruDheeraj/moltbot-azure-container-apps)
 - [schmittnieto starred Arcanum-Sec/arc_pi_taxonomy](https://github.com/Arcanum-Sec/arc_pi_taxonomy)
 - [schmittnieto starred openclaw/openclaw](https://github.com/openclaw/openclaw)
-- [schmittnieto starred jonjarvis87/ImplementWindows365](https://github.com/jonjarvis87/ImplementWindows365)
 <!-- LATESTACTIVITYGITHUB:END -->
 
