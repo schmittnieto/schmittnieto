@@ -59,7 +59,5 @@
 - [schmittnieto starred markrussinovich/bsodmosaic](https://github.com/markrussinovich/bsodmosaic)
 - [schmittnieto starred GameTec-live/ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI)
 - [schmittnieto starred RfidResearchGroup/ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra)
-- [schmittnieto starred microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2)
-- [schmittnieto starred vudovn/antigravity-kit](https://github.com/vudovn/antigravity-kit)
 <!-- LATESTACTIVITYGITHUB:END -->
 
