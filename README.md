@@ -56,6 +56,5 @@
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/a7f521ca88...afef5b4546)
 - [schmittnieto starred jonathan-vella/azure-agentic-infraops](https://github.com/jonathan-vella/azure-agentic-infraops)
 - [schmittnieto starred Azure/odinforazurelocal](https://github.com/Azure/odinforazurelocal)
-- [schmittnieto starred markrussinovich/bsodmosaic](https://github.com/markrussinovich/bsodmosaic)
 <!-- LATESTACTIVITYGITHUB:END -->
 
