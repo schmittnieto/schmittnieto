@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto commented on an issue in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/204#issuecomment-4057418788)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/a8652954f8...e1e433798a)
 - [schmittnieto starred GetToThe-Cloud/documenter-azure-local](https://github.com/GetToThe-Cloud/documenter-azure-local)
 - [schmittnieto starred GetToThe-Cloud/documenter-azure-azurevirtualdesktop](https://github.com/GetToThe-Cloud/documenter-azure-azurevirtualdesktop)
