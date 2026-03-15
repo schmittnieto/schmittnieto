@@ -57,6 +57,5 @@
 - [schmittnieto starred GetToThe-Cloud/documenter-azure-local](https://github.com/GetToThe-Cloud/documenter-azure-local)
 - [schmittnieto starred GetToThe-Cloud/documenter-azure-azurevirtualdesktop](https://github.com/GetToThe-Cloud/documenter-azure-azurevirtualdesktop)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/a7f521ca88...afef5b4546)
-- [schmittnieto starred jonathan-vella/azure-agentic-infraops](https://github.com/jonathan-vella/azure-agentic-infraops)
 <!-- LATESTACTIVITYGITHUB:END -->
 
