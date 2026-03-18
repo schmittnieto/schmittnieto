@@ -52,11 +52,12 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto closed an issue in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/204)
+- [schmittnieto commented on an issue in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/204#issuecomment-4083855509)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/bb9b4e4b80...828904cb23)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/47db94ee16...824d353418)
 - [schmittnieto starred GetToThe-Cloud/Website](https://github.com/GetToThe-Cloud/Website)
-- [schmittnieto commented on an issue in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/204#issuecomment-4057418788)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/a8652954f8...e1e433798a)
 - [schmittnieto starred GetToThe-Cloud/documenter-azure-local](https://github.com/GetToThe-Cloud/documenter-azure-local)
 - [schmittnieto starred GetToThe-Cloud/documenter-azure-azurevirtualdesktop](https://github.com/GetToThe-Cloud/documenter-azure-azurevirtualdesktop)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/a7f521ca88...afef5b4546)
 <!-- LATESTACTIVITYGITHUB:END -->
 
