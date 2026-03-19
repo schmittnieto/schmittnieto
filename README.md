@@ -52,6 +52,11 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred MicrosoftDocs/azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs)
+- [schmittnieto starred AzureLocal/azurelocal-loadtools](https://github.com/AzureLocal/azurelocal-loadtools)
+- [schmittnieto starred AzureLocal/azurelocal-sofs-fslogix](https://github.com/AzureLocal/azurelocal-sofs-fslogix)
+- [schmittnieto starred AzureLocal/azurelocal-vm-conversion-toolkit](https://github.com/AzureLocal/azurelocal-vm-conversion-toolkit)
+- [schmittnieto starred AzureLocal/azurelocal-avd](https://github.com/AzureLocal/azurelocal-avd)
 - [schmittnieto closed an issue in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/204)
 - [schmittnieto commented on an issue in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/204#issuecomment-4083855509)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/bb9b4e4b80...828904cb23)
