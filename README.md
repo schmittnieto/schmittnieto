@@ -52,7 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/aa04ec8d0a...a870b629fc)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/f06a1d8672...7f596025ca)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/41ba7f995d...717394a887)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/5ac2038cb6...3ebde338bb)
 - [schmittnieto starred MicrosoftDocs/azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs)
 - [schmittnieto starred AzureLocal/azurelocal-loadtools](https://github.com/AzureLocal/azurelocal-loadtools)
