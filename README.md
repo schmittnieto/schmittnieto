@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred ruvnet/ruflo](https://github.com/ruvnet/ruflo)
 - [schmittnieto starred microsoft/RustTraining](https://github.com/microsoft/RustTraining)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/f06a1d8672...7f596025ca)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/41ba7f995d...717394a887)
