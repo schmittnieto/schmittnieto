@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred microsoft/RustTraining](https://github.com/microsoft/RustTraining)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/f06a1d8672...7f596025ca)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/41ba7f995d...717394a887)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/5ac2038cb6...3ebde338bb)
