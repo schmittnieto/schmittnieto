@@ -52,11 +52,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+- [schmittnieto starred affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/7f596025ca...6d59be75fd)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/3ebde338bb...46ad3943c6)
 - [schmittnieto starred ruvnet/ruflo](https://github.com/ruvnet/ruflo)
 - [schmittnieto starred microsoft/RustTraining](https://github.com/microsoft/RustTraining)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/f06a1d8672...7f596025ca)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/41ba7f995d...717394a887)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/5ac2038cb6...3ebde338bb)
 - [schmittnieto starred MicrosoftDocs/azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs)
 - [schmittnieto starred AzureLocal/azurelocal-loadtools](https://github.com/AzureLocal/azurelocal-loadtools)
 - [schmittnieto starred AzureLocal/azurelocal-sofs-fslogix](https://github.com/AzureLocal/azurelocal-sofs-fslogix)
