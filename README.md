@@ -52,6 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred swigerb/McDonalds_AI_DriveThru](https://github.com/swigerb/McDonalds_AI_DriveThru)
+- [schmittnieto starred askaresh/avd_terraform](https://github.com/askaresh/avd_terraform)
 - [schmittnieto starred jayminwest/mulch](https://github.com/jayminwest/mulch)
 - [schmittnieto starred thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 - [schmittnieto starred affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
@@ -68,7 +70,5 @@
 - [schmittnieto closed an issue in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/204)
 - [schmittnieto commented on an issue in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/204#issuecomment-4083855509)
 - [schmittnieto starred GetToThe-Cloud/Website](https://github.com/GetToThe-Cloud/Website)
-- [schmittnieto starred GetToThe-Cloud/documenter-azure-local](https://github.com/GetToThe-Cloud/documenter-azure-local)
-- [schmittnieto starred GetToThe-Cloud/documenter-azure-azurevirtualdesktop](https://github.com/GetToThe-Cloud/documenter-azure-azurevirtualdesktop)
 <!-- LATESTACTIVITYGITHUB:END -->
 
