@@ -52,16 +52,19 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/cc4c91d2c3...e69da30851)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/717394a887...856c2be946)
+- [schmittnieto opened a pull request in azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs/pull/4205)
+- [schmittnieto pushed azure-stack-docs](https://github.com/schmittnieto/azure-stack-docs/compare/27b579e376...d7a64dca7a)
+- [schmittnieto forked schmittnieto/azure-stack-docs from MicrosoftDocs/azure-stack-docs](https://github.com/schmittnieto/azure-stack-docs)
 - [schmittnieto starred swigerb/McDonalds_AI_DriveThru](https://github.com/swigerb/McDonalds_AI_DriveThru)
 - [schmittnieto starred askaresh/avd_terraform](https://github.com/askaresh/avd_terraform)
 - [schmittnieto starred jayminwest/mulch](https://github.com/jayminwest/mulch)
 - [schmittnieto starred thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 - [schmittnieto starred affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/7f596025ca...6d59be75fd)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/3ebde338bb...46ad3943c6)
 - [schmittnieto starred ruvnet/ruflo](https://github.com/ruvnet/ruflo)
 - [schmittnieto starred microsoft/RustTraining](https://github.com/microsoft/RustTraining)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/41ba7f995d...717394a887)
 - [schmittnieto starred MicrosoftDocs/azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs)
 - [schmittnieto starred AzureLocal/azurelocal-loadtools](https://github.com/AzureLocal/azurelocal-loadtools)
 - [schmittnieto starred AzureLocal/azurelocal-sofs-fslogix](https://github.com/AzureLocal/azurelocal-sofs-fslogix)
@@ -69,6 +72,5 @@
 - [schmittnieto starred AzureLocal/azurelocal-avd](https://github.com/AzureLocal/azurelocal-avd)
 - [schmittnieto closed an issue in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/204)
 - [schmittnieto commented on an issue in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/204#issuecomment-4083855509)
-- [schmittnieto starred GetToThe-Cloud/Website](https://github.com/GetToThe-Cloud/Website)
 <!-- LATESTACTIVITYGITHUB:END -->
 
