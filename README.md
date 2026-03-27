@@ -52,8 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/cc4c91d2c3...e69da30851)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/717394a887...856c2be946)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/69a5d9b4ac...3d99cd2ae2)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/856c2be946...77ba5049dc)
 - [schmittnieto opened a pull request in azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs/pull/4205)
 - [schmittnieto pushed azure-stack-docs](https://github.com/schmittnieto/azure-stack-docs/compare/27b579e376...d7a64dca7a)
 - [schmittnieto forked schmittnieto/azure-stack-docs from MicrosoftDocs/azure-stack-docs](https://github.com/schmittnieto/azure-stack-docs)
