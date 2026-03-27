@@ -52,8 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/69a5d9b4ac...3d99cd2ae2)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/856c2be946...77ba5049dc)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/e8760dcb12...2cbd0459c5)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/77ba5049dc...d8105d5c2c)
 - [schmittnieto opened a pull request in azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs/pull/4205)
 - [schmittnieto pushed azure-stack-docs](https://github.com/schmittnieto/azure-stack-docs/compare/27b579e376...d7a64dca7a)
 - [schmittnieto forked schmittnieto/azure-stack-docs from MicrosoftDocs/azure-stack-docs](https://github.com/schmittnieto/azure-stack-docs)
@@ -71,6 +71,5 @@
 - [schmittnieto starred AzureLocal/azurelocal-vm-conversion-toolkit](https://github.com/AzureLocal/azurelocal-vm-conversion-toolkit)
 - [schmittnieto starred AzureLocal/azurelocal-avd](https://github.com/AzureLocal/azurelocal-avd)
 - [schmittnieto closed an issue in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/204)
-- [schmittnieto commented on an issue in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/204#issuecomment-4083855509)
 <!-- LATESTACTIVITYGITHUB:END -->
 
