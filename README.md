@@ -52,8 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/e8760dcb12...2cbd0459c5)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/77ba5049dc...d8105d5c2c)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/dd0ebe0472...289dc34d67)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/d8105d5c2c...2217914172)
 - [schmittnieto opened a pull request in azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs/pull/4205)
 - [schmittnieto pushed azure-stack-docs](https://github.com/schmittnieto/azure-stack-docs/compare/27b579e376...d7a64dca7a)
 - [schmittnieto forked schmittnieto/azure-stack-docs from MicrosoftDocs/azure-stack-docs](https://github.com/schmittnieto/azure-stack-docs)
@@ -69,7 +69,5 @@
 - [schmittnieto starred AzureLocal/azurelocal-loadtools](https://github.com/AzureLocal/azurelocal-loadtools)
 - [schmittnieto starred AzureLocal/azurelocal-sofs-fslogix](https://github.com/AzureLocal/azurelocal-sofs-fslogix)
 - [schmittnieto starred AzureLocal/azurelocal-vm-conversion-toolkit](https://github.com/AzureLocal/azurelocal-vm-conversion-toolkit)
-- [schmittnieto starred AzureLocal/azurelocal-avd](https://github.com/AzureLocal/azurelocal-avd)
-- [schmittnieto closed an issue in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/issues/204)
 <!-- LATESTACTIVITYGITHUB:END -->
 
