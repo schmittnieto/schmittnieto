@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/b1712ee242...5c21ff076e)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/dd0ebe0472...289dc34d67)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/d8105d5c2c...2217914172)
 - [schmittnieto opened a pull request in azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs/pull/4205)
@@ -68,6 +69,5 @@
 - [schmittnieto starred MicrosoftDocs/azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs)
 - [schmittnieto starred AzureLocal/azurelocal-loadtools](https://github.com/AzureLocal/azurelocal-loadtools)
 - [schmittnieto starred AzureLocal/azurelocal-sofs-fslogix](https://github.com/AzureLocal/azurelocal-sofs-fslogix)
-- [schmittnieto starred AzureLocal/azurelocal-vm-conversion-toolkit](https://github.com/AzureLocal/azurelocal-vm-conversion-toolkit)
 <!-- LATESTACTIVITYGITHUB:END -->
 
