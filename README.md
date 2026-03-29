@@ -52,8 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/b1712ee242...5c21ff076e)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/dd0ebe0472...289dc34d67)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/7b43c2bf22...c2490a4542)
+- [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/4457a4114d...dd6a478152)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/d8105d5c2c...2217914172)
 - [schmittnieto opened a pull request in azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs/pull/4205)
 - [schmittnieto pushed azure-stack-docs](https://github.com/schmittnieto/azure-stack-docs/compare/27b579e376...d7a64dca7a)
@@ -64,10 +64,5 @@
 - [schmittnieto starred thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 - [schmittnieto starred affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/3ebde338bb...46ad3943c6)
-- [schmittnieto starred ruvnet/ruflo](https://github.com/ruvnet/ruflo)
-- [schmittnieto starred microsoft/RustTraining](https://github.com/microsoft/RustTraining)
-- [schmittnieto starred MicrosoftDocs/azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs)
-- [schmittnieto starred AzureLocal/azurelocal-loadtools](https://github.com/AzureLocal/azurelocal-loadtools)
-- [schmittnieto starred AzureLocal/azurelocal-sofs-fslogix](https://github.com/AzureLocal/azurelocal-sofs-fslogix)
 <!-- LATESTACTIVITYGITHUB:END -->
 
