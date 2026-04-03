@@ -52,8 +52,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/c2490a4542...b6c2980cdd)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/2217914172...5ce8247e4d)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/302dbf48b5...720bc89af1)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/5ce8247e4d...fb21fac918)
 - [schmittnieto starred Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
 - [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/4457a4114d...dd6a478152)
 - [schmittnieto opened a pull request in azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs/pull/4205)
@@ -61,7 +61,5 @@
 - [schmittnieto forked schmittnieto/azure-stack-docs from MicrosoftDocs/azure-stack-docs](https://github.com/schmittnieto/azure-stack-docs)
 - [schmittnieto starred swigerb/McDonalds_AI_DriveThru](https://github.com/swigerb/McDonalds_AI_DriveThru)
 - [schmittnieto starred askaresh/avd_terraform](https://github.com/askaresh/avd_terraform)
-- [schmittnieto starred jayminwest/mulch](https://github.com/jayminwest/mulch)
-- [schmittnieto starred thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
 <!-- LATESTACTIVITYGITHUB:END -->
 
