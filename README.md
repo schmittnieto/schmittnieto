@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred michaelmsonne/HVTools](https://github.com/michaelmsonne/HVTools)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/302dbf48b5...720bc89af1)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/5ce8247e4d...fb21fac918)
 - [schmittnieto starred Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
@@ -60,6 +61,5 @@
 - [schmittnieto pushed azure-stack-docs](https://github.com/schmittnieto/azure-stack-docs/compare/27b579e376...d7a64dca7a)
 - [schmittnieto forked schmittnieto/azure-stack-docs from MicrosoftDocs/azure-stack-docs](https://github.com/schmittnieto/azure-stack-docs)
 - [schmittnieto starred swigerb/McDonalds_AI_DriveThru](https://github.com/swigerb/McDonalds_AI_DriveThru)
-- [schmittnieto starred askaresh/avd_terraform](https://github.com/askaresh/avd_terraform)
 <!-- LATESTACTIVITYGITHUB:END -->
 
