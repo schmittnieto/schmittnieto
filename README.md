@@ -53,14 +53,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
+- [schmittnieto starred sommercloud/Infrastructure-Toolkit](https://github.com/sommercloud/Infrastructure-Toolkit)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/51934aaa3c...e7abd81394)
+- [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/20a5f25ae5...59a8bc6b4c)
 - [schmittnieto starred michaelmsonne/HVTools](https://github.com/michaelmsonne/HVTools)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/302dbf48b5...720bc89af1)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/5ce8247e4d...fb21fac918)
 - [schmittnieto starred Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
 - [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/4457a4114d...dd6a478152)
-- [schmittnieto opened a pull request in azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs/pull/4205)
-- [schmittnieto pushed azure-stack-docs](https://github.com/schmittnieto/azure-stack-docs/compare/27b579e376...d7a64dca7a)
-- [schmittnieto forked schmittnieto/azure-stack-docs from MicrosoftDocs/azure-stack-docs](https://github.com/schmittnieto/azure-stack-docs)
-- [schmittnieto starred swigerb/McDonalds_AI_DriveThru](https://github.com/swigerb/McDonalds_AI_DriveThru)
 <!-- LATESTACTIVITYGITHUB:END -->
 
