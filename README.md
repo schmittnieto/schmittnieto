@@ -32,6 +32,7 @@
 
 | Badge | Certification |
 |---|---|
+| <img src="/assets/img/NVP.webp" height="120" width="120"/> | [Nerdio Valued Professional](https://credsverse.com/credentials/d09e0a2d-f249-4690-a9fa-4ede62537421) |
 | <img src="/assets/img/nerdio-nmeps-200.png" height="120" width="120"/> | [Nerdio Enterprise Partner Sales Foundations (NMEPS-200)](https://schmitt-nieto.com/assets/img/cert/NMEPS-200.pdf) |
 | <img src="/assets/img/nerdio-nmeps-100.png" height="120" width="120"/> | [Nerdio Enterprise Partner Sales Fundamentals (NMEPS-100)](https://schmitt-nieto.com/assets/img/cert/NMEPS-100.pdf) |
 | <img src="/assets/img/nerdio-nme-201.png" height="120" width="120"/> | [Nerdio Manager for Enterprise Foundations (NME-201)](https://schmitt-nieto.com/assets/img/cert/NME-201.pdf) |
