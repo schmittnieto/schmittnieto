@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred Azure/AzureLocal-LENS-Workbook](https://github.com/Azure/AzureLocal-LENS-Workbook)
 - [schmittnieto starred onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 - [schmittnieto starred sommercloud/Infrastructure-Toolkit](https://github.com/sommercloud/Infrastructure-Toolkit)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/51934aaa3c...e7abd81394)
