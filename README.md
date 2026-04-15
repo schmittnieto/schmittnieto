@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto contributed to MicrosoftDocs/azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs/pull/4205)
 - [schmittnieto starred Azure/AzureLocal-LENS-Workbook](https://github.com/Azure/AzureLocal-LENS-Workbook)
 - [schmittnieto starred onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 - [schmittnieto starred sommercloud/Infrastructure-Toolkit](https://github.com/sommercloud/Infrastructure-Toolkit)
