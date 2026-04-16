@@ -53,11 +53,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred martinopedal/alz-graph-queries](https://github.com/martinopedal/alz-graph-queries)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/e7abd81394...28bd9120d6)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/46ad3943c6...f095e11b0b)
 - [schmittnieto contributed to MicrosoftDocs/azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs/pull/4205)
 - [schmittnieto starred Azure/AzureLocal-LENS-Workbook](https://github.com/Azure/AzureLocal-LENS-Workbook)
 - [schmittnieto starred onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 - [schmittnieto starred sommercloud/Infrastructure-Toolkit](https://github.com/sommercloud/Infrastructure-Toolkit)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/51934aaa3c...e7abd81394)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/20a5f25ae5...59a8bc6b4c)
 - [schmittnieto starred michaelmsonne/HVTools](https://github.com/michaelmsonne/HVTools)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/5ce8247e4d...fb21fac918)
