@@ -53,7 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b118de028a...2bae326f7a)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/3eef27be7e...830ad5266e)
 - [schmittnieto starred martinopedal/alz-graph-queries](https://github.com/martinopedal/alz-graph-queries)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/46ad3943c6...f095e11b0b)
 - [schmittnieto contributed to MicrosoftDocs/azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs/pull/4205)
@@ -64,6 +64,5 @@
 - [schmittnieto starred michaelmsonne/HVTools](https://github.com/michaelmsonne/HVTools)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/5ce8247e4d...fb21fac918)
 - [schmittnieto starred Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst)
-- [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/4457a4114d...dd6a478152)
 <!-- LATESTACTIVITYGITHUB:END -->
 
