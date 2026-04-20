@@ -53,8 +53,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/3d178bd910...aaad1a950a)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/fb21fac918...6129433252)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/fbbb43d753...ce9ca0019a)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/0006787b3f...a41b5bb3b7)
 - [schmittnieto starred martinopedal/alz-graph-queries](https://github.com/martinopedal/alz-graph-queries)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/46ad3943c6...f095e11b0b)
 - [schmittnieto contributed to MicrosoftDocs/azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs/pull/4205)
@@ -62,6 +62,5 @@
 - [schmittnieto starred onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 - [schmittnieto starred sommercloud/Infrastructure-Toolkit](https://github.com/sommercloud/Infrastructure-Toolkit)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/20a5f25ae5...59a8bc6b4c)
-- [schmittnieto starred michaelmsonne/HVTools](https://github.com/michaelmsonne/HVTools)
 <!-- LATESTACTIVITYGITHUB:END -->
 
