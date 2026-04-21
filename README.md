@@ -53,6 +53,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)
+- [schmittnieto starred CollaboraOnline/online](https://github.com/CollaboraOnline/online)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/fbbb43d753...ce9ca0019a)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/0006787b3f...a41b5bb3b7)
 - [schmittnieto starred martinopedal/alz-graph-queries](https://github.com/martinopedal/alz-graph-queries)
@@ -61,6 +63,5 @@
 - [schmittnieto starred Azure/AzureLocal-LENS-Workbook](https://github.com/Azure/AzureLocal-LENS-Workbook)
 - [schmittnieto starred onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
 - [schmittnieto starred sommercloud/Infrastructure-Toolkit](https://github.com/sommercloud/Infrastructure-Toolkit)
-- [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/20a5f25ae5...59a8bc6b4c)
 <!-- LATESTACTIVITYGITHUB:END -->
 
