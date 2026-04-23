@@ -53,15 +53,12 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/fa6ae14c62...a4154dd51e)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/adf24183fb...717e06a411)
 - [schmittnieto starred jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)
 - [schmittnieto starred CollaboraOnline/online](https://github.com/CollaboraOnline/online)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/fbbb43d753...ce9ca0019a)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/0006787b3f...a41b5bb3b7)
 - [schmittnieto starred martinopedal/alz-graph-queries](https://github.com/martinopedal/alz-graph-queries)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/46ad3943c6...f095e11b0b)
 - [schmittnieto contributed to MicrosoftDocs/azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs/pull/4205)
-- [schmittnieto starred Azure/AzureLocal-LENS-Workbook](https://github.com/Azure/AzureLocal-LENS-Workbook)
-- [schmittnieto starred onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx)
-- [schmittnieto starred sommercloud/Infrastructure-Toolkit](https://github.com/sommercloud/Infrastructure-Toolkit)
 <!-- LATESTACTIVITYGITHUB:END -->
 
