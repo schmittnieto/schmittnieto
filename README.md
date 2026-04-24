@@ -53,12 +53,11 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/fa6ae14c62...a4154dd51e)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/57e38a5793...20db43ff6a)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/a41b5bb3b7...2231d17f2f)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/adf24183fb...717e06a411)
 - [schmittnieto starred jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)
 - [schmittnieto starred CollaboraOnline/online](https://github.com/CollaboraOnline/online)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/0006787b3f...a41b5bb3b7)
 - [schmittnieto starred martinopedal/alz-graph-queries](https://github.com/martinopedal/alz-graph-queries)
-- [schmittnieto contributed to MicrosoftDocs/azure-stack-docs](https://github.com/MicrosoftDocs/azure-stack-docs/pull/4205)
 <!-- LATESTACTIVITYGITHUB:END -->
 
