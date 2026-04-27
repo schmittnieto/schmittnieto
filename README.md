@@ -53,12 +53,12 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred WayneBellows/AVD-Assess](https://github.com/WayneBellows/AVD-Assess)
 - [schmittnieto starred mfgjwaterman/Packer](https://github.com/mfgjwaterman/Packer)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/57e38a5793...20db43ff6a)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/a41b5bb3b7...2231d17f2f)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/adf24183fb...717e06a411)
 - [schmittnieto starred jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)
 - [schmittnieto starred CollaboraOnline/online](https://github.com/CollaboraOnline/online)
-- [schmittnieto starred martinopedal/alz-graph-queries](https://github.com/martinopedal/alz-graph-queries)
 <!-- LATESTACTIVITYGITHUB:END -->
 
