@@ -53,13 +53,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/6e9db008b9...32109bec6b)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/2231d17f2f...8aaaf93ff6)
 - [schmittnieto forked schmittnieto/alz-repo-best-practices from erjosito/alz-repo-best-practices](https://github.com/schmittnieto/alz-repo-best-practices)
 - [schmittnieto starred erjosito/alz-repo-best-practices](https://github.com/erjosito/alz-repo-best-practices)
 - [schmittnieto starred Azure-Samples/Azure-Stack-Hub-Foundation-Core](https://github.com/Azure-Samples/Azure-Stack-Hub-Foundation-Core)
 - [schmittnieto starred WayneBellows/AVD-Assess](https://github.com/WayneBellows/AVD-Assess)
 - [schmittnieto starred mfgjwaterman/Packer](https://github.com/mfgjwaterman/Packer)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/57e38a5793...20db43ff6a)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/a41b5bb3b7...2231d17f2f)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/adf24183fb...717e06a411)
 - [schmittnieto starred jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)
 - [schmittnieto starred CollaboraOnline/online](https://github.com/CollaboraOnline/online)
