@@ -53,6 +53,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto forked schmittnieto/alz-repo-best-practices from erjosito/alz-repo-best-practices](https://github.com/schmittnieto/alz-repo-best-practices)
+- [schmittnieto starred erjosito/alz-repo-best-practices](https://github.com/erjosito/alz-repo-best-practices)
 - [schmittnieto starred Azure-Samples/Azure-Stack-Hub-Foundation-Core](https://github.com/Azure-Samples/Azure-Stack-Hub-Foundation-Core)
 - [schmittnieto starred WayneBellows/AVD-Assess](https://github.com/WayneBellows/AVD-Assess)
 - [schmittnieto starred mfgjwaterman/Packer](https://github.com/mfgjwaterman/Packer)
