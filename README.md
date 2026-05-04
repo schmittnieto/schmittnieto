@@ -53,8 +53,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/32109bec6b...718924a0a6)
 - [schmittnieto starred Azure/AzPolicyLens](https://github.com/Azure/AzPolicyLens)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/6e9db008b9...32109bec6b)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/2231d17f2f...8aaaf93ff6)
 - [schmittnieto forked schmittnieto/alz-repo-best-practices from erjosito/alz-repo-best-practices](https://github.com/schmittnieto/alz-repo-best-practices)
 - [schmittnieto starred erjosito/alz-repo-best-practices](https://github.com/erjosito/alz-repo-best-practices)
