@@ -53,10 +53,10 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/718924a0a6...06a6025ffb)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/06a6025ffb...e91158bd7a)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/8aaaf93ff6...ffae7db8a5)
 - [schmittnieto starred D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
 - [schmittnieto starred Azure/AzPolicyLens](https://github.com/Azure/AzPolicyLens)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/2231d17f2f...8aaaf93ff6)
 - [schmittnieto forked schmittnieto/alz-repo-best-practices from erjosito/alz-repo-best-practices](https://github.com/schmittnieto/alz-repo-best-practices)
 - [schmittnieto starred erjosito/alz-repo-best-practices](https://github.com/erjosito/alz-repo-best-practices)
 - [schmittnieto starred Azure-Samples/Azure-Stack-Hub-Foundation-Core](https://github.com/Azure-Samples/Azure-Stack-Hub-Foundation-Core)
