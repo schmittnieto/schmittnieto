@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred schnerring/packer-windows-avd](https://github.com/schnerring/packer-windows-avd)
 - [schmittnieto starred Azure/terraform-provider-alz](https://github.com/Azure/terraform-provider-alz)
 - [schmittnieto starred Azure/alz-terraform-accelerator](https://github.com/Azure/alz-terraform-accelerator)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/502383c19c...f29913a8e6)
