@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 - [schmittnieto starred jasontayler/AzureLocal-ClusterTool-Web-Releases](https://github.com/jasontayler/AzureLocal-ClusterTool-Web-Releases)
 - [schmittnieto starred schnerring/packer-windows-avd](https://github.com/schnerring/packer-windows-avd)
 - [schmittnieto starred Azure/terraform-provider-alz](https://github.com/Azure/terraform-provider-alz)
