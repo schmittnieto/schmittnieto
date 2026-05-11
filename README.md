@@ -53,6 +53,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred askaresh/avd-terraform-customimage](https://github.com/askaresh/avd-terraform-customimage)
+- [schmittnieto starred Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
 - [schmittnieto starred rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 - [schmittnieto starred jasontayler/AzureLocal-ClusterTool-Web-Releases](https://github.com/jasontayler/AzureLocal-ClusterTool-Web-Releases)
 - [schmittnieto starred schnerring/packer-windows-avd](https://github.com/schnerring/packer-windows-avd)
@@ -69,7 +71,5 @@
 - [schmittnieto starred WayneBellows/AVD-Assess](https://github.com/WayneBellows/AVD-Assess)
 - [schmittnieto starred mfgjwaterman/Packer](https://github.com/mfgjwaterman/Packer)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/adf24183fb...717e06a411)
-- [schmittnieto starred jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet)
-- [schmittnieto starred CollaboraOnline/online](https://github.com/CollaboraOnline/online)
 <!-- LATESTACTIVITYGITHUB:END -->
 
