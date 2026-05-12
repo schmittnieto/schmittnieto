@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred EUCPilots/evergreen-module](https://github.com/EUCPilots/evergreen-module)
 - [schmittnieto starred askaresh/avd-terraform-customimage](https://github.com/askaresh/avd-terraform-customimage)
 - [schmittnieto starred Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
 - [schmittnieto starred rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
