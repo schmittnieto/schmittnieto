@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)
 - [schmittnieto starred EUCPilots/evergreen-module](https://github.com/EUCPilots/evergreen-module)
 - [schmittnieto starred askaresh/avd-terraform-customimage](https://github.com/askaresh/avd-terraform-customimage)
 - [schmittnieto starred Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
