@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred tugich/DeploymentEditor](https://github.com/tugich/DeploymentEditor)
 - [schmittnieto starred The-Virtual-Desktop-Team/Windows-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Windows-Desktop-Optimization-Tool)
 - [schmittnieto starred Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)
 - [schmittnieto starred EUCPilots/evergreen-module](https://github.com/EUCPilots/evergreen-module)
