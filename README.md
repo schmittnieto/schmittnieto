@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred EvotecIT/ChartForgeX](https://github.com/EvotecIT/ChartForgeX)
 - [schmittnieto starred tugich/DeploymentEditor](https://github.com/tugich/DeploymentEditor)
 - [schmittnieto starred The-Virtual-Desktop-Team/Windows-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Windows-Desktop-Optimization-Tool)
 - [schmittnieto starred Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)
@@ -74,6 +75,5 @@
 - [schmittnieto starred Azure-Samples/Azure-Stack-Hub-Foundation-Core](https://github.com/Azure-Samples/Azure-Stack-Hub-Foundation-Core)
 - [schmittnieto starred WayneBellows/AVD-Assess](https://github.com/WayneBellows/AVD-Assess)
 - [schmittnieto starred mfgjwaterman/Packer](https://github.com/mfgjwaterman/Packer)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/adf24183fb...717e06a411)
 <!-- LATESTACTIVITYGITHUB:END -->
 
