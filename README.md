@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe)
 - [schmittnieto starred EvotecIT/ChartForgeX](https://github.com/EvotecIT/ChartForgeX)
 - [schmittnieto starred tugich/DeploymentEditor](https://github.com/tugich/DeploymentEditor)
 - [schmittnieto starred The-Virtual-Desktop-Team/Windows-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Windows-Desktop-Optimization-Tool)
