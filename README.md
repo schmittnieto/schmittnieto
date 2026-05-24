@@ -53,9 +53,10 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/93648b89e1...10cf0056e2)
+- [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/25c383e00d...c905be3ccb)
 - [schmittnieto commented on an issue in awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/issues/2#issuecomment-4526619921)
 - [schmittnieto closed an issue in awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/issues/2)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b8a46c48b1...69b4257c9f)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/5ffaaf3bea...4bb7d2ad0d)
 - [schmittnieto starred asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe)
 - [schmittnieto starred EvotecIT/ChartForgeX](https://github.com/EvotecIT/ChartForgeX)
@@ -71,7 +72,5 @@
 - [schmittnieto starred Azure/terraform-provider-alz](https://github.com/Azure/terraform-provider-alz)
 - [schmittnieto starred Azure/alz-terraform-accelerator](https://github.com/Azure/alz-terraform-accelerator)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/502383c19c...f29913a8e6)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/8aaaf93ff6...ffae7db8a5)
-- [schmittnieto starred D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
 <!-- LATESTACTIVITYGITHUB:END -->
 
