@@ -16,6 +16,7 @@
 
 # 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Awesome Azure Virtual Desktop](https://schmitt-nieto.com/blog/awesome-azure-virtual-desktop/) - 22 May 2026
 - [Azure Local: Terraform Deployment](https://schmitt-nieto.com/blog/azure-local-terraform/) - 16 Apr 2026
 - [Reflecting on 2025 and Goals for 2026](https://schmitt-nieto.com/blog/year-recap-2025/) - 30 Dec 2025
 - [Azure Local: How to Deploy LLMs on AKS](https://schmitt-nieto.com/blog/azure-local-llm/) - 29 Nov 2025
@@ -24,8 +25,7 @@
 - [Nerdio Scripted Actions: Windows Scripts](https://schmitt-nieto.com/blog/nerdio-scripted-actions-windows-scripts/) - 16 May 2025
 - [Azure Local: Backup and Disaster Recovery](https://schmitt-nieto.com/blog/azure-local-backup-and-disaster-recovery/) - 28 Mar 2025
 - [Azure Local: Redundancy](https://schmitt-nieto.com/blog/azure-local-redundancy/) - 28 Feb 2025
-- [Azure Local meets Nerdio](https://schmitt-nieto.com/blog/azure-local-nerdio/) - 07 Feb 2025
-- [Azure Local: Lifecycle Management](https://schmitt-nieto.com/blog/azure-local-lifecycle/) - 24 Jan 2025<!-- BLOG-POST-LIST:END -->
+- [Azure Local meets Nerdio](https://schmitt-nieto.com/blog/azure-local-nerdio/) - 07 Feb 2025<!-- BLOG-POST-LIST:END -->
 <!-- Credits to Blog Updates on readme to: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 # 🎓 Certifications
