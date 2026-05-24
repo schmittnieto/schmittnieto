@@ -53,6 +53,10 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto commented on an issue in awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/issues/2#issuecomment-4526619921)
+- [schmittnieto closed an issue in awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/issues/2)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b8a46c48b1...69b4257c9f)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/5ffaaf3bea...4bb7d2ad0d)
 - [schmittnieto starred asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe)
 - [schmittnieto starred EvotecIT/ChartForgeX](https://github.com/EvotecIT/ChartForgeX)
 - [schmittnieto starred tugich/DeploymentEditor](https://github.com/tugich/DeploymentEditor)
@@ -63,17 +67,11 @@
 - [schmittnieto starred rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 - [schmittnieto starred jasontayler/AzureLocal-ClusterTool-Web-Releases](https://github.com/jasontayler/AzureLocal-ClusterTool-Web-Releases)
 - [schmittnieto starred schnerring/packer-windows-avd](https://github.com/schnerring/packer-windows-avd)
+- [schmittnieto made this repository public](https://github.com/schmittnieto/awesome-azure-virtual-desktop)
 - [schmittnieto starred Azure/terraform-provider-alz](https://github.com/Azure/terraform-provider-alz)
 - [schmittnieto starred Azure/alz-terraform-accelerator](https://github.com/Azure/alz-terraform-accelerator)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/502383c19c...f29913a8e6)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/06a6025ffb...e91158bd7a)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/8aaaf93ff6...ffae7db8a5)
 - [schmittnieto starred D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
-- [schmittnieto starred Azure/AzPolicyLens](https://github.com/Azure/AzPolicyLens)
-- [schmittnieto forked schmittnieto/alz-repo-best-practices from erjosito/alz-repo-best-practices](https://github.com/schmittnieto/alz-repo-best-practices)
-- [schmittnieto starred erjosito/alz-repo-best-practices](https://github.com/erjosito/alz-repo-best-practices)
-- [schmittnieto starred Azure-Samples/Azure-Stack-Hub-Foundation-Core](https://github.com/Azure-Samples/Azure-Stack-Hub-Foundation-Core)
-- [schmittnieto starred WayneBellows/AVD-Assess](https://github.com/WayneBellows/AVD-Assess)
-- [schmittnieto starred mfgjwaterman/Packer](https://github.com/mfgjwaterman/Packer)
 <!-- LATESTACTIVITYGITHUB:END -->
 
