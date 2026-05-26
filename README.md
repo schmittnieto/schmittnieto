@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred schmittnieto/awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop)
 - [schmittnieto starred DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
 - [schmittnieto starred techspence/ADeleginator](https://github.com/techspence/ADeleginator)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/93648b89e1...10cf0056e2)
@@ -71,6 +72,5 @@
 - [schmittnieto starred jasontayler/AzureLocal-ClusterTool-Web-Releases](https://github.com/jasontayler/AzureLocal-ClusterTool-Web-Releases)
 - [schmittnieto starred schnerring/packer-windows-avd](https://github.com/schnerring/packer-windows-avd)
 - [schmittnieto made this repository public](https://github.com/schmittnieto/awesome-azure-virtual-desktop)
-- [schmittnieto starred Azure/terraform-provider-alz](https://github.com/Azure/terraform-provider-alz)
 <!-- LATESTACTIVITYGITHUB:END -->
 
