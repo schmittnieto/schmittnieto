@@ -53,6 +53,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto forked schmittnieto/azure-skills from microsoft/azure-skills](https://github.com/schmittnieto/azure-skills)
+- [schmittnieto starred microsoft/azure-skills](https://github.com/microsoft/azure-skills)
+- [schmittnieto starred microsoft/Webwright](https://github.com/microsoft/Webwright)
 - [schmittnieto starred schmittnieto/awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop)
 - [schmittnieto starred DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
 - [schmittnieto starred techspence/ADeleginator](https://github.com/techspence/ADeleginator)
@@ -68,9 +71,6 @@
 - [schmittnieto starred EUCPilots/evergreen-module](https://github.com/EUCPilots/evergreen-module)
 - [schmittnieto starred askaresh/avd-terraform-customimage](https://github.com/askaresh/avd-terraform-customimage)
 - [schmittnieto starred Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
-- [schmittnieto starred rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
-- [schmittnieto starred jasontayler/AzureLocal-ClusterTool-Web-Releases](https://github.com/jasontayler/AzureLocal-ClusterTool-Web-Releases)
-- [schmittnieto starred schnerring/packer-windows-avd](https://github.com/schnerring/packer-windows-avd)
 - [schmittnieto made this repository public](https://github.com/schmittnieto/awesome-azure-virtual-desktop)
 <!-- LATESTACTIVITYGITHUB:END -->
 
