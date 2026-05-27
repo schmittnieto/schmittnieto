@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/38add8e530...92300c28cf)
 - [schmittnieto forked schmittnieto/azure-skills from microsoft/azure-skills](https://github.com/schmittnieto/azure-skills)
 - [schmittnieto starred microsoft/azure-skills](https://github.com/microsoft/azure-skills)
@@ -70,7 +71,6 @@
 - [schmittnieto starred tugich/DeploymentEditor](https://github.com/tugich/DeploymentEditor)
 - [schmittnieto starred The-Virtual-Desktop-Team/Windows-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Windows-Desktop-Optimization-Tool)
 - [schmittnieto starred EUCPilots/evergreen-module](https://github.com/EUCPilots/evergreen-module)
-- [schmittnieto starred askaresh/avd-terraform-customimage](https://github.com/askaresh/avd-terraform-customimage)
 - [schmittnieto made this repository public](https://github.com/schmittnieto/awesome-azure-virtual-desktop)
 <!-- LATESTACTIVITYGITHUB:END -->
 
