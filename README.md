@@ -53,6 +53,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto forked schmittnieto/IntuneManagement from Micke-K/IntuneManagement](https://github.com/schmittnieto/IntuneManagement)
+- [schmittnieto forked schmittnieto/M365Documentation from ThomasKur/M365Documentation](https://github.com/schmittnieto/M365Documentation)
 - [schmittnieto starred rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/38add8e530...92300c28cf)
 - [schmittnieto forked schmittnieto/azure-skills from microsoft/azure-skills](https://github.com/schmittnieto/azure-skills)
@@ -69,8 +71,6 @@
 - [schmittnieto starred asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe)
 - [schmittnieto starred EvotecIT/ChartForgeX](https://github.com/EvotecIT/ChartForgeX)
 - [schmittnieto starred tugich/DeploymentEditor](https://github.com/tugich/DeploymentEditor)
-- [schmittnieto starred The-Virtual-Desktop-Team/Windows-Desktop-Optimization-Tool](https://github.com/The-Virtual-Desktop-Team/Windows-Desktop-Optimization-Tool)
-- [schmittnieto starred EUCPilots/evergreen-module](https://github.com/EUCPilots/evergreen-module)
 - [schmittnieto made this repository public](https://github.com/schmittnieto/awesome-azure-virtual-desktop)
 <!-- LATESTACTIVITYGITHUB:END -->
 
