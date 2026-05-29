@@ -53,6 +53,10 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/2c4ffa6f33...9bbfdb5c64)
+- [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/c905be3ccb...64f8ef781e)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/4bb7d2ad0d...8b00aae14c)
+- [schmittnieto starred j0eyv/Envoy](https://github.com/j0eyv/Envoy)
 - [schmittnieto forked schmittnieto/IntuneManagement from Micke-K/IntuneManagement](https://github.com/schmittnieto/IntuneManagement)
 - [schmittnieto forked schmittnieto/M365Documentation from ThomasKur/M365Documentation](https://github.com/schmittnieto/M365Documentation)
 - [schmittnieto starred rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
@@ -63,14 +67,8 @@
 - [schmittnieto starred schmittnieto/awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop)
 - [schmittnieto starred DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
 - [schmittnieto starred techspence/ADeleginator](https://github.com/techspence/ADeleginator)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/93648b89e1...10cf0056e2)
-- [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/25c383e00d...c905be3ccb)
 - [schmittnieto commented on an issue in awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/issues/2#issuecomment-4526619921)
 - [schmittnieto closed an issue in awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/issues/2)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/5ffaaf3bea...4bb7d2ad0d)
-- [schmittnieto starred asamassekou10/ship-safe](https://github.com/asamassekou10/ship-safe)
-- [schmittnieto starred EvotecIT/ChartForgeX](https://github.com/EvotecIT/ChartForgeX)
-- [schmittnieto starred tugich/DeploymentEditor](https://github.com/tugich/DeploymentEditor)
 - [schmittnieto made this repository public](https://github.com/schmittnieto/awesome-azure-virtual-desktop)
 <!-- LATESTACTIVITYGITHUB:END -->
 
