@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred call4cloud-code/Intunewin-Downloader-Public](https://github.com/call4cloud-code/Intunewin-Downloader-Public)
 - [schmittnieto starred crynta/terax-ai](https://github.com/crynta/terax-ai)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/2c4ffa6f33...9bbfdb5c64)
 - [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/c905be3ccb...64f8ef781e)
