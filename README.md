@@ -52,6 +52,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred microsoft/skills](https://github.com/microsoft/skills)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/a64dad453a...31284f0c93)
 - [schmittnieto starred Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/4691a1d633...de71f78ccd)
