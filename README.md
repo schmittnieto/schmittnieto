@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/4691a1d633...de71f78ccd)
 - [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/64f8ef781e...4b339cfca0)
 - [schmittnieto starred anihitk07/airunway-semantic-router-lab](https://github.com/anihitk07/airunway-semantic-router-lab)
@@ -73,6 +74,5 @@
 - [schmittnieto starred techspence/ADeleginator](https://github.com/techspence/ADeleginator)
 - [schmittnieto commented on an issue in awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/issues/2#issuecomment-4526619921)
 - [schmittnieto closed an issue in awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/issues/2)
-- [schmittnieto made this repository public](https://github.com/schmittnieto/awesome-azure-virtual-desktop)
 <!-- LATESTACTIVITYGITHUB:END -->
 
