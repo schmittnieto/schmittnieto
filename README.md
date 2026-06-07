@@ -11,6 +11,7 @@
 # 📊 GitHub Stats
 ![schmittnieto's GitHub Stats](https://readme-stats-github.pages.dev/api?username=schmittnieto&theme=dark)<br/>
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=schmittnieto&theme=dark)<br/>
+![Schmittnieto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=schmittnieto&theme=dark&hide_border=false)<br/>
 ![Cristian's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SchmittNieto&theme=github-compact&radius=8)<br/>
 
 # 📝 Latest Blog Posts
