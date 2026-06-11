@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred BuilderIO/skills](https://github.com/BuilderIO/skills)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/3d79409f4c...5c780bc2fb)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/4ef7b56dd6...2e1c609011)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/a6be6ecaf4...da0cb18928)
