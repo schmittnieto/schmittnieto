@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred microsoft/clarity](https://github.com/microsoft/clarity)
 - [schmittnieto starred DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 - [schmittnieto starred BuilderIO/skills](https://github.com/BuilderIO/skills)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/3d79409f4c...5c780bc2fb)
@@ -75,6 +76,5 @@
 - [schmittnieto starred microsoft/azure-skills](https://github.com/microsoft/azure-skills)
 - [schmittnieto starred microsoft/Webwright](https://github.com/microsoft/Webwright)
 - [schmittnieto starred schmittnieto/awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop)
-- [schmittnieto starred DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
 <!-- LATESTACTIVITYGITHUB:END -->
 
