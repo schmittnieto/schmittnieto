@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred DarrylvanderPeijl/Align-VMsWithStorage](https://github.com/DarrylvanderPeijl/Align-VMsWithStorage)
 - [schmittnieto starred microsoft/clarity](https://github.com/microsoft/clarity)
 - [schmittnieto starred DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 - [schmittnieto starred BuilderIO/skills](https://github.com/BuilderIO/skills)
@@ -75,6 +76,5 @@
 - [schmittnieto forked schmittnieto/azure-skills from microsoft/azure-skills](https://github.com/schmittnieto/azure-skills)
 - [schmittnieto starred microsoft/azure-skills](https://github.com/microsoft/azure-skills)
 - [schmittnieto starred microsoft/Webwright](https://github.com/microsoft/Webwright)
-- [schmittnieto starred schmittnieto/awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop)
 <!-- LATESTACTIVITYGITHUB:END -->
 
