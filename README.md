@@ -53,11 +53,12 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/5c780bc2fb...6e7e33da70)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/8b00aae14c...aa85b37f91)
 - [schmittnieto starred DarrylvanderPeijl/Align-VMsWithStorage](https://github.com/DarrylvanderPeijl/Align-VMsWithStorage)
 - [schmittnieto starred microsoft/clarity](https://github.com/microsoft/clarity)
 - [schmittnieto starred DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 - [schmittnieto starred BuilderIO/skills](https://github.com/BuilderIO/skills)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/3d79409f4c...5c780bc2fb)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/4ef7b56dd6...2e1c609011)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/a6be6ecaf4...da0cb18928)
 - [schmittnieto starred microsoft/skills](https://github.com/microsoft/skills)
@@ -67,14 +68,11 @@
 - [schmittnieto starred pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
 - [schmittnieto starred call4cloud-code/Intunewin-Downloader-Public](https://github.com/call4cloud-code/Intunewin-Downloader-Public)
 - [schmittnieto starred crynta/terax-ai](https://github.com/crynta/terax-ai)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/4bb7d2ad0d...8b00aae14c)
 - [schmittnieto starred j0eyv/Envoy](https://github.com/j0eyv/Envoy)
 - [schmittnieto forked schmittnieto/IntuneManagement from Micke-K/IntuneManagement](https://github.com/schmittnieto/IntuneManagement)
 - [schmittnieto forked schmittnieto/M365Documentation from ThomasKur/M365Documentation](https://github.com/schmittnieto/M365Documentation)
 - [schmittnieto starred rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/38add8e530...92300c28cf)
 - [schmittnieto forked schmittnieto/azure-skills from microsoft/azure-skills](https://github.com/schmittnieto/azure-skills)
-- [schmittnieto starred microsoft/azure-skills](https://github.com/microsoft/azure-skills)
-- [schmittnieto starred microsoft/Webwright](https://github.com/microsoft/Webwright)
 <!-- LATESTACTIVITYGITHUB:END -->
 
