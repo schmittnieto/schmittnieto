@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred microsoft/osconfig](https://github.com/microsoft/osconfig)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/5c780bc2fb...6e7e33da70)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/8b00aae14c...aa85b37f91)
 - [schmittnieto starred DarrylvanderPeijl/Align-VMsWithStorage](https://github.com/DarrylvanderPeijl/Align-VMsWithStorage)
@@ -73,6 +74,5 @@
 - [schmittnieto forked schmittnieto/M365Documentation from ThomasKur/M365Documentation](https://github.com/schmittnieto/M365Documentation)
 - [schmittnieto starred rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/38add8e530...92300c28cf)
-- [schmittnieto forked schmittnieto/azure-skills from microsoft/azure-skills](https://github.com/schmittnieto/azure-skills)
 <!-- LATESTACTIVITYGITHUB:END -->
 
