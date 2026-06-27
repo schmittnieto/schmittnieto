@@ -70,6 +70,5 @@
 - [schmittnieto starred call4cloud-code/Intunewin-Downloader-Public](https://github.com/call4cloud-code/Intunewin-Downloader-Public)
 - [schmittnieto starred crynta/terax-ai](https://github.com/crynta/terax-ai)
 - [schmittnieto starred j0eyv/Envoy](https://github.com/j0eyv/Envoy)
-- [schmittnieto forked schmittnieto/IntuneManagement from Micke-K/IntuneManagement](https://github.com/schmittnieto/IntuneManagement)
 <!-- LATESTACTIVITYGITHUB:END -->
 
