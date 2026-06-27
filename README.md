@@ -72,6 +72,5 @@
 - [schmittnieto starred j0eyv/Envoy](https://github.com/j0eyv/Envoy)
 - [schmittnieto forked schmittnieto/IntuneManagement from Micke-K/IntuneManagement](https://github.com/schmittnieto/IntuneManagement)
 - [schmittnieto forked schmittnieto/M365Documentation from ThomasKur/M365Documentation](https://github.com/schmittnieto/M365Documentation)
-- [schmittnieto starred rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
 <!-- LATESTACTIVITYGITHUB:END -->
 
