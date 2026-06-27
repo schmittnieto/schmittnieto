@@ -71,6 +71,5 @@
 - [schmittnieto starred crynta/terax-ai](https://github.com/crynta/terax-ai)
 - [schmittnieto starred j0eyv/Envoy](https://github.com/j0eyv/Envoy)
 - [schmittnieto forked schmittnieto/IntuneManagement from Micke-K/IntuneManagement](https://github.com/schmittnieto/IntuneManagement)
-- [schmittnieto forked schmittnieto/M365Documentation from ThomasKur/M365Documentation](https://github.com/schmittnieto/M365Documentation)
 <!-- LATESTACTIVITYGITHUB:END -->
 
