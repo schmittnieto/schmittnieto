@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 - [schmittnieto starred microsoft/osconfig](https://github.com/microsoft/osconfig)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/5c780bc2fb...6e7e33da70)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/8b00aae14c...aa85b37f91)
