@@ -53,8 +53,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/6a37f8866d...689668e239)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/2e1c609011...27ca98b95e)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/3536872b21...140fc858ab)
+- [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/4b339cfca0...4bc039002b)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/27ca98b95e...1ef8292d57)
 - [schmittnieto starred DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 - [schmittnieto starred microsoft/osconfig](https://github.com/microsoft/osconfig)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/8b00aae14c...aa85b37f91)
@@ -65,7 +66,6 @@
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/a6be6ecaf4...da0cb18928)
 - [schmittnieto starred microsoft/skills](https://github.com/microsoft/skills)
 - [schmittnieto starred Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-- [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/64f8ef781e...4b339cfca0)
 - [schmittnieto starred anihitk07/airunway-semantic-router-lab](https://github.com/anihitk07/airunway-semantic-router-lab)
 - [schmittnieto starred pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
 - [schmittnieto starred call4cloud-code/Intunewin-Downloader-Public](https://github.com/call4cloud-code/Intunewin-Downloader-Public)
