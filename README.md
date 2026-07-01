@@ -69,6 +69,5 @@
 - [schmittnieto starred anihitk07/airunway-semantic-router-lab](https://github.com/anihitk07/airunway-semantic-router-lab)
 - [schmittnieto starred pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
 - [schmittnieto starred call4cloud-code/Intunewin-Downloader-Public](https://github.com/call4cloud-code/Intunewin-Downloader-Public)
-- [schmittnieto starred crynta/terax-ai](https://github.com/crynta/terax-ai)
 <!-- LATESTACTIVITYGITHUB:END -->
 
