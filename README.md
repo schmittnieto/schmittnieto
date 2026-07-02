@@ -67,6 +67,5 @@
 - [schmittnieto starred microsoft/skills](https://github.com/microsoft/skills)
 - [schmittnieto starred Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 - [schmittnieto starred anihitk07/airunway-semantic-router-lab](https://github.com/anihitk07/airunway-semantic-router-lab)
-- [schmittnieto starred pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
 <!-- LATESTACTIVITYGITHUB:END -->
 
