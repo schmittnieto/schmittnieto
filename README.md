@@ -53,8 +53,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/3536872b21...140fc858ab)
-- [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/4b339cfca0...4bc039002b)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/a3731f3e84...6e7a21e191)
+- [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/e190b2a4a5...f03ab195f0)
+- [schmittnieto starred HeeLoco/tui-subnet-calculator](https://github.com/HeeLoco/tui-subnet-calculator)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/27ca98b95e...1ef8292d57)
 - [schmittnieto starred DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 - [schmittnieto starred microsoft/osconfig](https://github.com/microsoft/osconfig)
