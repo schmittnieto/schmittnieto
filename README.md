@@ -66,6 +66,5 @@
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/a6be6ecaf4...da0cb18928)
 - [schmittnieto starred microsoft/skills](https://github.com/microsoft/skills)
 - [schmittnieto starred Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-- [schmittnieto starred anihitk07/airunway-semantic-router-lab](https://github.com/anihitk07/airunway-semantic-router-lab)
 <!-- LATESTACTIVITYGITHUB:END -->
 
