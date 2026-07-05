@@ -66,6 +66,5 @@
 - [schmittnieto starred BuilderIO/skills](https://github.com/BuilderIO/skills)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/a6be6ecaf4...da0cb18928)
 - [schmittnieto starred microsoft/skills](https://github.com/microsoft/skills)
-- [schmittnieto starred Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 <!-- LATESTACTIVITYGITHUB:END -->
 
