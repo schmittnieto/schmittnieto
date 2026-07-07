@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred roboflow/supervision](https://github.com/roboflow/supervision)
 - [schmittnieto starred CYEBRSYSTEM-AliAlame/IntuneToolKit](https://github.com/CYEBRSYSTEM-AliAlame/IntuneToolKit)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/a3731f3e84...6e7a21e191)
 - [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/e190b2a4a5...f03ab195f0)
