@@ -66,6 +66,5 @@
 - [schmittnieto starred microsoft/clarity](https://github.com/microsoft/clarity)
 - [schmittnieto starred DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 - [schmittnieto starred BuilderIO/skills](https://github.com/BuilderIO/skills)
-- [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/a6be6ecaf4...da0cb18928)
 <!-- LATESTACTIVITYGITHUB:END -->
 
