@@ -53,15 +53,15 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/81d8f1af1e...29cae29463)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/7e30e6bb9d...b0f4439159)
 - [schmittnieto starred roboflow/supervision](https://github.com/roboflow/supervision)
 - [schmittnieto starred CYEBRSYSTEM-AliAlame/IntuneToolKit](https://github.com/CYEBRSYSTEM-AliAlame/IntuneToolKit)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/a3731f3e84...6e7a21e191)
 - [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/e190b2a4a5...f03ab195f0)
 - [schmittnieto starred HeeLoco/tui-subnet-calculator](https://github.com/HeeLoco/tui-subnet-calculator)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/27ca98b95e...1ef8292d57)
 - [schmittnieto starred DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 - [schmittnieto starred microsoft/osconfig](https://github.com/microsoft/osconfig)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/8b00aae14c...aa85b37f91)
 - [schmittnieto starred DarrylvanderPeijl/Align-VMsWithStorage](https://github.com/DarrylvanderPeijl/Align-VMsWithStorage)
 - [schmittnieto starred microsoft/clarity](https://github.com/microsoft/clarity)
 - [schmittnieto starred DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
