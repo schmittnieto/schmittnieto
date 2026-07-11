@@ -65,6 +65,5 @@
 - [schmittnieto starred DarrylvanderPeijl/Align-VMsWithStorage](https://github.com/DarrylvanderPeijl/Align-VMsWithStorage)
 - [schmittnieto starred microsoft/clarity](https://github.com/microsoft/clarity)
 - [schmittnieto starred DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-- [schmittnieto starred BuilderIO/skills](https://github.com/BuilderIO/skills)
 <!-- LATESTACTIVITYGITHUB:END -->
 
