@@ -53,6 +53,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto opened a pull request in awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture/pull/68)
+- [schmittnieto pushed awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture/compare/9ccbf24833...9bb869fc84)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/81d8f1af1e...29cae29463)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/7e30e6bb9d...b0f4439159)
 - [schmittnieto starred roboflow/supervision](https://github.com/roboflow/supervision)
