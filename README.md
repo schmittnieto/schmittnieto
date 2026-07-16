@@ -68,6 +68,5 @@
 - [schmittnieto starred microsoft/osconfig](https://github.com/microsoft/osconfig)
 - [schmittnieto starred DarrylvanderPeijl/Align-VMsWithStorage](https://github.com/DarrylvanderPeijl/Align-VMsWithStorage)
 - [schmittnieto starred microsoft/clarity](https://github.com/microsoft/clarity)
-- [schmittnieto starred DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
 <!-- LATESTACTIVITYGITHUB:END -->
 
