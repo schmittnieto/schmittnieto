@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
 - [schmittnieto opened a pull request in awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture/pull/68)
 - [schmittnieto pushed awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture/compare/9ccbf24833...9bb869fc84)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/81d8f1af1e...29cae29463)
