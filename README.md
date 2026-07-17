@@ -67,6 +67,5 @@
 - [schmittnieto starred DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
 - [schmittnieto starred microsoft/osconfig](https://github.com/microsoft/osconfig)
 - [schmittnieto starred DarrylvanderPeijl/Align-VMsWithStorage](https://github.com/DarrylvanderPeijl/Align-VMsWithStorage)
-- [schmittnieto starred microsoft/clarity](https://github.com/microsoft/clarity)
 <!-- LATESTACTIVITYGITHUB:END -->
 
