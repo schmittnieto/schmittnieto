@@ -53,18 +53,18 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/d52dd3f041...9543e28578)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/b0f4439159...3b94644aaa)
 - [schmittnieto starred mertozsoy/WindowsUpdateRemedationTool](https://github.com/mertozsoy/WindowsUpdateRemedationTool)
 - [schmittnieto commented on pull request Azure/AzureLocal-Supportability#340](https://github.com/Azure/AzureLocal-Supportability/pull/340#discussion_r3605475870)
 - [schmittnieto opened a pull request in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/340)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/309d0016e3...40e02059f2)
 - [schmittnieto closed a pull request in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/337)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/ff2066b21d...d52dd3f041)
 - [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/dd6a478152...ce38d0f28b)
 - [schmittnieto commented on pull request Azure/AzureLocal-Supportability#337](https://github.com/Azure/AzureLocal-Supportability/pull/337#discussion_r3602730366)
 - [schmittnieto starred Andrew6rant/Andrew6rant](https://github.com/Andrew6rant/Andrew6rant)
 - [schmittnieto starred shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
 - [schmittnieto opened a pull request in awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture/pull/68)
 - [schmittnieto pushed awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture/compare/9ccbf24833...9bb869fc84)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/7e30e6bb9d...b0f4439159)
 <!-- LATESTACTIVITYGITHUB:END -->
 
