@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred durrante/AVDMonitoringBaseline](https://github.com/durrante/AVDMonitoringBaseline)
 - [schmittnieto starred ugurkocde/IntuneAutomation](https://github.com/ugurkocde/IntuneAutomation)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/d52dd3f041...9543e28578)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/b0f4439159...3b94644aaa)
@@ -65,6 +66,5 @@
 - [schmittnieto commented on pull request Azure/AzureLocal-Supportability#337](https://github.com/Azure/AzureLocal-Supportability/pull/337#discussion_r3602730366)
 - [schmittnieto starred Andrew6rant/Andrew6rant](https://github.com/Andrew6rant/Andrew6rant)
 - [schmittnieto starred shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
-- [schmittnieto opened a pull request in awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture/pull/68)
 <!-- LATESTACTIVITYGITHUB:END -->
 
