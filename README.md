@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred NeilBird/Azure-Local](https://github.com/NeilBird/Azure-Local)
 - [schmittnieto starred binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
 - [schmittnieto starred durrante/AVDMonitoringBaseline](https://github.com/durrante/AVDMonitoringBaseline)
 - [schmittnieto starred ugurkocde/IntuneAutomation](https://github.com/ugurkocde/IntuneAutomation)
@@ -65,6 +66,5 @@
 - [schmittnieto closed a pull request in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/337)
 - [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/dd6a478152...ce38d0f28b)
 - [schmittnieto commented on pull request Azure/AzureLocal-Supportability#337](https://github.com/Azure/AzureLocal-Supportability/pull/337#discussion_r3602730366)
-- [schmittnieto starred Andrew6rant/Andrew6rant](https://github.com/Andrew6rant/Andrew6rant)
 <!-- LATESTACTIVITYGITHUB:END -->
 
