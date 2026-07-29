@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred msfreaks/EvergreenAdmx](https://github.com/msfreaks/EvergreenAdmx)
 - [schmittnieto starred NeilBird/Azure-Local](https://github.com/NeilBird/Azure-Local)
 - [schmittnieto starred binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
 - [schmittnieto starred durrante/AVDMonitoringBaseline](https://github.com/durrante/AVDMonitoringBaseline)
