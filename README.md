@@ -53,6 +53,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/bcdb0eab20...141154021b)
+- [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/f03ab195f0...e91e8e7cda)
 - [schmittnieto contributed to Azure/AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/340)
 - [schmittnieto starred microsoft/ghqr](https://github.com/microsoft/ghqr)
 - [schmittnieto starred msfreaks/EvergreenAdmx](https://github.com/msfreaks/EvergreenAdmx)
@@ -60,7 +62,6 @@
 - [schmittnieto starred binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
 - [schmittnieto starred durrante/AVDMonitoringBaseline](https://github.com/durrante/AVDMonitoringBaseline)
 - [schmittnieto starred ugurkocde/IntuneAutomation](https://github.com/ugurkocde/IntuneAutomation)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/d52dd3f041...9543e28578)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/b0f4439159...3b94644aaa)
 - [schmittnieto starred mertozsoy/WindowsUpdateRemedationTool](https://github.com/mertozsoy/WindowsUpdateRemedationTool)
 - [schmittnieto commented on pull request Azure/AzureLocal-Supportability#340](https://github.com/Azure/AzureLocal-Supportability/pull/340#discussion_r3605475870)
