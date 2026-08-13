@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/bcdb0eab20...141154021b)
 - [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/f03ab195f0...e91e8e7cda)
 - [schmittnieto contributed to Azure/AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/340)
@@ -68,6 +69,5 @@
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/309d0016e3...40e02059f2)
 - [schmittnieto closed a pull request in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/337)
 - [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/dd6a478152...ce38d0f28b)
-- [schmittnieto commented on pull request Azure/AzureLocal-Supportability#337](https://github.com/Azure/AzureLocal-Supportability/pull/337#discussion_r3602730366)
 <!-- LATESTACTIVITYGITHUB:END -->
 
