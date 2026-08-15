@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred kolan90/terraform-avd-lab](https://github.com/kolan90/terraform-avd-lab)
 - [schmittnieto starred guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/bcdb0eab20...141154021b)
 - [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/f03ab195f0...e91e8e7cda)
