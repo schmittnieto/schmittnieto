@@ -66,8 +66,5 @@
 - [schmittnieto starred ugurkocde/IntuneAutomation](https://github.com/ugurkocde/IntuneAutomation)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/b0f4439159...3b94644aaa)
 - [schmittnieto starred mertozsoy/WindowsUpdateRemedationTool](https://github.com/mertozsoy/WindowsUpdateRemedationTool)
-- [schmittnieto commented on pull request Azure/AzureLocal-Supportability#340](https://github.com/Azure/AzureLocal-Supportability/pull/340#discussion_r3605475870)
-- [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/309d0016e3...40e02059f2)
-- [schmittnieto closed a pull request in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/337)
 <!-- LATESTACTIVITYGITHUB:END -->
 
