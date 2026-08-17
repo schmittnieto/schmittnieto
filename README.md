@@ -69,6 +69,5 @@
 - [schmittnieto commented on pull request Azure/AzureLocal-Supportability#340](https://github.com/Azure/AzureLocal-Supportability/pull/340#discussion_r3605475870)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/309d0016e3...40e02059f2)
 - [schmittnieto closed a pull request in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/337)
-- [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/dd6a478152...ce38d0f28b)
 <!-- LATESTACTIVITYGITHUB:END -->
 
