@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred NanoNets/Graft](https://github.com/NanoNets/Graft)
 - [schmittnieto starred xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
 - [schmittnieto contributed to lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture/pull/68)
 - [schmittnieto starred screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)
