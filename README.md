@@ -69,6 +69,5 @@
 - [schmittnieto starred durrante/AVDMonitoringBaseline](https://github.com/durrante/AVDMonitoringBaseline)
 - [schmittnieto starred ugurkocde/IntuneAutomation](https://github.com/ugurkocde/IntuneAutomation)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/b0f4439159...3b94644aaa)
-- [schmittnieto starred mertozsoy/WindowsUpdateRemedationTool](https://github.com/mertozsoy/WindowsUpdateRemedationTool)
 <!-- LATESTACTIVITYGITHUB:END -->
 
