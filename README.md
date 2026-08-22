@@ -53,13 +53,15 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/fcdfbea8fa...c14820d07e)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/3b94644aaa...f52b2180be)
+- [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/40e02059f2...37fd1fc383)
 - [schmittnieto starred NanoNets/Graft](https://github.com/NanoNets/Graft)
 - [schmittnieto starred xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
 - [schmittnieto contributed to lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture/pull/68)
 - [schmittnieto starred screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)
 - [schmittnieto starred kolan90/terraform-avd-lab](https://github.com/kolan90/terraform-avd-lab)
 - [schmittnieto starred guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/bcdb0eab20...141154021b)
 - [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/f03ab195f0...e91e8e7cda)
 - [schmittnieto contributed to Azure/AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/340)
 - [schmittnieto starred microsoft/ghqr](https://github.com/microsoft/ghqr)
@@ -68,6 +70,5 @@
 - [schmittnieto starred binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
 - [schmittnieto starred durrante/AVDMonitoringBaseline](https://github.com/durrante/AVDMonitoringBaseline)
 - [schmittnieto starred ugurkocde/IntuneAutomation](https://github.com/ugurkocde/IntuneAutomation)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/b0f4439159...3b94644aaa)
 <!-- LATESTACTIVITYGITHUB:END -->
 
