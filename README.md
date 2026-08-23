@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred JoeryVandenBosch/CISPolicyCreator](https://github.com/JoeryVandenBosch/CISPolicyCreator)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/fcdfbea8fa...c14820d07e)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/3b94644aaa...f52b2180be)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/40e02059f2...37fd1fc383)
