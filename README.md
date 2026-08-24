@@ -70,6 +70,5 @@
 - [schmittnieto starred NeilBird/Azure-Local](https://github.com/NeilBird/Azure-Local)
 - [schmittnieto starred binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
 - [schmittnieto starred durrante/AVDMonitoringBaseline](https://github.com/durrante/AVDMonitoringBaseline)
-- [schmittnieto starred ugurkocde/IntuneAutomation](https://github.com/ugurkocde/IntuneAutomation)
 <!-- LATESTACTIVITYGITHUB:END -->
 
