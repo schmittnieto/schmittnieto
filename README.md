@@ -57,7 +57,7 @@
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/fcdfbea8fa...c14820d07e)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/3b94644aaa...f52b2180be)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/40e02059f2...37fd1fc383)
-- [schmittnieto starred NanoNets/Graft](https://github.com/NanoNets/Graft)
+- [schmittnieto starred trailhq/Graft](https://github.com/trailhq/Graft)
 - [schmittnieto starred xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
 - [schmittnieto contributed to lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture/pull/68)
 - [schmittnieto starred screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)
