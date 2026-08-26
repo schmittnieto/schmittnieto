@@ -67,6 +67,5 @@
 - [schmittnieto contributed to Azure/AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/340)
 - [schmittnieto starred microsoft/ghqr](https://github.com/microsoft/ghqr)
 - [schmittnieto starred msfreaks/EvergreenAdmx](https://github.com/msfreaks/EvergreenAdmx)
-- [schmittnieto starred NeilBird/Azure-Local](https://github.com/NeilBird/Azure-Local)
 <!-- LATESTACTIVITYGITHUB:END -->
 
