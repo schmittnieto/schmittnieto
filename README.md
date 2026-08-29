@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred chkja/Get-AzLocalDoc](https://github.com/chkja/Get-AzLocalDoc)
 - [schmittnieto starred JoeryVandenBosch/CISPolicyCreator](https://github.com/JoeryVandenBosch/CISPolicyCreator)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/fcdfbea8fa...c14820d07e)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/3b94644aaa...f52b2180be)
