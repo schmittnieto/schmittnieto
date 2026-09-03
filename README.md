@@ -32,6 +32,7 @@
 
 | Badge | Certification |
 |---|---|
+| <img src="/assets/img/MVP.png" height="120" width="120"/> | [2026-2027 Microsoft Most Valuable Professional (MVP) Azure Hybrid & Migration](https://mvp.microsoft.com/de-DE/mvp/profile/d7826ef0-769b-4a66-acad-2091e0500275) |
 | <img src="/assets/img/NVP.webp" height="120" width="120"/> | [Nerdio Valued Professional](https://credsverse.com/credentials/d09e0a2d-f249-4690-a9fa-4ede62537421) |
 | <img src="/assets/img/nerdio-nmeps-200.png" height="120" width="120"/> | [Nerdio Enterprise Partner Sales Foundations (NMEPS-200)](https://schmitt-nieto.com/assets/img/cert/NMEPS-200.pdf) |
 | <img src="/assets/img/nerdio-nmeps-100.png" height="120" width="120"/> | [Nerdio Enterprise Partner Sales Fundamentals (NMEPS-100)](https://schmitt-nieto.com/assets/img/cert/NMEPS-100.pdf) |
