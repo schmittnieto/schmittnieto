@@ -55,6 +55,7 @@
 
 <!-- LATESTACTIVITYGITHUB:START -->
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ce26d7a942...ecaadb420c)
+- [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/e91e8e7cda...c15694a452)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/3c2fa75291...51f8ec4dc0)
 - [schmittnieto starred chkja/Get-AzLocalDoc](https://github.com/chkja/Get-AzLocalDoc)
 - [schmittnieto starred JoeryVandenBosch/CISPolicyCreator](https://github.com/JoeryVandenBosch/CISPolicyCreator)
@@ -66,7 +67,6 @@
 - [schmittnieto starred screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)
 - [schmittnieto starred kolan90/terraform-avd-lab](https://github.com/kolan90/terraform-avd-lab)
 - [schmittnieto starred guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
-- [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/f03ab195f0...e91e8e7cda)
 - [schmittnieto contributed to Azure/AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/340)
 <!-- LATESTACTIVITYGITHUB:END -->
 
