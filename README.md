@@ -55,7 +55,7 @@
 <!-- LATESTACTIVITYGITHUB:START -->
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ce26d7a942...ecaadb420c)
 - [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/e91e8e7cda...c15694a452)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/3c2fa75291...51f8ec4dc0)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/51f8ec4dc0...f9abe6fdc6)
 - [schmittnieto starred chkja/Get-AzLocalDoc](https://github.com/chkja/Get-AzLocalDoc)
 - [schmittnieto starred JoeryVandenBosch/CISPolicyCreator](https://github.com/JoeryVandenBosch/CISPolicyCreator)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/3b94644aaa...f52b2180be)
