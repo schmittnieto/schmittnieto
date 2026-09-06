@@ -15,6 +15,7 @@
 
 # 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Local Troubleshooting: The Path From Error to Resolution](https://schmitt-nieto.com/blog/azure-local-troubleshooting/) - 04 Sep 2026
 - [How to Build Your Own Azure Local Lab: From Laptop to Dedicated Server](https://schmitt-nieto.com/blog/how-to-build-your-azure-local-lab/) - 07 Aug 2026
 - [Awesome Azure Virtual Desktop](https://schmitt-nieto.com/blog/awesome-azure-virtual-desktop/) - 22 May 2026
 - [Azure Local: Terraform Deployment](https://schmitt-nieto.com/blog/azure-local-terraform/) - 16 Apr 2026
@@ -23,8 +24,7 @@
 - [Azure Local Deep Insights Workbook](https://schmitt-nieto.com/blog/azure-local-deep-insights-workbook/) - 30 Oct 2025
 - [Awesome Azure Local](https://schmitt-nieto.com/blog/awesome-azure-local/) - 08 Aug 2025
 - [Nerdio Scripted Actions: Windows Scripts](https://schmitt-nieto.com/blog/nerdio-scripted-actions-windows-scripts/) - 16 May 2025
-- [Azure Local: Backup and Disaster Recovery](https://schmitt-nieto.com/blog/azure-local-backup-and-disaster-recovery/) - 28 Mar 2025
-- [Azure Local: Redundancy](https://schmitt-nieto.com/blog/azure-local-redundancy/) - 28 Feb 2025<!-- BLOG-POST-LIST:END -->
+- [Azure Local: Backup and Disaster Recovery](https://schmitt-nieto.com/blog/azure-local-backup-and-disaster-recovery/) - 28 Mar 2025<!-- BLOG-POST-LIST:END -->
 <!-- Credits to Blog Updates on readme to: https://github.com/gautamkrishnar/blog-post-workflow -->
 
 # 🎓 Certifications
