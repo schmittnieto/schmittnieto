@@ -53,9 +53,10 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/1ef8292d57...ae179f1477)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/8a72b1346a...3ef252243b)
 - [schmittnieto opened a pull request in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/349)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/2b5f8e5ba4...f3ad702a5e)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/981a1ce1c8...4d8c27562a)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/7bbeeae742...552b1c1530)
 - [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/e91e8e7cda...c15694a452)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/f52b2180be...34f2a42978)
