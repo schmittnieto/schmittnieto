@@ -56,7 +56,7 @@
 - [schmittnieto opened a pull request in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/349)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/2b5f8e5ba4...f3ad702a5e)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/981a1ce1c8...4d8c27562a)
-- [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/ce26d7a942...ecaadb420c)
+- [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/7bbeeae742...552b1c1530)
 - [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/e91e8e7cda...c15694a452)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/f52b2180be...34f2a42978)
 - [schmittnieto starred chkja/Get-AzLocalDoc](https://github.com/chkja/Get-AzLocalDoc)
@@ -67,6 +67,5 @@
 - [schmittnieto starred screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)
 - [schmittnieto starred kolan90/terraform-avd-lab](https://github.com/kolan90/terraform-avd-lab)
 - [schmittnieto starred guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
-- [schmittnieto contributed to Azure/AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/340)
 <!-- LATESTACTIVITYGITHUB:END -->
 
