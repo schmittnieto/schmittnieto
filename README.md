@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred chkja/azureLocalAlertsPipelineDeploy](https://github.com/chkja/azureLocalAlertsPipelineDeploy)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/1ef8292d57...ae179f1477)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/8a72b1346a...3ef252243b)
 - [schmittnieto opened a pull request in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/349)
