@@ -53,8 +53,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/78b203dfc7...6f7432caf6)
 - [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/c15694a452...40aee58124)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b163427feb...e519a05650)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/34f2a42978...7aea1b17b7)
 - [schmittnieto starred AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
 - [schmittnieto opened an issue in join-this-organization](https://github.com/msmvps/join-this-organization/issues/261)
