@@ -53,19 +53,17 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/c15694a452...40aee58124)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b163427feb...e519a05650)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/34f2a42978...7aea1b17b7)
+- [schmittnieto starred AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+- [schmittnieto opened an issue in join-this-organization](https://github.com/msmvps/join-this-organization/issues/261)
 - [schmittnieto starred chkja/azureLocalAlertsPipelineDeploy](https://github.com/chkja/azureLocalAlertsPipelineDeploy)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/3ef252243b...4a6af175fd)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/1ef8292d57...ae179f1477)
 - [schmittnieto opened a pull request in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/349)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/2b5f8e5ba4...f3ad702a5e)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/7bbeeae742...552b1c1530)
-- [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/e91e8e7cda...c15694a452)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/f52b2180be...34f2a42978)
 - [schmittnieto starred chkja/Get-AzLocalDoc](https://github.com/chkja/Get-AzLocalDoc)
 - [schmittnieto starred JoeryVandenBosch/CISPolicyCreator](https://github.com/JoeryVandenBosch/CISPolicyCreator)
-- [schmittnieto starred trailhq/Graft](https://github.com/trailhq/Graft)
-- [schmittnieto starred xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
-- [schmittnieto contributed to lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture/pull/68)
-- [schmittnieto starred screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)
 <!-- LATESTACTIVITYGITHUB:END -->
 
