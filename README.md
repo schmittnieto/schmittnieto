@@ -54,8 +54,8 @@
 
 <!-- LATESTACTIVITYGITHUB:START -->
 - [schmittnieto starred chkja/azureLocalAlertsPipelineDeploy](https://github.com/chkja/azureLocalAlertsPipelineDeploy)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/3ef252243b...4a6af175fd)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/1ef8292d57...ae179f1477)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/8a72b1346a...3ef252243b)
 - [schmittnieto opened a pull request in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/349)
 - [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/2b5f8e5ba4...f3ad702a5e)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/7bbeeae742...552b1c1530)
@@ -67,7 +67,5 @@
 - [schmittnieto starred xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
 - [schmittnieto contributed to lukemurraynz/awesome-azure-architecture](https://github.com/lukemurraynz/awesome-azure-architecture/pull/68)
 - [schmittnieto starred screenpipe/screenpipe](https://github.com/screenpipe/screenpipe)
-- [schmittnieto starred kolan90/terraform-avd-lab](https://github.com/kolan90/terraform-avd-lab)
-- [schmittnieto starred guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover)
 <!-- LATESTACTIVITYGITHUB:END -->
 
