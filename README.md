@@ -54,6 +54,7 @@
 
 <!-- LATESTACTIVITYGITHUB:START -->
 - [schmittnieto pushed AzureLocalHOLs](https://github.com/schmittnieto/AzureLocalHOLs/compare/5da2697851...5f0cd8059c)
+- [schmittnieto pushed AzureLocal](https://github.com/schmittnieto/AzureLocal/compare/1061215a6a...b92bc4795e)
 - [schmittnieto pushed awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture/compare/0cc5f13a49...fd47f739a3)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b49868e1d6...b5a8b33db3)
 - [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/c15694a452...40aee58124)
