@@ -53,12 +53,12 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/6f7432caf6...0bb3deeb04)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/7aea1b17b7...99d568d4a1)
 - [schmittnieto pushed AzureLocalHOLs](https://github.com/schmittnieto/AzureLocalHOLs/compare/5da2697851...5f0cd8059c)
 - [schmittnieto pushed AzureLocal](https://github.com/schmittnieto/AzureLocal/compare/1061215a6a...b92bc4795e)
 - [schmittnieto pushed awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture/compare/0cc5f13a49...fd47f739a3)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b49868e1d6...b5a8b33db3)
 - [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/c15694a452...40aee58124)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/34f2a42978...7aea1b17b7)
 - [schmittnieto starred AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
 - [schmittnieto opened an issue in join-this-organization](https://github.com/msmvps/join-this-organization/issues/261)
 - [schmittnieto starred chkja/azureLocalAlertsPipelineDeploy](https://github.com/chkja/azureLocalAlertsPipelineDeploy)
