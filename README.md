@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)
 - [schmittnieto starred adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen)
 - [schmittnieto starred Jamonygr/azure-avd-lab](https://github.com/Jamonygr/azure-avd-lab)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/6f7432caf6...0bb3deeb04)
