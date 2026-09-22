@@ -53,9 +53,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/50d5572658...a9dd5c8616)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/a9dd5c8616...632b051a23)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/d9ff5770c8...8c6ba493e1)
 - [schmittnieto starred m365-admin-tools/m365-admin-tools](https://github.com/m365-admin-tools/m365-admin-tools)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/ae179f1477...8f6b79945f)
 - [schmittnieto starred nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)
 - [schmittnieto starred adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen)
 - [schmittnieto starred Jamonygr/azure-avd-lab](https://github.com/Jamonygr/azure-avd-lab)
@@ -67,8 +67,5 @@
 - [schmittnieto starred AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
 - [schmittnieto opened an issue in join-this-organization](https://github.com/msmvps/join-this-organization/issues/261)
 - [schmittnieto starred chkja/azureLocalAlertsPipelineDeploy](https://github.com/chkja/azureLocalAlertsPipelineDeploy)
-- [schmittnieto opened a pull request in AzureLocal-Supportability](https://github.com/Azure/AzureLocal-Supportability/pull/349)
-- [schmittnieto pushed AzureLocal-Supportability](https://github.com/schmittnieto/AzureLocal-Supportability/compare/2b5f8e5ba4...f3ad702a5e)
-- [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/7bbeeae742...552b1c1530)
 <!-- LATESTACTIVITYGITHUB:END -->
 
