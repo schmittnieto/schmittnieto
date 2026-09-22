@@ -53,7 +53,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/349e18bd76...50d5572658)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/50d5572658...a9dd5c8616)
+- [schmittnieto starred m365-admin-tools/m365-admin-tools](https://github.com/m365-admin-tools/m365-admin-tools)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/ae179f1477...8f6b79945f)
 - [schmittnieto starred nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)
 - [schmittnieto starred adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen)
