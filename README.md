@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred WayneBellows/fslogix-healthcheck](https://github.com/WayneBellows/fslogix-healthcheck)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/632b051a23...6b0c517da3)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/d9ff5770c8...8c6ba493e1)
 - [schmittnieto starred m365-admin-tools/m365-admin-tools](https://github.com/m365-admin-tools/m365-admin-tools)
