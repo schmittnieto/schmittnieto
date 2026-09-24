@@ -53,14 +53,14 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/6b0c517da3...119fc799d3)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/99d568d4a1...e6c6362a66)
 - [schmittnieto starred WayneBellows/fslogix-healthcheck](https://github.com/WayneBellows/fslogix-healthcheck)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/632b051a23...6b0c517da3)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/d9ff5770c8...8c6ba493e1)
 - [schmittnieto starred m365-admin-tools/m365-admin-tools](https://github.com/m365-admin-tools/m365-admin-tools)
 - [schmittnieto starred nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)
 - [schmittnieto starred adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen)
 - [schmittnieto starred Jamonygr/azure-avd-lab](https://github.com/Jamonygr/azure-avd-lab)
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/7aea1b17b7...99d568d4a1)
 - [schmittnieto pushed AzureLocalHOLs](https://github.com/schmittnieto/AzureLocalHOLs/compare/5da2697851...5f0cd8059c)
 - [schmittnieto pushed AzureLocal](https://github.com/schmittnieto/AzureLocal/compare/1061215a6a...b92bc4795e)
 - [schmittnieto pushed awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture/compare/0cc5f13a49...fd47f739a3)
