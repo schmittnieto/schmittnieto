@@ -54,6 +54,7 @@
 
 <!-- LATESTACTIVITYGITHUB:START -->
 - [schmittnieto starred Azure/azure-policy-linter](https://github.com/Azure/azure-policy-linter)
+- [schmittnieto pushed NME-Terraform](https://github.com/schmittnieto/NME-Terraform/compare/3127d0686d...d83585ca23)
 - [schmittnieto forked schmittnieto/odinforazurelocal from Azure/odinforazurelocal](https://github.com/schmittnieto/odinforazurelocal)
 - [schmittnieto forked schmittnieto/NME-Terraform from Get-Nerdio/NME-Terraform](https://github.com/schmittnieto/NME-Terraform)
 - [schmittnieto starred Get-Nerdio/NME-Terraform](https://github.com/Get-Nerdio/NME-Terraform)
