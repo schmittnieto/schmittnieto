@@ -53,6 +53,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred Azure/azure-policy-linter](https://github.com/Azure/azure-policy-linter)
+- [schmittnieto forked schmittnieto/odinforazurelocal from Azure/odinforazurelocal](https://github.com/schmittnieto/odinforazurelocal)
 - [schmittnieto forked schmittnieto/NME-Terraform from Get-Nerdio/NME-Terraform](https://github.com/schmittnieto/NME-Terraform)
 - [schmittnieto starred Get-Nerdio/NME-Terraform](https://github.com/Get-Nerdio/NME-Terraform)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/59561e1c21...4da341be0d)
@@ -67,6 +69,5 @@
 - [schmittnieto pushed AzureLocalHOLs](https://github.com/schmittnieto/AzureLocalHOLs/compare/5da2697851...5f0cd8059c)
 - [schmittnieto pushed AzureLocal](https://github.com/schmittnieto/AzureLocal/compare/1061215a6a...b92bc4795e)
 - [schmittnieto pushed awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture/compare/0cc5f13a49...fd47f739a3)
-- [schmittnieto starred AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
 <!-- LATESTACTIVITYGITHUB:END -->
 
