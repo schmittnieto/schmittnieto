@@ -53,13 +53,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/ce38d0f28b...36e1ecaba5)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/2d81895997...b028b223e9)
+- [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/2316cb50c4...3265250899)
 - [schmittnieto starred Azure/azure-policy-linter](https://github.com/Azure/azure-policy-linter)
 - [schmittnieto pushed NME-Terraform](https://github.com/schmittnieto/NME-Terraform/compare/3127d0686d...d83585ca23)
 - [schmittnieto forked schmittnieto/odinforazurelocal from Azure/odinforazurelocal](https://github.com/schmittnieto/odinforazurelocal)
 - [schmittnieto forked schmittnieto/NME-Terraform from Get-Nerdio/NME-Terraform](https://github.com/schmittnieto/NME-Terraform)
 - [schmittnieto starred Get-Nerdio/NME-Terraform](https://github.com/Get-Nerdio/NME-Terraform)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/59561e1c21...4da341be0d)
 - [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/40aee58124...83f9f3069b)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/99d568d4a1...e6c6362a66)
 - [schmittnieto starred WayneBellows/fslogix-healthcheck](https://github.com/WayneBellows/fslogix-healthcheck)
