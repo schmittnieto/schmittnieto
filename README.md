@@ -53,8 +53,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/2d81895997...b028b223e9)
-- [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/2316cb50c4...3265250899)
+- [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/36e1ecaba5...2316cb50c4)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/fa94fb9096...2d81895997)
 - [schmittnieto starred Azure/azure-policy-linter](https://github.com/Azure/azure-policy-linter)
 - [schmittnieto pushed NME-Terraform](https://github.com/schmittnieto/NME-Terraform/compare/3127d0686d...d83585ca23)
 - [schmittnieto forked schmittnieto/odinforazurelocal from Azure/odinforazurelocal](https://github.com/schmittnieto/odinforazurelocal)
@@ -70,6 +70,5 @@
 - [schmittnieto starred Jamonygr/azure-avd-lab](https://github.com/Jamonygr/azure-avd-lab)
 - [schmittnieto pushed AzureLocalHOLs](https://github.com/schmittnieto/AzureLocalHOLs/compare/5da2697851...5f0cd8059c)
 - [schmittnieto pushed AzureLocal](https://github.com/schmittnieto/AzureLocal/compare/1061215a6a...b92bc4795e)
-- [schmittnieto pushed awesome-azure-architecture](https://github.com/schmittnieto/awesome-azure-architecture/compare/0cc5f13a49...fd47f739a3)
 <!-- LATESTACTIVITYGITHUB:END -->
 
