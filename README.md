@@ -53,9 +53,10 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b028b223e9...0c580d34d5)
+- [schmittnieto starred TNTcraftHIM/Piik](https://github.com/TNTcraftHIM/Piik)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/8c332f0d4c...28ac28fb26)
+- [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/88173abf67...4f81b11eaa)
 - [schmittnieto starred maximhq/bifrost](https://github.com/maximhq/bifrost)
-- [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/36e1ecaba5...2316cb50c4)
 - [schmittnieto starred Azure/azure-policy-linter](https://github.com/Azure/azure-policy-linter)
 - [schmittnieto pushed NME-Terraform](https://github.com/schmittnieto/NME-Terraform/compare/3127d0686d...d83585ca23)
 - [schmittnieto forked schmittnieto/odinforazurelocal from Azure/odinforazurelocal](https://github.com/schmittnieto/odinforazurelocal)
@@ -66,8 +67,5 @@
 - [schmittnieto starred WayneBellows/fslogix-healthcheck](https://github.com/WayneBellows/fslogix-healthcheck)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/d9ff5770c8...8c6ba493e1)
 - [schmittnieto starred m365-admin-tools/m365-admin-tools](https://github.com/m365-admin-tools/m365-admin-tools)
-- [schmittnieto starred nklmilojevic/sofka](https://github.com/nklmilojevic/sofka)
-- [schmittnieto starred adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen)
-- [schmittnieto starred Jamonygr/azure-avd-lab](https://github.com/Jamonygr/azure-avd-lab)
 <!-- LATESTACTIVITYGITHUB:END -->
 
