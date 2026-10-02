@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred mattpocock/skills](https://github.com/mattpocock/skills)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/28ac28fb26...bd6e47166c)
 - [schmittnieto starred TNTcraftHIM/Piik](https://github.com/TNTcraftHIM/Piik)
 - [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/4f81b11eaa...2099136c41)
