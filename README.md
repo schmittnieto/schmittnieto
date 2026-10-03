@@ -54,9 +54,9 @@
 
 <!-- LATESTACTIVITYGITHUB:START -->
 - [schmittnieto starred mattpocock/skills](https://github.com/mattpocock/skills)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/28ac28fb26...bd6e47166c)
 - [schmittnieto starred TNTcraftHIM/Piik](https://github.com/TNTcraftHIM/Piik)
-- [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/4f81b11eaa...2099136c41)
+- [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/3bf2f0509d...c69292f808)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/0c580d34d5...3ca13d920c)
 - [schmittnieto starred maximhq/bifrost](https://github.com/maximhq/bifrost)
 - [schmittnieto starred Azure/azure-policy-linter](https://github.com/Azure/azure-policy-linter)
 - [schmittnieto pushed NME-Terraform](https://github.com/schmittnieto/NME-Terraform/compare/3127d0686d...d83585ca23)
@@ -66,6 +66,5 @@
 - [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/40aee58124...83f9f3069b)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/99d568d4a1...e6c6362a66)
 - [schmittnieto starred WayneBellows/fslogix-healthcheck](https://github.com/WayneBellows/fslogix-healthcheck)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/d9ff5770c8...8c6ba493e1)
 <!-- LATESTACTIVITYGITHUB:END -->
 
