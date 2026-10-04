@@ -53,8 +53,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/bd6e47166c...f10983105f)
-- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/8c6ba493e1...c0d30e28d0)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/4db276002d...d94b817c6f)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/e2d7f0438b...89fda207b2)
 - [schmittnieto starred Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill)
 - [schmittnieto starred mattpocock/skills](https://github.com/mattpocock/skills)
 - [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/c69292f808...64ab23caef)
@@ -62,8 +62,5 @@
 - [schmittnieto starred maximhq/bifrost](https://github.com/maximhq/bifrost)
 - [schmittnieto starred Azure/azure-policy-linter](https://github.com/Azure/azure-policy-linter)
 - [schmittnieto pushed NME-Terraform](https://github.com/schmittnieto/NME-Terraform/compare/3127d0686d...d83585ca23)
-- [schmittnieto forked schmittnieto/odinforazurelocal from Azure/odinforazurelocal](https://github.com/schmittnieto/odinforazurelocal)
-- [schmittnieto forked schmittnieto/NME-Terraform from Get-Nerdio/NME-Terraform](https://github.com/schmittnieto/NME-Terraform)
-- [schmittnieto starred Get-Nerdio/NME-Terraform](https://github.com/Get-Nerdio/NME-Terraform)
 <!-- LATESTACTIVITYGITHUB:END -->
 
