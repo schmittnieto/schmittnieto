@@ -53,7 +53,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/f10983105f...c3fdf12456)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/bd6e47166c...f10983105f)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/8c6ba493e1...c0d30e28d0)
 - [schmittnieto starred Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill)
 - [schmittnieto starred mattpocock/skills](https://github.com/mattpocock/skills)
 - [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/c69292f808...64ab23caef)
@@ -64,6 +65,5 @@
 - [schmittnieto forked schmittnieto/odinforazurelocal from Azure/odinforazurelocal](https://github.com/schmittnieto/odinforazurelocal)
 - [schmittnieto forked schmittnieto/NME-Terraform from Get-Nerdio/NME-Terraform](https://github.com/schmittnieto/NME-Terraform)
 - [schmittnieto starred Get-Nerdio/NME-Terraform](https://github.com/Get-Nerdio/NME-Terraform)
-- [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/40aee58124...83f9f3069b)
 <!-- LATESTACTIVITYGITHUB:END -->
 
