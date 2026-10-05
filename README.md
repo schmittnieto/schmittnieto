@@ -53,14 +53,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/4db276002d...d94b817c6f)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/d94b817c6f...263f23bc3d)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/e2d7f0438b...89fda207b2)
 - [schmittnieto starred Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill)
 - [schmittnieto starred mattpocock/skills](https://github.com/mattpocock/skills)
 - [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/c69292f808...64ab23caef)
 - [schmittnieto starred TNTcraftHIM/Piik](https://github.com/TNTcraftHIM/Piik)
 - [schmittnieto starred maximhq/bifrost](https://github.com/maximhq/bifrost)
-- [schmittnieto starred Azure/azure-policy-linter](https://github.com/Azure/azure-policy-linter)
 - [schmittnieto pushed NME-Terraform](https://github.com/schmittnieto/NME-Terraform/compare/3127d0686d...d83585ca23)
 <!-- LATESTACTIVITYGITHUB:END -->
 
