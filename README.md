@@ -54,6 +54,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/adc55240a8...e6c3a244af)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/263f23bc3d...5b0c2663a3)
 - [schmittnieto starred AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
