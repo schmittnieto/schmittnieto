@@ -54,6 +54,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred morluto/rea](https://github.com/morluto/rea)
 - [schmittnieto starred addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/adc55240a8...e6c3a244af)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/263f23bc3d...5b0c2663a3)
@@ -63,6 +64,5 @@
 - [schmittnieto starred mattpocock/skills](https://github.com/mattpocock/skills)
 - [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/c69292f808...64ab23caef)
 - [schmittnieto starred TNTcraftHIM/Piik](https://github.com/TNTcraftHIM/Piik)
-- [schmittnieto starred maximhq/bifrost](https://github.com/maximhq/bifrost)
 <!-- LATESTACTIVITYGITHUB:END -->
 
