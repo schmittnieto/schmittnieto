@@ -54,6 +54,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred zenhosta/9drive](https://github.com/zenhosta/9drive)
 - [schmittnieto starred morluto/rea](https://github.com/morluto/rea)
 - [schmittnieto starred addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/adc55240a8...e6c3a244af)
