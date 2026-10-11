@@ -54,6 +54,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred storytold/artcraft](https://github.com/storytold/artcraft)
 - [schmittnieto starred zenhosta/9drive](https://github.com/zenhosta/9drive)
 - [schmittnieto starred morluto/rea](https://github.com/morluto/rea)
 - [schmittnieto starred addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
