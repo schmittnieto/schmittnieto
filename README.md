@@ -54,6 +54,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred Elektronenvolt/homelab](https://github.com/Elektronenvolt/homelab)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/c48f1ab15a...72c65fb288)
 - [schmittnieto closed an issue in schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/issues/7)
 - [schmittnieto starred wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)
@@ -65,6 +66,5 @@
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/adc55240a8...e6c3a244af)
 - [schmittnieto starred AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/89fda207b2...97b4eee4dc)
-- [schmittnieto starred Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill)
 <!-- LATESTACTIVITYGITHUB:END -->
 
