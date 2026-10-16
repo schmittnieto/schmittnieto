@@ -54,8 +54,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto contributed to schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/pull/9)
-- [schmittnieto contributed to schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/pull/1)
+- [schmittnieto contributed to schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/pull/2)
+- [schmittnieto contributed to schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/pull/10)
+- [schmittnieto created a branch](https://github.com/schmittnieto/AzureLocal-Calculator/compare/0000000000...6689d9ee52)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/72c65fb288...41415a8c17)
 - [schmittnieto starred Elektronenvolt/homelab](https://github.com/Elektronenvolt/homelab)
 - [schmittnieto closed an issue in schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/issues/7)
@@ -65,8 +66,6 @@
 - [schmittnieto starred zenhosta/9drive](https://github.com/zenhosta/9drive)
 - [schmittnieto starred morluto/rea](https://github.com/morluto/rea)
 - [schmittnieto starred addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
-- [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/adc55240a8...e6c3a244af)
-- [schmittnieto starred AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
 - [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/89fda207b2...97b4eee4dc)
 <!-- LATESTACTIVITYGITHUB:END -->
 
