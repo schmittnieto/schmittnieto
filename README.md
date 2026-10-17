@@ -54,8 +54,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/18a1d6721f...f701c51469)
 - [schmittnieto contributed to schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/pull/2)
-- [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/6689d9ee52...f861b076b8)
 - [schmittnieto contributed to schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/pull/10)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/41415a8c17...b4fc953d4f)
 - [schmittnieto created a branch](https://github.com/schmittnieto/schmittnieto.github.io/compare/0000000000...c002871b3c)
@@ -64,6 +64,5 @@
 - [schmittnieto starred wheresryan22/anatomy](https://github.com/wheresryan22/anatomy)
 - [schmittnieto starred theclaymethod/unslop](https://github.com/theclaymethod/unslop)
 - [schmittnieto starred storytold/artcraft](https://github.com/storytold/artcraft)
-- [schmittnieto starred zenhosta/9drive](https://github.com/zenhosta/9drive)
 <!-- LATESTACTIVITYGITHUB:END -->
 
