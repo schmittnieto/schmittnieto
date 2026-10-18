@@ -54,14 +54,13 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/8b201cd92c...114a82a47a)
 - [schmittnieto contributed to schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/pull/12)
+- [schmittnieto created a branch](https://github.com/schmittnieto/schmittnieto.github.io/compare/0000000000...4f04aa1c82)
 - [schmittnieto starred Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
 - [schmittnieto starred Azure/FederalAVD](https://github.com/Azure/FederalAVD)
 - [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/18a1d6721f...f701c51469)
 - [schmittnieto contributed to schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/pull/2)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b4fc953d4f...0d0a02d75e)
-- [schmittnieto created a branch](https://github.com/schmittnieto/schmittnieto.github.io/compare/0000000000...530cce9fa4)
 - [schmittnieto starred Elektronenvolt/homelab](https://github.com/Elektronenvolt/homelab)
-- [schmittnieto closed an issue in schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/issues/7)
 <!-- LATESTACTIVITYGITHUB:END -->
 
