@@ -54,6 +54,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter)
 - [schmittnieto starred shakeelosmani/avd_feed_connect](https://github.com/shakeelosmani/avd_feed_connect)
 - [schmittnieto contributed to schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/pull/12)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/0d0a02d75e...8b201cd92c)
