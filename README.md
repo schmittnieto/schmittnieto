@@ -54,14 +54,15 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/5131dc8c21...735daf9e96)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/dc3c82c4d2...322b30244d)
+- [schmittnieto contributed to schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/pull/39)
+- [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/10538bc047...9e4b25e283)
+- [schmittnieto contributed to schmittnieto/awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/pull/33)
+- [schmittnieto contributed to schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/pull/13)
+- [schmittnieto created a branch](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/0000000000...8f7570c7d6)
 - [schmittnieto starred prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter)
 - [schmittnieto starred shakeelosmani/avd_feed_connect](https://github.com/shakeelosmani/avd_feed_connect)
-- [schmittnieto contributed to schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/pull/12)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/0d0a02d75e...8b201cd92c)
-- [schmittnieto created a branch](https://github.com/schmittnieto/schmittnieto.github.io/compare/0000000000...b3adaafacb)
 - [schmittnieto starred Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything)
-- [schmittnieto starred Azure/FederalAVD](https://github.com/Azure/FederalAVD)
-- [schmittnieto pushed AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/compare/18a1d6721f...f701c51469)
-- [schmittnieto contributed to schmittnieto/AzureLocal-Calculator](https://github.com/schmittnieto/AzureLocal-Calculator/pull/2)
 <!-- LATESTACTIVITYGITHUB:END -->
 
