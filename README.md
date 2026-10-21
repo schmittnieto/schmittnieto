@@ -54,14 +54,9 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/322b30244d...4d421136bd)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/5131dc8c21...735daf9e96)
-- [schmittnieto contributed to schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/pull/39)
-- [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/10538bc047...9e4b25e283)
-- [schmittnieto contributed to schmittnieto/awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/pull/33)
-- [schmittnieto contributed to schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/pull/13)
-- [schmittnieto created a branch](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/0000000000...8f7570c7d6)
-- [schmittnieto starred prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter)
-- [schmittnieto starred shakeelosmani/avd_feed_connect](https://github.com/shakeelosmani/avd_feed_connect)
+- [schmittnieto closed an issue in awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/issues/12)
+- [schmittnieto pushed AzSHCI](https://github.com/schmittnieto/AzSHCI/compare/97b4eee4dc...694a70a3f0)
+- [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/ef2852ef88...dc3c82c4d2)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/b4d54e1986...3db6b3d2fd)
 <!-- LATESTACTIVITYGITHUB:END -->
 
