@@ -54,6 +54,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - [schmittnieto starred latent-spaces/brag](https://github.com/latent-spaces/brag)
 - [schmittnieto starred styler-ai/ProjectAtlas](https://github.com/styler-ai/ProjectAtlas)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/f00b5ba00a...9012d0629a)
