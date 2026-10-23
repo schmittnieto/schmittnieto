@@ -54,6 +54,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred latent-spaces/brag](https://github.com/latent-spaces/brag)
 - [schmittnieto starred styler-ai/ProjectAtlas](https://github.com/styler-ai/ProjectAtlas)
 - [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/f00b5ba00a...9012d0629a)
 - [schmittnieto deleted](https://github.com/schmittnieto/awesome-azure-local/compare/eca00bb512...0000000000)
