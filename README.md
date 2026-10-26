@@ -53,15 +53,14 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/f69b6de134...518e63f64d)
+- [schmittnieto deleted](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/b3ba0fe904...0000000000)
 - [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/f65652bdd2...1b1942fa6e)
 - [schmittnieto contributed to schmittnieto/awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/pull/38)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/8abb259439...f69b6de134)
-- [schmittnieto deleted](https://github.com/schmittnieto/awesome-azure-local/compare/1b01d75cae...0000000000)
 - [schmittnieto contributed to schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/pull/46)
+- [schmittnieto created a branch](https://github.com/schmittnieto/awesome-azure-local/compare/0000000000...1b01d75cae)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/a8b6594392...065b78bbad)
-- [schmittnieto created a branch](https://github.com/schmittnieto/awesome-azure-local/compare/0000000000...a3bb1e9f47)
 - [schmittnieto starred felipearborestrepo/-App-Security-Weekly-Digest](https://github.com/felipearborestrepo/-App-Security-Weekly-Digest)
 - [schmittnieto starred HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- [schmittnieto starred latent-spaces/brag](https://github.com/latent-spaces/brag)
 <!-- LATESTACTIVITYGITHUB:END -->
 
