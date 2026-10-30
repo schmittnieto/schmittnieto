@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io)
 - [schmittnieto starred jflieben/VFS365](https://github.com/jflieben/VFS365)
 - [schmittnieto starred HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/04e76e0f09...67f23d0428)
