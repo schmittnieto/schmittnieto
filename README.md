@@ -65,5 +65,6 @@
 - [schmittnieto contributed to schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/pull/46)
 - [schmittnieto created a branch](https://github.com/schmittnieto/awesome-azure-local/compare/0000000000...1b01d75cae)
 - [schmittnieto pushed awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/compare/a8b6594392...065b78bbad)
+- [schmittnieto starred felipearborestrepo/-App-Security-Weekly-Digest](https://github.com/felipearborestrepo/-App-Security-Weekly-Digest)
 <!-- LATESTACTIVITYGITHUB:END -->
 
