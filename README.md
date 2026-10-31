@@ -67,5 +67,6 @@
 - [schmittnieto starred HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - [schmittnieto starred latent-spaces/brag](https://github.com/latent-spaces/brag)
 - [schmittnieto starred styler-ai/ProjectAtlas](https://github.com/styler-ai/ProjectAtlas)
+- [schmittnieto closed an issue in awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/issues/12)
 <!-- LATESTACTIVITYGITHUB:END -->
 
