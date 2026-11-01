@@ -53,6 +53,8 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred herdrdev/herdr](https://github.com/herdrdev/herdr)
+- [schmittnieto starred denislupookov/altersend](https://github.com/denislupookov/altersend)
 - [schmittnieto starred dickwu/apple-design-skill](https://github.com/dickwu/apple-design-skill)
 - [schmittnieto starred GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io)
 - [schmittnieto starred jflieben/VFS365](https://github.com/jflieben/VFS365)
