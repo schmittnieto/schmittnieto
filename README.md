@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred blader/humanizer](https://github.com/blader/humanizer)
 - [schmittnieto starred herdrdev/herdr](https://github.com/herdrdev/herdr)
 - [schmittnieto starred denislupookov/altersend](https://github.com/denislupookov/altersend)
 - [schmittnieto starred dickwu/apple-design-skill](https://github.com/dickwu/apple-design-skill)
