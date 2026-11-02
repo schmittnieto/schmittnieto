@@ -60,7 +60,6 @@
 - [schmittnieto starred jflieben/VFS365](https://github.com/jflieben/VFS365)
 - [schmittnieto starred HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter)
 - [schmittnieto pushed schmittnieto](https://github.com/schmittnieto/schmittnieto/compare/04e76e0f09...67f23d0428)
-- [schmittnieto deleted](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/b3ba0fe904...0000000000)
 - [schmittnieto contributed to schmittnieto/awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/pull/38)
 - [schmittnieto contributed to schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/pull/46)
 - [schmittnieto starred felipearborestrepo/-App-Security-Weekly-Digest](https://github.com/felipearborestrepo/-App-Security-Weekly-Digest)
