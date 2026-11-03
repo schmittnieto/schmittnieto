@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred token2/fido2_bulkenroll_entraid](https://github.com/token2/fido2_bulkenroll_entraid)
 - [schmittnieto starred blader/humanizer](https://github.com/blader/humanizer)
 - [schmittnieto starred herdrdev/herdr](https://github.com/herdrdev/herdr)
 - [schmittnieto starred denislupookov/altersend](https://github.com/denislupookov/altersend)
