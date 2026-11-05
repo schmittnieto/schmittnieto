@@ -53,6 +53,7 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto starred cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
 - [schmittnieto starred Mafifrizi/ARES](https://github.com/Mafifrizi/ARES)
 - [schmittnieto starred token2/fido2_bulkenroll_entraid](https://github.com/token2/fido2_bulkenroll_entraid)
 - [schmittnieto starred blader/humanizer](https://github.com/blader/humanizer)
