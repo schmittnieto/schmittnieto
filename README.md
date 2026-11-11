@@ -53,22 +53,11 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
-- [schmittnieto starred cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
-- [schmittnieto starred Mafifrizi/ARES](https://github.com/Mafifrizi/ARES)
-- [schmittnieto starred token2/fido2_bulkenroll_entraid](https://github.com/token2/fido2_bulkenroll_entraid)
-- [schmittnieto starred blader/humanizer](https://github.com/blader/humanizer)
-- [schmittnieto starred herdrdev/herdr](https://github.com/herdrdev/herdr)
-- [schmittnieto starred denislupookov/altersend](https://github.com/denislupookov/altersend)
-- [schmittnieto starred dickwu/apple-design-skill](https://github.com/dickwu/apple-design-skill)
-- [schmittnieto starred GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io)
-- [schmittnieto starred jflieben/VFS365](https://github.com/jflieben/VFS365)
-- [schmittnieto starred HermannBjorgvin/Clawdmeter](https://github.com/HermannBjorgvin/Clawdmeter)
-- [schmittnieto contributed to schmittnieto/awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/pull/38)
-- [schmittnieto contributed to schmittnieto/awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/pull/46)
-- [schmittnieto starred felipearborestrepo/-App-Security-Weekly-Digest](https://github.com/felipearborestrepo/-App-Security-Weekly-Digest)
-- [schmittnieto starred HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
-- [schmittnieto starred latent-spaces/brag](https://github.com/latent-spaces/brag)
-- [schmittnieto starred styler-ai/ProjectAtlas](https://github.com/styler-ai/ProjectAtlas)
-- [schmittnieto closed an issue in awesome-azure-local](https://github.com/schmittnieto/awesome-azure-local/issues/12)
+- [schmittnieto contributed to schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/pull/16)
+- [schmittnieto closed an issue in schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/issues/14)
+- [schmittnieto commented on an issue in schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/issues/14#issuecomment-6791282947)
+- [schmittnieto starred rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+- [schmittnieto starred ishandutta2007/Awesome-Remote-Monitoring-n-Management](https://github.com/ishandutta2007/Awesome-Remote-Monitoring-n-Management)
+- [schmittnieto closed an issue in awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/issues/10)
 <!-- LATESTACTIVITYGITHUB:END -->
 
