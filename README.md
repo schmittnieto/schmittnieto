@@ -53,11 +53,14 @@
 # 🐦‍🔥 Latest GitHub activities
 
 <!-- LATESTACTIVITYGITHUB:START -->
+- [schmittnieto deleted](https://github.com/schmittnieto/schmittnieto.github.io/compare/0c16fe2249...0000000000)
 - [schmittnieto contributed to schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/pull/16)
 - [schmittnieto closed an issue in schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/issues/14)
 - [schmittnieto commented on an issue in schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/issues/14#issuecomment-6791282947)
 - [schmittnieto starred rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 - [schmittnieto starred ishandutta2007/Awesome-Remote-Monitoring-n-Management](https://github.com/ishandutta2007/Awesome-Remote-Monitoring-n-Management)
 - [schmittnieto closed an issue in awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/issues/10)
+- [schmittnieto created a branch](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/0000000000...4e797779a4)
+- [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/2fb2c7caea...2a42d64107)
 <!-- LATESTACTIVITYGITHUB:END -->
 
