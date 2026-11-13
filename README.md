@@ -54,7 +54,8 @@
 
 <!-- LATESTACTIVITYGITHUB:START -->
 - [schmittnieto starred jonasatgit/scriptrepo](https://github.com/jonasatgit/scriptrepo)
-- [schmittnieto deleted](https://github.com/schmittnieto/schmittnieto.github.io/compare/0c16fe2249...0000000000)
+- [schmittnieto deleted](https://github.com/schmittnieto/schmittnieto.github.io/compare/530cce9fa4...0000000000)
+- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/483562270d...b41c676f18)
 - [schmittnieto contributed to schmittnieto/schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/pull/16)
 - [schmittnieto closed an issue in schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/issues/14)
 - [schmittnieto commented on an issue in schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/issues/14#issuecomment-6791282947)
@@ -62,7 +63,6 @@
 - [schmittnieto starred ishandutta2007/Awesome-Remote-Monitoring-n-Management](https://github.com/ishandutta2007/Awesome-Remote-Monitoring-n-Management)
 - [schmittnieto closed an issue in awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/issues/10)
 - [schmittnieto pushed awesome-azure-virtual-desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/49d463bc50...5f648809e2)
-- [schmittnieto pushed schmittnieto.github.io](https://github.com/schmittnieto/schmittnieto.github.io/compare/518e63f64d...fff8287acb)
 - [schmittnieto created a branch](https://github.com/schmittnieto/awesome-azure-virtual-desktop/compare/0000000000...2fb2c7caea)
 <!-- LATESTACTIVITYGITHUB:END -->
 
